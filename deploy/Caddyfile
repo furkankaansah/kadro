@@ -1,0 +1,9 @@
+# Caddy ters vekil: HTTPS sertifikasını otomatik alır. Docker Compose ile DOMAIN ortam değişkeni verilir.
+# Elle kurulumda {$DOMAIN} yerine alan adını yaz, upstream'i 127.0.0.1:3000 yap.
+{$DOMAIN} {
+	encode zstd gzip
+	reverse_proxy kadro:8080 {
+		# Canlı mesaj akışı (SSE) tamponlanmasın
+		flush_interval -1
+	}
+}

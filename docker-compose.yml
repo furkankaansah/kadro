@@ -1,0 +1,38 @@
+# Tek komutla kendi sunucunda (VPS) yayın: Kadro + Caddy (HTTPS sertifikasını kendisi alır ve yeniler).
+# Kullanım:  cp .env.example .env   (içini doldur: DOMAIN, PUBLIC_URL, RESEND_API_KEY, ...)   sonra:  docker compose up -d --build
+services:
+  kadro:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      NODE_ENV: production
+      PORT: "8080"
+      DATA_DIR: /data
+      COOKIE_SECURE: "1"
+      TRUST_PROXY: "1"
+    volumes:
+      - kadro-data:/data
+    expose:
+      - "8080"
+
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    depends_on:
+      - kadro
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    environment:
+      DOMAIN: "${DOMAIN:?DOMAIN ayarli degil - .env dosyasina DOMAIN=kadro.ornek.com yaz}"
+    volumes:
+      - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+      - caddy-config:/config
+
+volumes:
+  kadro-data:
+  caddy-data:
+  caddy-config:

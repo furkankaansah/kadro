@@ -1,0 +1,9 @@
+data
+node_modules
+.env
+.git
+test
+*.md
+baslat.bat
+baslat.command
+deploy

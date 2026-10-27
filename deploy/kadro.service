@@ -1,0 +1,30 @@
+# systemd servisi (Docker kullanmadan, Linux sunucuda).
+# Kurulum:  sudo cp deploy/kadro.service /etc/systemd/system/  ->  değerleri düzenle  ->  sudo systemctl enable --now kadro
+[Unit]
+Description=Kadro
+After=network.target
+
+[Service]
+Type=simple
+User=kadro
+WorkingDirectory=/opt/kadro
+ExecStart=/usr/bin/node --disable-warning=ExperimentalWarning server/index.js
+Restart=on-failure
+RestartSec=3
+Environment=NODE_ENV=production
+Environment=PORT=3000
+Environment=HOST=127.0.0.1
+Environment=DATA_DIR=/var/lib/kadro
+Environment=COOKIE_SECURE=1
+Environment=TRUST_PROXY=1
+# Gizli değerleri ayrı dosyada tut (chmod 600): KADRO_SECRET, RESEND_API_KEY, MAIL_FROM, PUBLIC_URL, ADMIN_USERNAMES, CONTACT_EMAIL, OPERATOR_NAME
+EnvironmentFile=/etc/kadro.env
+# Sertleştirme
+NoNewPrivileges=true
+ProtectSystem=full
+ProtectHome=true
+PrivateTmp=true
+ReadWritePaths=/var/lib/kadro
+
+[Install]
+WantedBy=multi-user.target

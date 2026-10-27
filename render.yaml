@@ -1,0 +1,39 @@
+# Render.com için "Blueprint". Render panelinde: New > Blueprint > bu depoyu seç.
+# Kalıcı disk (SQLite verisi için şart) ücretli plan ister: Free planda disk yoktur ve servis uyur, bu yüzden `starter`.
+# Yaklaşık maliyet (Ekim 2026): Starter ≈ 7 $/ay + disk ≈ 0,25 $/GB/ay. Güncel fiyatı Render'ın fiyat sayfasından teyit et.
+# ÖNEMLİ: Kadro tek süreç olarak çalışır; "instances" sayısını 1'den fazla yapma (canlı bağlantılar bellekte tutulur).
+services:
+  - type: web
+    name: kadro
+    runtime: docker
+    plan: starter
+    numInstances: 1
+    healthCheckPath: /healthz
+    disk:
+      name: kadro-data
+      mountPath: /data
+      sizeGB: 1
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATA_DIR
+        value: /data
+      - key: COOKIE_SECURE
+        value: "1"
+      - key: TRUST_PROXY
+        value: "1"
+      - key: KADRO_SECRET
+        generateValue: true
+      # Aşağıdakileri Render panelinde kendin doldur:
+      - key: PUBLIC_URL        # https://kadro.ornek.com
+        sync: false
+      - key: RESEND_API_KEY    # re_...
+        sync: false
+      - key: MAIL_FROM         # Kadro <noreply@kadro.ornek.com>
+        sync: false
+      - key: ADMIN_USERNAMES   # yönetici kullanıcı adın (virgülle birden fazla)
+        sync: false
+      - key: CONTACT_EMAIL     # yasal sayfalarda görünecek iletişim adresi
+        sync: false
+      - key: OPERATOR_NAME     # sitenin işleticisi: adın/soyadın ya da şirket unvanı
+        sync: false
