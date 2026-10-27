@@ -1,5 +1,8 @@
 'use strict';
 
+// Doğrudan başlatıldığında (npm start / baslat.bat) proje klasöründeki .env dosyasını oku. Testlerde ve içe aktarmada çalışmaz.
+if (require.main === module) require('./env').load();
+
 const http = require('node:http');
 const fs = require('node:fs');
 const path = require('node:path');
@@ -75,11 +78,22 @@ function clientIp(req) {
 
 // ---------- API ----------
 
+// Sitenin kendi adresi (PUBLIC_URL) ayarlıysa, bazı vekiller (Tailscale Funnel gibi) Host başlığını yerel adrese çevirse bile
+// tarayıcının gönderdiği Origin bu adresle eşleşiyorsa istek geçerlidir. Yabancı siteler yine reddedilir.
+const PUBLIC_HOST = (() => {
+  try {
+    return process.env.PUBLIC_URL ? new URL(process.env.PUBLIC_URL).host : '';
+  } catch {
+    return '';
+  }
+})();
+
 function sameOrigin(req) {
   const origin = req.headers.origin;
   if (!origin) return true; // aynı origin'den gelen bazı istekler Origin göndermez
   try {
-    return new URL(origin).host === req.headers.host;
+    const host = new URL(origin).host;
+    return host === req.headers.host || (!!PUBLIC_HOST && host === PUBLIC_HOST);
   } catch {
     return false;
   }

@@ -177,6 +177,17 @@ docker compose up -d --build
 
 > **Not:** Bu depodaki Dockerfile/compose/render/systemd dosyaları, hazırlandığı ortamda Docker çalıştırılamadığı için **ilk kez senin sunucunda denenecek**. Mantıkları standarttır ama ilk dağıtımda küçük bir düzeltme gerekirse şaşırma; sorun olursa hata mesajını bana yapıştır.
 
+### 4b) Seçenek D: kendi Windows bilgisayarın + Tailscale Funnel (kartsız, ücretsiz, deneme için)
+
+Sunucu kiralamadan siteyi kendi bilgisayarından herkese açabilirsin. **Site yalnızca bilgisayar açık, uyku modunda değil ve pencere açıkken erişilebilir.** [Tailscale Funnel](https://tailscale.com/kb/1223/funnel) hâlâ beta; trafik sınırı var (rakamı yayımlanmıyor) ve adres `…ts.net` ile biter. Deneme ve küçük topluluk için uygundur; kesintisiz yayın için sunucu (Seçenek A/B) kullan.
+
+1. [Node.js 22.13+](https://nodejs.org) ve [Tailscale](https://tailscale.com/download) kur; Tailscale'e giriş yap (ücretsiz hesap).
+2. Tailscale yönetim sayfasında (login.tailscale.com) **DNS** bölümünde **MagicDNS** ve **HTTPS Certificates** açık olmalı. Funnel ilk çalıştığında gerekirse sana bir bağlantı verir, orada **Enable** de.
+3. **`yayin-baslat.bat`** dosyasına çift tıkla. İlk seferde işletici adı, iletişim e-postası, yönetici kullanıcı adı ve Gmail uygulama şifresi sorulur; sonra `.env` yazılır, `tailscale funnel --bg 3000` çalışır ve site başlar. Pencerede sitenin `https://…ts.net` adresi görünür.
+4. Başka sistemlerde (Mac/Linux): `node scripts/setup-env.js`, `tailscale funnel --bg 3000`, `npm start`.
+
+Notlar: sunucu `.env` dosyasını kendisi okur (`server/env.js`; sistem değişkeni her zaman önceliklidir). `HOST=127.0.0.1` olduğu için site yalnızca Tailscale üzerinden dışarı açılır. Bir vekil arkasında herkes aynı IP gibi görünürse "çok fazla deneme" hatası görürsen `.env`'e `RATE_LIMIT_SCALE=5` ekle. Veriler proje klasöründeki `data/` içindedir; bu klasörü düzenli kopyala.
+
 ### 5) Yayın öncesi kontrol listesi
 
 Açılışta (`NODE_ENV=production` iken) sunucu eksik ayarları kırmızı uyarı olarak listeler. Hepsi temizlenmeli:

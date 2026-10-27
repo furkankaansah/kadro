@@ -8,7 +8,7 @@
     "start": "node --disable-warning=ExperimentalWarning server/index.js",
     "dev": "node --watch --disable-warning=ExperimentalWarning server/index.js",
     "seed": "node --disable-warning=ExperimentalWarning scripts/seed-demo.js",
-    "test": "node --disable-warning=ExperimentalWarning test/smoke.js && node --disable-warning=ExperimentalWarning test/smtp.js",
+    "test": "node --disable-warning=ExperimentalWarning test/smoke.js && node --disable-warning=ExperimentalWarning test/smtp.js && node test/env.js && node --disable-warning=ExperimentalWarning test/origin.js",
     "check:live": "node scripts/check-live.mjs",
     "secret": "node -e \"console.log(require('crypto').randomBytes(32).toString('hex'))\""
   },
