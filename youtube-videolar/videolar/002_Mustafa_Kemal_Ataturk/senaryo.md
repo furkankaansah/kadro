@@ -1,0 +1,127 @@
+# Mustafa Kemal Atatürk'ün Hayatı: Selanik'ten Cumhuriyete Bir Destan | Belgesel
+
+## Giriş
+
+1920 yılının mayıs ayında, İstanbul'daki bir askerî mahkeme, Anadolu'da direniş örgütleyen bir paşayı gıyabında idama mahkûm etti. Karar gazetelerde yayımlandı. O paşanın elinde ne düzenli bir ordu vardı, ne para, ne de silah. Ülkesi işgal altındaydı.
+
+Sadece üç yıl sonra, aynı adam yeni bir devletin kurucusu ve ilk cumhurbaşkanı oldu. On beş yıl içinde alfabeden kılık kıyafete, hukuktan kadın haklarına kadar bir toplumun neredeyse her alanını değiştirdi.
+
+Bu, Selanik'te bir gümrük memurunun oğlu olarak doğan Mustafa'nın, Mustafa Kemal Atatürk'e dönüşmesinin hikâyesi.
+
+## [0:47] Selanik'te Bir Çocuk
+
+Mustafa, 1881 yılında, o zaman Osmanlı İmparatorluğu'nun en canlı liman şehirlerinden biri olan Selanik'te doğdu. Doğduğu günün kesin tarihi bilinmiyor. Yıllar sonra, Kurtuluş Savaşı'nın başladığı gün olan 19 Mayıs'ı kendi doğum günü olarak kabul edecekti.
+
+Babası Ali Rıza Efendi bir süre gümrük memurluğu yapmış, ardından kereste ticaretine atılmıştı. Annesi Zübeyde Hanım ise oğlunun dinî bir eğitim almasını istiyordu. Bu yüzden Mustafa önce mahalle mektebine başladı, ama babasının isteğiyle kısa süre sonra modern eğitim veren Şemsi Efendi Okulu'na geçti.
+
+Mustafa henüz yedi yaşlarındayken babası öldü. Aile maddi sıkıntıya düştü ve bir süre Selanik yakınlarındaki bir çiftlikte, dayısının yanında yaşadı. Annesi Zübeyde Hanım ve kız kardeşi Makbule, hayatı boyunca ona en yakın insanlar olarak kalacaktı.
+
+## [1:46] Kemal Adının Doğuşu
+
+Mustafa, mahalledeki askerlerin üniformalarına hayrandı. Annesine danışmadan Selanik Askerî Rüştiyesi'nin sınavına girdi ve kazandı. Burada matematik derslerinde öyle başarılı oldu ki, aynı adı taşıyan matematik öğretmeninin ona "Kemal" adını verdiği anlatılır. Kemal, olgunluk ve mükemmellik demekti.
+
+Ardından Manastır Askerî İdadisi'ne geçti. Burada tarih ve edebiyata ilgi duydu, Fransız Devrimi'nin fikirlerini ve Namık Kemal'in hürriyet şiirlerini okudu. 1899'da İstanbul'daki Harp Okulu'na girdi, 1902'de teğmen olarak mezun oldu. 1905'te ise Harp Akademisi'ni bitirerek kurmay yüzbaşı oldu.
+
+Okul yıllarında arkadaşlarıyla imparatorluğun geleceğini tartışıyor, gizli gazeteler çıkarıyordu. Mezuniyetinin hemen ardından kısa bir süre tutuklandı ve bir tür sürgün olarak Şam'a gönderildi. Orada da boş durmadı: Arkadaşlarıyla birlikte "Vatan ve Hürriyet" adlı gizli bir cemiyet kurdu.
+
+## [2:53] Çöl ve Balkanlar
+
+1911'de İtalya, Osmanlı'ya ait Trablusgarp'a, yani bugünkü Libya'ya saldırdı. Mustafa Kemal, gizlice Mısır üzerinden bölgeye geçti ve Tobruk ile Derne'de yerel halkla birlikte İtalyanlara karşı savaştı. Bu çöl savaşı, ona düzenli ordu olmadan, halkın gücüyle nasıl direnilebileceğini öğretti.
+
+Ancak 1912'de Balkan Savaşları patlak verdi. Osmanlı, Balkanlar'daki topraklarının büyük bölümünü kaybetti. Mustafa Kemal'in doğup büyüdüğü şehir Selanik de artık Osmanlı'nın değildi. Annesi ve kız kardeşi göçmen olarak İstanbul'a geldi.
+
+Savaşların ardından Mustafa Kemal, askerî ataşe olarak Sofya'ya gönderildi. Orada Avrupa'nın siyasetini, kültürünü ve modern devlet anlayışını yakından gözlemledi.
+
+## [3:48] Çanakkale: Ölmeyi Emrediyorum
+
+1914'te Birinci Dünya Savaşı başladı. 25 Nisan 1915'te İtilaf devletlerinin askerleri Gelibolu Yarımadası'na çıkarma yaptı. O sabah Yarbay Mustafa Kemal, 19. Tümen'in komutanıydı ve Arıburnu'na çıkan düşman kuvvetlerinin Conkbayırı tepelerine doğru ilerlediğini gördü.
+
+Mühimmatı biten askerlerine süngü taktırıp yere yatmalarını emretti. Kendi anlatımına göre o gün askerlerine şöyle dedi: "Ben size taarruzu emretmiyorum, ölmeyi emrediyorum. Biz ölünceye kadar geçecek zaman zarfında yerimize başka kuvvetler ve başka kumandanlar gelebilir."
+
+Ağustos 1915'teki Anafartalar muharebelerinde Mustafa Kemal yine cephenin tam ortasındaydı. Anlatılana göre bir şarapnel parçası göğsüne isabet etti, ama cebindeki saate çarparak onu ölümden kurtardı.
+
+Çanakkale'de iki taraftan da yüz binlerce asker hayatını kaybetti ya da yaralandı. Sonunda İtilaf kuvvetleri yarımadadan çekilmek zorunda kaldı. Bu savaş, otuz dört yaşındaki Mustafa Kemal'in adını ilk kez tüm ülkeye duyurdu. Ertesi yıl paşalığa yükseldi ve Doğu Cephesi'nde Muş ile Bitlis'i geri aldı.
+
+## [5:06] Samsun'a Giden Yol
+
+30 Ekim 1918'de Mondros Ateşkesi imzalandı. Osmanlı, savaşı kaybetmişti. İtilaf donanması İstanbul'a demir attı; Anadolu'nun birçok bölgesi işgal edilmeye başlandı. 15 Mayıs 1919'da Yunan ordusu İzmir'e çıktı.
+
+Dört gün sonra, 19 Mayıs 1919'da, Mustafa Kemal Paşa, Bandırma vapuruyla Samsun'a ayak bastı. Resmî görevi 9. Ordu Müfettişliği'ydi, ama asıl amacı milleti bağımsızlık için örgütlemekti.
+
+Haziran'da Amasya'da yayımlanan genelgede, "Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır" denildi. İstanbul hükümeti onu geri çağırınca, Mustafa Kemal ordudaki görevinden istifa etti ve yoluna sivil olarak devam etti. Ardından Erzurum ve Sivas kongreleri toplandı. Bu kongrelerde, vatanın bölünmez bir bütün olduğu ve manda ile himayenin kabul edilmeyeceği ilan edildi. Aralık 1919'da Mustafa Kemal, Heyet-i Temsiliye ile birlikte Ankara'ya geldi.
+
+## [6:15] Ankara'da Bir Meclis, İstanbul'da Bir İdam Kararı
+
+16 Mart 1920'de İstanbul resmen işgal edildi ve Osmanlı Meclis-i Mebusanı dağıtıldı. Mustafa Kemal hemen harekete geçti. 23 Nisan 1920'de, Ankara'da Türkiye Büyük Millet Meclisi açıldı. Mustafa Kemal meclisin başkanı seçildi.
+
+İstanbul hükümeti ise bu hareketi bir isyan olarak görüyordu. Mayıs 1920'de kurulan bir divan-ı harp, Mustafa Kemal'i ve arkadaşlarını gıyabında idama mahkûm etti. Ağustos 1920'de imzalanan Sevr Antlaşması ise Anadolu'yu paylaştırmayı öngörüyordu. Türk milleti için geriye tek bir yol kalmıştı: savaşmak.
+
+## [6:59] Sakarya: Satıh Müdafaası
+
+Yeni kurulan düzenli ordu, 1921'de İnönü'de iki kez Yunan ilerleyişini durdurdu. Ancak yaz aylarında Yunan ordusu büyük bir saldırıyla Eskişehir ve Kütahya'yı aldı ve Ankara'ya yaklaştı. Meclis, Mustafa Kemal'e Başkomutanlık yetkisi verdi.
+
+Mustafa Kemal, Tekâlif-i Milliye emirleriyle halktan ordu için yiyecek, giyecek ve taşıt istedi. Anadolu'nun köylü kadınları, kağnılarla cepheye cephane taşıdı.
+
+23 Ağustos 1921'de Sakarya Meydan Muharebesi başladı ve yirmi iki gün sürdü. Mustafa Kemal'in emri netti: "Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh, bütün vatandır." 13 Eylül'de Yunan ordusu geri çekildi. Meclis, Mustafa Kemal'e Mareşal rütbesi ve Gazi unvanını verdi.
+
+## [7:55] Ordular, İlk Hedefiniz Akdeniz'dir
+
+Bir yıl boyunca ordu gizlice hazırlandı. 26 Ağustos 1922 sabahı, Mustafa Kemal Afyon yakınlarındaki Kocatepe'den Büyük Taarruz'u başlattı. 30 Ağustos'ta Dumlupınar yakınlarında yapılan Başkomutan Meydan Muharebesi'nde düşman ordusunun büyük bölümü kuşatıldı.
+
+1 Eylül'de Mustafa Kemal ünlü emrini verdi: "Ordular, ilk hedefiniz Akdeniz'dir. İleri!" 9 Eylül 1922'de Türk süvarileri İzmir'e girdi. Ekim ayında imzalanan Mudanya Ateşkesi ile silahlar sustu.
+
+1 Kasım 1922'de Meclis, saltanatı kaldırdı. Altı yüz yılı aşkın Osmanlı saltanatı sona ermişti.
+
+## [8:41] Cumhuriyet ve Bir Annenin Ölümü
+
+1923, hem zaferin hem de acının yılıydı. Ocak ayında annesi Zübeyde Hanım İzmir'de hayatını kaybetti. Mustafa Kemal o sırada Batı Anadolu'da bir gezideydi ve annesinin cenazesinde bulunamadı. Aynı ay, İzmirli Latife Hanım ile evlendi. Bu evlilik iki buçuk yıl sürecek ve boşanmayla sonuçlanacaktı.
+
+24 Temmuz 1923'te imzalanan Lozan Barış Antlaşması ile yeni Türk devletinin bağımsızlığı uluslararası alanda tanındı. 13 Ekim'de Ankara başkent oldu. Ve 29 Ekim 1923'te Cumhuriyet ilan edildi. Mustafa Kemal oy birliğiyle ilk cumhurbaşkanı seçildi.
+
+Selanik'teki o çocuk, artık yeni bir devletin kurucusuydu.
+
+## [9:32] Bir Toplumun Yeniden İnşası
+
+Sonraki yıllarda Türkiye, tarihin en hızlı dönüşümlerinden birini yaşadı. 3 Mart 1924'te halifelik kaldırıldı ve eğitim tek çatı altında birleştirildi. 1925'te Kastamonu'da şapka giyerek halkın karşısına çıktı ve kılık kıyafette yenilik başladı. 1926'da kabul edilen Medeni Kanun ile çok eşlilik yasaklandı, kadın ve erkeğe miras ve boşanmada eşit haklar tanındı.
+
+Ekim 1927'de Mustafa Kemal, Meclis'te tam altı gün süren ve yaklaşık otuz altı saat okunan Nutuk'u okudu. Kurtuluş Savaşı'nı kendi gözünden anlattı ve konuşmasını Türk gençliğine seslendiği hitabeyle bitirdi.
+
+1928'de ise belki de en cesur devrim geldi: Latin harflerine dayanan yeni Türk alfabesi kabul edildi. Mustafa Kemal elinde tebeşir, kara tahta başına geçti ve şehir şehir dolaşarak halka yeni harfleri bizzat öğretti. Bu yüzden ona "Başöğretmen" denildi.
+
+## [10:35] Kadınlar, Soyadı ve Yurtta Sulh
+
+Kadınlar, 1930'da belediye seçimlerinde, 1934'te ise milletvekili seçimlerinde seçme ve seçilme hakkı kazandı. Bu tarih, birçok Avrupa ülkesinden daha erkendi. 1935 seçimlerinde Meclis'e on yedi kadın milletvekili seçildi.
+
+1934'te Soyadı Kanunu çıkarıldı ve Meclis, Mustafa Kemal'e "Atatürk" soyadını verdi. Kendi öz çocuğu olmayan Atatürk, birçok çocuğu evlat edinmiş, onların eğitimiyle bizzat ilgilenmişti. Manevi kızlarından Sabiha Gökçen, dünyanın ilk kadın savaş pilotlarından biri oldu.
+
+Dış politikadaki ilkesi ise tek cümleydi: "Yurtta sulh, cihanda sulh." Atatürk, bilimin önemini de sık sık vurguladı: "Hayatta en hakiki mürşit ilimdir."
+
+## [11:27] Dolmabahçe'de Duran Saatler
+
+1937'nin sonlarına doğru Atatürk'ün sağlığı bozulmaya başladı. 1938'in başında doktorlar ona karaciğer sirozu teşhisi koydu. Hastalığı ilerlemesine rağmen çalışmayı bırakmadı; 1938 baharında Hatay meselesiyle bizzat ilgilendi ve hasta haliyle güneye bir yolculuk yaptı.
+
+Son aylarını İstanbul'da, Dolmabahçe Sarayı'nda geçirdi. 10 Kasım 1938 sabahı, saat dokuzu beş geçe, elli yedi yaşında hayata gözlerini yumdu. Bugün Dolmabahçe'de, hayatını kaybettiği odadaki saat, dokuzu beş geçeyi göstermektedir.
+
+## [12:08] Ebediyete Uğurlanış
+
+Atatürk'ün ölüm haberi ülkeyi yasa boğdu. Yüz binlerce insan, Dolmabahçe'deki katafalkın önünden geçmek için gece gündüz kuyrukta bekledi. Naaşı, bir savaş gemisi ve ardından özel bir trenle Ankara'ya götürüldü. Trenin geçtiği her istasyonda halk saatlerce bekleyip ağladı.
+
+Ankara'daki törenin ardından naaşı geçici olarak Etnografya Müzesi'ne konuldu. On beş yıl sonra, 10 Kasım 1953'te, Anıtkabir'deki ebedi istirahatgâhına taşındı.
+
+Bugün her yıl 10 Kasım'da saat dokuzu beş geçe, Türkiye'nin dört bir yanında hayat durur, sirenler çalar ve milyonlarca insan saygı duruşunda bulunur. Selanik'te doğan o çocuğun hikâyesi, bir milletin hikâyesine dönüştü.
+
+Ona ait olduğu kabul edilen en bilinen sözlerden biriyle: "Benim naçiz vücudum elbet bir gün toprak olacaktır, fakat Türkiye Cumhuriyeti ilelebet payidar kalacaktır."
+
+## Fragman
+
+Mayıs 1920. İstanbul'daki bir mahkeme, onu idama mahkûm etti.
+
+Selanik'te doğdu. Daha çocukken babasını kaybetti. Çanakkale'de askerlerine, "Ben size taarruzu emretmiyorum, ölmeyi emrediyorum" dedi. Ülkesi işgal edildiğinde, bir vapura binip Samsun'a çıktı.
+
+Elinde ne ordu vardı, ne para. Sadece inancı.
+
+Sakarya'da, Kocatepe'de, Dumlupınar'da imkânsızı başardı. Sonra bir cumhuriyet kurdu, bir alfabeyi değiştirdi, kadınlara seçme ve seçilme hakkı verdi.
+
+Ve 10 Kasım 1938 sabahı, saat dokuzu beş geçe, saatler durdu.
+
+Mustafa Kemal Atatürk'ün hayat hikâyesi. Tamamı kanalımızda.

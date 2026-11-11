@@ -1,0 +1,126 @@
+@ad: Mimar Sinan
+@klasor: 004_Mimar_Sinan
+@yillar: y. 1490 – 1588
+@alt_baslik: Devşirme bir çocuktan, dünyanın en büyük mimarlarından birine
+@baslik: Mimar Sinan'ın Hayatı: Yüz Yıla Yakın Ömür, Yüzlerce Eser | Belgesel
+@fragman_baslik: Mimar Sinan: Taşa Ruh Veren Usta | Fragman
+@kapak_yazi: 80 YAŞINDA | ŞAHESERİNİ YAPTI
+@kapak_gorsel: Edirne Selimiye Mosque Exterior South side 037.jpg
+@giris_gorseller: Mezquita de Solimán, Estambul, Turquía, 2024-09-28, DD 147-149 HDR.jpg; Interior of dome, Selimiye Mosque, Edirne - Tarik Kaan Muslu.jpg; Lokman 1579 detail showing Sinan.jpg
+@fragman_gorseller: Ağırnas Mimar Sinan Evi.jpg; Janissary Recruitment in the Balkans-Suleymanname.jpg; Suleiman the Magnificent of the Ottoman Empire.jpg; Şehzade Camii, İstanbul.jpg; Mezquita de Solimán, Estambul, Turquía, 2024-09-28, DD 147-149 HDR.jpg; Istanbul Suleymaniye Mosque Interior Main dome 2015 1296.jpg; Mehmed Paša Sokolović Bridge, Višegrad.JPG; Edirne Selimiye Mosque Exterior South side 037.jpg; Interior of dome, Selimiye Mosque, Edirne - Tarik Kaan Muslu.jpg; Mimar Sinan tomb February 2013.jpg
+@son_soz: Taş geçer, zaman geçer; ama ustanın eseri kalır.
+@giris:
+Sabah ezanı vakti, İstanbul'un tarihi yarımadasına baktığınızda, siluetin en tepesinde dev bir kubbe ve onu çevreleyen dört ince minare görürsünüz. Süleymaniye. Dört yüz yılı aşkın süredir depremlere, yangınlara ve savaşlara rağmen ayakta duran bir yapı.
+
+Onu tasarlayan adam, Anadolu'nun bir köyünde doğmuş, devşirme olarak saraya alınmış, yıllarca bir asker olarak savaş meydanlarında dolaşmıştı. Mimarbaşı olduğunda yaklaşık elli yaşındaydı. Ve sonraki yaklaşık elli yıl boyunca üç padişaha hizmet ederek, kendi listelerine göre üç yüzü aşkın yapıya imza attı. En büyük eserini ise seksenli yaşlarında tamamladı.
+
+Bu, Mimar Sinan'ın hikâyesi.
+
+=== Ağırnas'tan Gelen Çocuk
+# gorsel: Ağırnas Mimar Sinan Evi.jpg; Ağırnas Mimar Sinan Evi Odalarından Bir Görünüş.jpg; Ağırnas Mimar Sinan Evi ve Çavresi Maketi.jpg
+Sinan'ın doğum yılı kesin olarak bilinmiyor. Tarihçilerin çoğu, onun 1490 yılı civarında, Kayseri yakınlarındaki Ağırnas köyünde doğduğunu kabul ediyor. Hristiyan bir aileden geldiği biliniyor; ama kökeninin Rum mu, Ermeni mi olduğu tarihçiler arasında hâlâ tartışılıyor.
+
+Sinan'ın çocukluğuna dair bilgilerimiz çok sınırlı. Bildiğimiz şu: Yavuz Sultan Selim döneminde, yaklaşık 1512 yılında, devşirme sistemiyle köyünden alınarak İstanbul'a getirildi. Bugün Ağırnas'ta, onun doğduğu ev olduğu kabul edilen taş yapı, bir müze ev olarak ziyaretçilerini bekliyor.
+
+=== Devşirme: Bir Hayatın Yeniden Başlaması
+# gorsel: Janissary Recruitment in the Balkans-Suleymanname.jpg; Devshirme.jpg
+Devşirme, Osmanlı'nın Hristiyan tebaa arasından seçtiği erkek çocukları saraya ve orduya kazandırdığı bir sistemdi. Bu çocuklar Müslüman olarak yetiştirilir, Türkçe öğrenir ve sert bir eğitimden geçirilirdi. En yetenekliler sarayda, diğerleri ordu saflarında görev alırdı.
+
+Sinan, Acemi Oğlanlar Ocağı'nda eğitim gördü ve burada marangozluk öğrendi. Ahşapla çalışmak, ona malzemenin dilini, yükün nasıl taşındığını ve yapının nasıl ayakta durduğunu sezgisel olarak kavramayı öğretti. Belgelerde onun adı, din değiştirenlere verilen yaygın bir baba adı olan "Abdülmennan oğlu Sinan" olarak geçer.
+
+=== Savaş Meydanlarında Bir Mühendis
+# gorsel: Suleiman the Magnificent of the Ottoman Empire.jpg; Mimar Sinan, architecte de Soliman le Magnifique.jpg
+Eğitimini tamamlayan Sinan, yeniçeri olarak orduya katıldı. Kanuni Sultan Süleyman'ın Belgrad, Rodos ve Mohaç seferlerinde bulundu. Ama onun asıl değeri, kılıcından çok aklındaydı.
+
+Seferler, ona Avrupa'dan İran'a kadar uzanan geniş bir coğrafyadaki yapıları görme fırsatı verdi. Kiliseleri, köprüleri, kaleleri inceledi. Bağdat seferi sırasında Van Gölü'nü geçmek için gemiler inşa ettiği anlatılır. 1538'deki Karaboğdan seferinde ise ordunun Prut Nehri'ni geçebilmesi için kısa sürede bir köprü kurdu. Bu başarı, onu padişahın gözünde ayrı bir yere taşıdı.
+
+Aynı yıllarda, saray mimarbaşısı Acem Ali vefat etti. Sinan, yaklaşık 1539'da Hassa Mimarbaşı, yani imparatorluğun baş mimarı olarak atandı. Yaklaşık elli yaşındaydı. Ve hayatının asıl hikâyesi, ancak şimdi başlıyordu.
+
+=== Çıraklık Eseri: Şehzade Camii
+# gorsel: Şehzade Camii, İstanbul.jpg; 1853 illustration of the Şehzade Mosque in Istanbul.png
+1543 yılında Kanuni Sultan Süleyman, çok sevdiği oğlu Şehzade Mehmed'i genç yaşta kaybetti. Acılı padişah, oğlunun anısına bir cami yaptırmak istedi ve bu görevi Sinan'a verdi.
+
+1548'de tamamlanan Şehzade Camii, merkezi bir kubbenin dört yarım kubbeyle desteklendiği simetrik bir planla inşa edildi. Sinan'a atfedilen eser listelerini içeren tezkirelerde, bu yapı onun "çıraklık" eseri olarak anılır. Bir çıraklık eseri için bile olağanüstü bir başlangıçtı.
+
+=== Kalfalık Eseri: Süleymaniye
+# gorsel: Mezquita de Solimán, Estambul, Turquía, 2024-09-28, DD 147-149 HDR.jpg; Istanbul Suleymaniye Mosque Interior Main dome 2015 1296.jpg; Courtyard of the Süleymaniye Mosque in Istanbul, Turkey 002.jpg
+Ardından Kanuni, kendi adını taşıyacak bir külliye istedi. 1550'de temeli atılan ve 1557'de açılan Süleymaniye, yalnızca bir cami değildi. Medreseleri, darüşşifası yani hastanesi, aşevi, kütüphanesi, hamamı ve dükkânlarıyla bir şehir içinde küçük bir şehirdi.
+
+Sinan, caminin akustiğine ve aydınlatmasına özel önem verdi. Yüzlerce pencereden süzülen ışık, iç mekânda neredeyse süzülen bir kubbe hissi yaratır. Halk arasında anlatılan bir hikâyeye göre, kandillerden çıkan isin havalandırma yoluyla bir odada toplandığı ve bu isten mürekkep yapıldığı söylenir.
+
+Sinan bu yapıyı, kendi eserleri arasında "kalfalık" dönemine yerleştirdi. Süleymaniye, bugün İstanbul'un simgelerinden biri olarak UNESCO Dünya Mirası listesindeki tarihi alanlar arasında yer alıyor.
+
+=== Mimarbaşının Ağı: Köprüler, Su Kemerleri, Camiler
+# gorsel: Mehmed Paša Sokolović Bridge, Višegrad.JPG; BüyükçekmeceBridge (14).jpg; Mağlova kemeri.jpg; Rüstem Pasha mosque tiles 226.jpg
+Sinan'ın işi yalnızca cami yapmak değildi. Mimarbaşı olarak, imparatorluğun dört bir yanındaki yapı işlerinden sorumluydu. Camiler, medreseler, hamamlar, kervansaraylar, köprüler, su kemerleri ve saraylar onun ve ekibinin elinden çıktı.
+
+İstanbul'a su taşıyan Kırkçeşme su yolları için inşa ettiği Mağlova Kemeri, bugün bile bir mühendislik harikası olarak görülür. Büyükçekmece'deki uzun taş köprü de onun eserlerindendir. Bugünkü Bosna-Hersek'te, Vişegrad'daki Sokullu Mehmed Paşa Köprüsü de onun eseridir ve UNESCO Dünya Mirası listesindedir. Bu köprü, Nobel ödüllü yazar İvo Andriç'in ünlü "Drina Köprüsü" romanına da konu oldu.
+
+İstanbul'daki Rüstem Paşa Camii'nin duvarlarını kaplayan İznik çinileri ise, Osmanlı çini sanatının en göz alıcı örnekleri arasında gösterilir.
+
+=== Mihrimah: Bir Efsane
+# gorsel: İmparator Süleyman’ın Kızı Cameria (Mihrimah Sultan).jpg; Istanbul Mihrimah Sultan Mosque (Edirnekapı) view from surroundings in 2018 9272.jpg; Mihrimah Sultan Mosque (Edirnekapı) Interior.jpg
+Sinan, Kanuni'nin kızı Mihrimah Sultan için de iki cami inşa etti: Biri Üsküdar'da, diğeri Edirnekapı'da. Edirnekapı'daki cami, kubbesini taşıyan duvarlardaki çok sayıda pencere sayesinde ışıkla dolup taşar.
+
+Halk arasında yayılmış romantik bir efsaneye göre Sinan, Mihrimah Sultan'a gizlice âşıktı. Bu hikâyeye göre, belirli günlerde güneş bir caminin minaresinin ardında batarken, ay da diğerinin yanından doğarmış. Mihrimah'ın adı da "güneş ve ay" anlamına gelir. Ancak bu aşkı kanıtlayan hiçbir tarihi belge yoktur. Bu, Sinan'ın eserlerinin insanlarda uyandırdığı hayranlıktan doğmuş güzel bir efsanedir.
+
+=== Ustalık Eseri: Selimiye
+# gorsel: Edirne Selimiye Mosque Exterior South side 037.jpg; Interior of dome, Selimiye Mosque, Edirne - Tarik Kaan Muslu.jpg; Edirne Selimiye Mosque Exterior NW corner in 2017 3147.jpg
+Kanuni'nin ölümünden sonra tahta geçen oğlu İkinci Selim, Edirne'de bir cami yaptırmak istedi. Sinan bu sırada yaklaşık seksen yaşındaydı.
+
+Sinan, tezkiresinde, o dönem bazı mimarların Ayasofya kubbesi büyüklüğünde bir kubbenin Müslüman mimarlar tarafından yapılamayacağını iddia ettiğini, kendisinin de Selimiye'yi bu iddiayı boşa çıkarmak için yaptığını anlatır. Selimiye'nin kubbesi yaklaşık otuz bir metre çapındadır ve sekiz büyük ayak üzerinde yükselir. Dört ince minaresi, Osmanlı mimarisinin en yüksek minareleri arasındadır.
+
+Cami 1575 yılında tamamlandı. Sinan bu eseri, kendi deyişiyle "ustalık" eseri olarak gördü. Selimiye Camii ve Külliyesi, 2011'de UNESCO Dünya Mirası listesine alındı. Pek çok sanat tarihçisine göre, Osmanlı mimarisinin zirvesidir.
+
+=== Tezkireler: Kendi Hikâyesini Yazdıran Mimar
+# gorsel: Lokman 1579 detail showing Sinan.jpg; La signature de Sinan.jpg; Sinan sketchy drawing.jpg
+Sinan, hayatının sonlarına doğru, dostu şair Sâî Mustafa Çelebi'ye hatıralarını ve eserlerinin listesini anlattı. Bu metinler, Tezkiretü'l-Bünyan ve Tezkiretü'l-Ebniye gibi adlarla bilinir. Farklı nüshalarda sayılar değişse de, bu listelerde üç yüzü aşkın yapı yer alır.
+
+Bu, onun dönemi için çok nadir bir şeydi: Bir mimar, kendi hayat hikâyesini ve eserlerini kayda geçirtmişti. Sinan'ın gerçek bir portresi bugün elimizde yok. Ancak bazı araştırmacılar, 1579 tarihli bir minyatürde inşaat ekibinin başında görülen figürün Sinan olabileceğini düşünüyor.
+
+Sinan'ın yetiştirdiği mimarlar da Osmanlı mimarisini sonraki kuşaklara taşıdı. İstanbul'daki Sultanahmet Camii'nin mimarı Sedefkâr Mehmed Ağa, onun ekolünden gelen isimlerden biridir.
+
+=== Mütevazı Bir Türbe
+# gorsel: Mimar Sinan tomb February 2013.jpg; Mimar Sinan Türbesi.jpg; E7 10 000 TL arka yüz.jpg
+Mimar Sinan, 1588 yılında İstanbul'da hayata gözlerini yumdu. Doğum tarihi kesin olmadığı için yaşı da tam bilinmiyor; ama yaklaşık yüz yaşına yaklaştığı kabul ediliyor.
+
+Hayatı boyunca imparatorluğun en görkemli yapılarını tasarlayan bu usta, kendisi için son derece sade bir türbe yaptı. Bu türbe, Süleymaniye Külliyesi'nin bir köşesinde, en büyük eserlerinden birinin hemen yanında bulunur.
+
+Bugün Edirne'den Saraybosna'ya, Şam'dan Kudüs'e kadar uzanan geniş bir coğrafyada, Sinan'ın imzasını taşıyan ya da ona atfedilen yapılar hâlâ kullanılıyor. Türkiye'de bir üniversite ona adanmış; bir zamanlar on bin liralık banknotların arka yüzünde onun portresi yer alıyordu.
+
+Ve her sabah İstanbul'un siluetine baktığımızda, dört yüz yılı aşkın süredir, devşirme bir çocuğun hayallerini görüyoruz.
+
+@fragman:
+O, Anadolu'nun küçük bir köyünde doğdu. Henüz gençken ailesinden alındı ve saraya götürüldü.
+
+Yıllarca bir asker olarak savaştan savaşa koştu. Nehirlerin üzerine köprüler kurdu, göller için gemiler yaptı. İmparatorluğun baş mimarı olduğunda, yaklaşık elli yaşındaydı.
+
+Sonraki elli yılda üç padişaha hizmet etti. Camiler, köprüler, su kemerleri... Kendi listelerine göre üç yüzü aşkın yapı.
+
+Ve seksen yaşındayken, hayatının en büyük eserini yaptı: Selimiye.
+
+Peki, dünyanın en büyük mimarlarından biri, kendisi için neden bu kadar sade bir türbe yaptı?
+
+Mimar Sinan'ın hayat hikâyesi. Tamamı kanalımızda.
+
+@fragman_aciklama:
+Devşirme bir çocuktan imparatorluğun baş mimarına: Mimar Sinan. Şehzade, Süleymaniye ve seksen yaşında tamamladığı ustalık eseri Selimiye... Taşa ruh veren ustanın hayat hikâyesinin tamamı kanalımızda!
+
+#MimarSinan #Selimiye #Süleymaniye #Belgesel
+
+@aciklama:
+Mimar Sinan: Osmanlı İmparatorluğu'nun yaklaşık elli yıl boyunca baş mimarlığını yapan, Kanuni Sultan Süleyman, II. Selim ve III. Murad dönemlerinde yüzlerce yapıya imza atan dünya mimarlık tarihinin en büyük isimlerinden biri.
+
+Bu belgeselde Ağırnas'taki çocukluğundan devşirme olarak saraya alınmasına, seferlerdeki mühendislik başarılarından Şehzade, Süleymaniye ve Selimiye'ye, Mihrimah Sultan efsanesinden Süleymaniye'deki sade türbesine kadar bütün hayatını anlatıyoruz.
+
+Not: Sinan'ın doğum yılı ve kökeni kesin olarak bilinmemektedir; videoda tartışmalı konular ve efsaneler (örneğin Mihrimah Sultan hikâyesi) bu şekilde belirtilmiştir.
+
+👍 Videoyu beğendiyseniz beğenmeyi, abone olmayı ve bildirimleri açmayı unutmayın. Bir sonraki hayat hikâyesini yorumlara yazın!
+@kaynaklar:
+- Sâî Mustafa Çelebi, "Tezkiretü'l-Bünyan" ve "Tezkiretü'l-Ebniye" (Sinan'ın hatıraları ve eser listeleri)
+- Gülru Necipoğlu, "The Age of Sinan: Architectural Culture in the Ottoman Empire", 2005
+- Aptullah Kuran, "Mimar Sinan", 1986
+- UNESCO Dünya Mirası Merkezi — whc.unesco.org (Selimiye Camii ve Külliyesi; Sokullu Mehmed Paşa Köprüsü)
+- Türkiye Diyanet Vakfı İslâm Ansiklopedisi, "Sinan" maddesi
+@hashtag: MimarSinan; Selimiye; Süleymaniye; Belgesel; HayatHikayesi
+@etiketler: mimar sinan, mimar sinan hayatı, mimar sinan belgesel, mimar sinan kimdir, selimiye camii, süleymaniye camii, şehzade camii, osmanlı mimarisi, kanuni sultan süleyman, mihrimah sultan, devşirme, sokullu mehmed paşa köprüsü, drina köprüsü, edirne, istanbul, osmanlı tarihi, türk tarihi, biyografi, belgesel türkçe, ünlülerin hayatı, hayat hikayesi, mimarlık tarihi

@@ -1,0 +1,51 @@
+SIRADAKİ HAYAT HİKÂYELERİ (yeni videolar bu sırayla üretilir — sırayı değiştirebilirsin)
+[x] 001 Nikola Tesla
+[ ] 002 Mustafa Kemal Atatürk
+[ ] 003 Marie Curie
+[ ] 004 Mimar Sinan
+[ ] 005 Albert Einstein
+[ ] 006 Fatih Sultan Mehmet
+[ ] 007 Leonardo da Vinci
+[ ] 008 Aziz Sancar
+[ ] 009 Steve Jobs
+[ ] 010 Barış Manço
+[ ] 011 Charles Chaplin
+[ ] 012 Cahit Arf
+[ ] 013 Frida Kahlo
+[ ] 014 Nâzım Hikmet
+[ ] 015 Muhammed Ali
+[ ] 016 Thomas Edison
+[ ] 017 Sabiha Gökçen
+[ ] 018 Mozart
+[ ] 019 Neşet Ertaş
+[ ] 020 Isaac Newton
+[ ] 021 Galileo Galilei
+[ ] 022 Kanuni Sultan Süleyman
+[ ] 023 Vincent van Gogh
+[ ] 024 Ludwig van Beethoven
+[ ] 025 Mahatma Gandhi
+[ ] 026 Nelson Mandela
+[ ] 027 Martin Luther King Jr.
+[ ] 028 Abraham Lincoln
+[ ] 029 Napolyon Bonapart
+[ ] 030 Mevlânâ Celâleddîn-i Rûmî
+[ ] 031 Yunus Emre
+[ ] 032 Pîrî Reis
+[ ] 033 Hezârfen Ahmed Çelebi
+[ ] 034 Uluğ Bey
+[ ] 035 İbn-i Sina
+[ ] 036 Charles Darwin
+[ ] 037 Alan Turing
+[ ] 038 Ada Lovelace
+[ ] 039 Wright Kardeşler
+[ ] 040 Stephen Hawking
+[ ] 041 Pablo Picasso
+[ ] 042 William Shakespeare
+[ ] 043 Kemal Sunal
+[ ] 044 Zeki Müren
+[ ] 045 Halide Edib Adıvar
+[ ] 046 Yaşar Kemal
+[ ] 047 Orhan Pamuk
+[ ] 048 Walt Disney
+[ ] 049 Elvis Presley
+[ ] 050 Michael Jackson

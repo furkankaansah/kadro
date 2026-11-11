@@ -1,0 +1,552 @@
+1
+00:00:04,099 --> 00:00:13,734
+Bugün evinizdeki ışığı yaktığınızda, buzdolabınız çalıştığında, bir fabrikadaki dev motorlar döndüğünde, aslında bir adamın hayalini yaşıyorsunuz.
+
+2
+00:00:13,684 --> 00:00:20,565
+Bu adam, 1880'lerde dünyanın elektriği nasıl taşıyacağını sonsuza dek değiştirdi.
+
+3
+00:00:20,565 --> 00:00:30,116
+Yüzlerce patent aldı, gökyüzünde yapay şimşekler çaktırdı, kablosuz enerji ve uzaktan kumanda gibi fikirlerle çağının çok ötesine geçti.
+
+4
+00:00:30,116 --> 00:00:33,514
+Ama hikâyenin bir de karanlık yüzü var.
+
+5
+00:00:33,514 --> 00:00:43,016
+Dünyayı aydınlatan bu dâhi, hayatının son yıllarını parasız, yalnız ve neredeyse unutulmuş halde, New York'ta bir otel odasında geçirdi.
+
+6
+00:00:43,016 --> 00:00:47,555
+Tek dostları, pencere kenarında beslediği güvercinlerdi.
+
+7
+00:00:47,555 --> 00:00:50,650
+Bu, Nikola Tesla'nın hikâyesi.
+
+8
+00:00:51,504 --> 00:01:02,291
+Nikola Tesla, 10 Temmuz 1856'da, o dönem Avusturya İmparatorluğu'na bağlı olan, bugün ise Hırvatistan sınırları içinde kalan Smilyan köyünde doğdu.
+
+9
+00:01:02,241 --> 00:01:04,486
+Ailesi Sırp'tı.
+
+10
+00:01:04,486 --> 00:01:12,338
+Babası Milutin Tesla, Ortodoks bir rahipti; evde zengin bir kütüphane vardı ve küçük Nikola kitaplarla büyüdü.
+
+11
+00:01:12,338 --> 00:01:20,032
+Aile içinde anlatılan bir hikâyeye göre Nikola, gece yarısı şiddetli bir yıldırım fırtınası sırasında dünyaya geldi.
+
+12
+00:01:20,032 --> 00:01:27,156
+Ebe bunun kötüye işaret olduğunu söyleyince annesinin, "Hayır, o ışığın çocuğu olacak" dediği aktarılır.
+
+13
+00:01:27,156 --> 00:01:33,855
+Bu hikâyenin doğruluğu kanıtlanamaz, ama Tesla'nın hayatının elektrikle iç içe geçeceği kesindi.
+
+14
+00:01:33,855 --> 00:01:40,797
+Annesi Đuka Mandić okuma yazma bilmiyordu, ama Tesla onu hayatı boyunca bir mucit olarak anlattı.
+
+15
+00:01:40,797 --> 00:01:47,241
+Ev işleri için kendi aletlerini tasarlayan, uzun şiirleri ezbere okuyabilen bir kadındı.
+
+16
+00:01:47,241 --> 00:01:53,309
+Tesla, olağanüstü hafızasını ve icat etme tutkusunu annesinden aldığını söylerdi.
+
+17
+00:01:53,309 --> 00:01:57,010
+Ancak çocukluğu bir trajediyle sarsıldı.
+
+18
+00:01:57,010 --> 00:02:05,457
+Nikola henüz küçük bir çocukken, ailenin parlak çocuğu olarak görülen ağabeyi Dane, bir binicilik kazasında hayatını kaybetti.
+
+19
+00:02:06,316 --> 00:02:09,894
+Babası onun da rahip olmasını istiyordu.
+
+20
+00:02:09,844 --> 00:02:13,169
+Ama Nikola'nın aklı mühendislikteydi.
+
+21
+00:02:13,169 --> 00:02:21,616
+Karlovac'taki lisede okurken fizik öğretmeninin yaptığı elektrik deneyleri onu büyüledi ve 1873'te okulu bitirdi.
+
+22
+00:02:21,616 --> 00:02:25,621
+Eve döndüğünde ağır bir kolera salgınına yakalandı.
+
+23
+00:02:25,621 --> 00:02:30,415
+Aylarca yatağa bağlı kaldı ve birkaç kez ölümün eşiğine geldi.
+
+24
+00:02:30,415 --> 00:02:37,538
+Tesla'nın kendi anlatımına göre, bu sırada babasına "Mühendislik okumama izin verirsen iyileşirim" dedi.
+
+25
+00:02:37,538 --> 00:02:39,893
+Babası söz verdi.
+
+26
+00:02:39,893 --> 00:02:42,283
+Ve Nikola iyileşti.
+
+27
+00:02:42,283 --> 00:02:48,861
+1875'te, Avusturya'nın Graz şehrindeki politeknik okuluna burslu olarak girdi.
+
+28
+00:02:48,861 --> 00:02:55,087
+İlk yılında neredeyse hiç uyumadan çalıştı ve sınavlarını en yüksek notlarla geçti.
+
+29
+00:02:55,087 --> 00:03:03,497
+Burada hocasının gösterdiği bir doğru akım makinesindeki kıvılcımlı fırçaları izlerken, bu sistemin daha iyi olabileceğini düşündü.
+
+30
+00:03:03,497 --> 00:03:06,992
+Hocası bunun imkânsız olduğunu söyledi.
+
+31
+00:03:06,992 --> 00:03:10,366
+Tesla ise bu fikri asla bırakmadı.
+
+32
+00:03:10,366 --> 00:03:17,429
+Ne var ki ikinci yıldan sonra bursunu kaybetti, kumar borçlarına girdi ve okulu bitiremeden ayrıldı.
+
+33
+00:03:17,429 --> 00:03:20,985
+1879'da babası öldü.
+
+34
+00:03:20,985 --> 00:03:26,216
+Genç Tesla, kariyerinin henüz başında, her şeyi kaybetmiş gibiydi.
+
+35
+00:03:27,056 --> 00:03:38,231
+1880'de Prag'da bir süre üniversite derslerini takip etti, ardından 1881'de Budapeşte'ye geçip yeni kurulan telefon santralinde çalışmaya başladı.
+
+36
+00:03:38,181 --> 00:03:42,356
+Tam bu dönemde, hayatını değiştirecek o an geldi.
+
+37
+00:03:42,356 --> 00:03:53,630
+Tesla'nın anılarında anlattığına göre, 1882 yılında bir arkadaşıyla Budapeşte'de bir parkta yürürken, güneşin batışını izleyip Goethe'nin Faust'undan dizeler okuyordu.
+
+38
+00:03:53,630 --> 00:04:00,778
+Birden zihninde, birbirine göre faz farkıyla değişen akımların oluşturduğu dönen bir manyetik alan belirdi.
+
+39
+00:04:00,778 --> 00:04:06,252
+Bu, fırçasız, kıvılcımsız çalışan bir alternatif akım motorunun temeliydi.
+
+40
+00:04:06,252 --> 00:04:10,875
+Tesla, motorun şemasını bir sopayla kuma çizdiğini söyler.
+
+41
+00:04:10,875 --> 00:04:17,344
+Bu fikir, ileride dünyanın her köşesinde dönen indüksiyon motorlarının çekirdeği olacaktı.
+
+42
+00:04:17,344 --> 00:04:23,448
+1882'de Paris'e gidip Continental Edison Şirketi'nde çalışmaya başladı.
+
+43
+00:04:23,448 --> 00:04:31,422
+Orada yeteneği fark edildi ve yöneticilerinden Charles Batchelor, onu Amerika'ya, Edison'un yanına göndermeyi önerdi.
+
+44
+00:04:32,268 --> 00:04:39,147
+Haziran 1884'te Nikola Tesla, cebinde çok az parayla New York'a ayak bastı.
+
+45
+00:04:39,097 --> 00:04:44,473
+Edison'un şirketine işe girdi ve dinamoları geliştirme üzerine çalıştı.
+
+46
+00:04:44,473 --> 00:04:52,337
+Thomas Edison o dönemde Amerika'nın en ünlü mucidiydi ve doğru akıma, yani DC sistemine büyük yatırım yapmıştı.
+
+47
+00:04:52,337 --> 00:04:58,612
+Tesla ise alternatif akımın, yani AC'nin geleceğin teknolojisi olduğuna inanıyordu.
+
+48
+00:04:58,612 --> 00:05:05,092
+Tesla'nın anlatımına göre, kendisine dinamoları iyileştirirse elli bin dolar ödeneceği söylendi.
+
+49
+00:05:05,092 --> 00:05:10,274
+İşi bitirdiğinde ise ona bunun "Amerikan şakası" olduğu söylendi.
+
+50
+00:05:10,274 --> 00:05:16,500
+Bu hikâye yalnızca Tesla'nın anlatımına dayanır ve başka bir belgeyle doğrulanmamıştır.
+
+51
+00:05:16,500 --> 00:05:24,668
+Ama kesin olan şu: Tesla, yaklaşık altı ay sonra, 1885'in başında Edison'un şirketinden ayrıldı.
+
+52
+00:05:25,528 --> 00:05:31,994
+Ayrıldıktan sonra yatırımcılarla kendi şirketini kurdu ve bir ark lambası sistemi geliştirdi.
+
+53
+00:05:31,944 --> 00:05:37,381
+Ancak yatırımcılar onun alternatif akım hayallerini ilgi çekici bulmadı.
+
+54
+00:05:37,381 --> 00:05:42,818
+Kısa süre içinde Tesla şirketten dışlandı ve patent haklarını da kaybetti.
+
+55
+00:05:42,818 --> 00:05:53,595
+1886 ile 1887 yılları arasında Tesla, yaşamını sürdürmek için günlüğü yaklaşık iki dolara hendek kazan işçiler arasında çalıştığını anlatır.
+
+56
+00:05:53,595 --> 00:05:59,809
+Dünyanın en parlak beyinlerinden biri, New York sokaklarında kazma kürek sallıyordu.
+
+57
+00:05:59,809 --> 00:06:02,685
+Ama şans bir kez daha döndü.
+
+58
+00:06:02,685 --> 00:06:08,753
+1887'de iki iş insanının desteğiyle Tesla Electric Company kuruldu.
+
+59
+00:06:08,753 --> 00:06:14,347
+Tesla, yıllardır zihninde taşıdığı alternatif akım motorunu sonunda inşa etti.
+
+60
+00:06:14,347 --> 00:06:27,976
+1888'de çok fazlı alternatif akım sistemi ve indüksiyon motoru üzerine patentler aldı, aynı yıl Amerikan Elektrik Mühendisleri Enstitüsü'nde verdiği konferansla mühendislik dünyasında büyük ses getirdi.
+
+61
+00:06:28,820 --> 00:06:34,922
+Bu konferansı dikkatle izleyen biri vardı: Sanayici ve mucit George Westinghouse.
+
+62
+00:06:34,872 --> 00:06:42,020
+Westinghouse, 1888'de Tesla'nın alternatif akım patentlerinin lisansını satın aldı.
+
+63
+00:06:42,020 --> 00:06:48,999
+Anlaşma; peşin ödeme, hisse senedi ve üretilen her beygir gücü başına telif ücretini içeriyordu.
+
+64
+00:06:48,999 --> 00:06:55,176
+Böylece tarihin en ünlü teknoloji rekabetlerinden biri kızıştı: Akımların Savaşı.
+
+65
+00:06:55,176 --> 00:07:01,608
+Bir yanda Edison ve doğru akım, diğer yanda Westinghouse, Tesla ve alternatif akım.
+
+66
+00:07:01,608 --> 00:07:09,630
+Edison'un çevresi, yüksek gerilimli alternatif akımın ölümcül olduğunu kamuoyuna göstermek için sert bir kampanya yürüttü.
+
+67
+00:07:09,630 --> 00:07:19,011
+Hatta 1890'da New York'ta ilk kez elektrikli sandalyeyle bir idam gerçekleştirildi ve bu sandalyede alternatif akım kullanıldı.
+
+68
+00:07:19,011 --> 00:07:23,586
+Rekabet Westinghouse'u mali açıdan zor durumda bıraktı.
+
+69
+00:07:23,586 --> 00:07:30,734
+Şirket, Tesla'ya ödenecek telif ücretleri yüzünden sıkışınca, Tesla bu telif sözleşmesinden vazgeçti.
+
+70
+00:07:30,734 --> 00:07:38,137
+Bu kararın ona ileride ne kadar büyük bir servete mal olduğu tam olarak bilinmez, ama çok büyük olduğu kesindir.
+
+71
+00:07:38,137 --> 00:07:44,496
+1897'de ise patentlerini toplu bir ödeme karşılığında Westinghouse'a sattı.
+
+72
+00:07:45,336 --> 00:07:50,006
+Savaşın kaderini belirleyen an 1893'te geldi.
+
+73
+00:07:49,956 --> 00:07:56,012
+Chicago'da düzenlenen Dünya Kolomb Fuarı'nın aydınlatma ihalesini Westinghouse kazandı.
+
+74
+00:07:56,012 --> 00:08:01,425
+Fuar alanı, binlerce lambayla alternatif akım kullanılarak aydınlatıldı.
+
+75
+00:08:01,425 --> 00:08:06,728
+Milyonlarca ziyaretçi, geceyi gündüze çeviren bu manzarayı gördü.
+
+76
+00:08:06,728 --> 00:08:15,029
+Tesla da fuarda, dönen manyetik alanı göstermek için tasarladığı ve "Kolomb'un Yumurtası" adı verilen düzeneği sergiledi.
+
+77
+00:08:15,029 --> 00:08:18,427
+Ardından daha büyük bir zafer geldi.
+
+78
+00:08:18,427 --> 00:08:25,151
+Niagara Şelalesi'nin gücünü elektriğe dönüştürecek santral için alternatif akım sistemi seçildi.
+
+79
+00:08:25,151 --> 00:08:31,740
+Santralin jeneratörleri Westinghouse tarafından, Tesla'nın çok fazlı sistemine dayanılarak üretildi.
+
+80
+00:08:31,740 --> 00:08:41,328
+1895'te çalışmaya başlayan santral, 1896'da yaklaşık kırk kilometre uzaktaki Buffalo şehrine elektrik ulaştırdı.
+
+81
+00:08:41,328 --> 00:08:44,714
+Bu, alternatif akımın kesin zaferiydi.
+
+82
+00:08:44,714 --> 00:08:50,527
+Bugün dünyanın neredeyse tüm elektrik şebekeleri alternatif akımla çalışıyor.
+
+83
+00:08:51,364 --> 00:08:59,044
+1891'de Tesla, Amerikan vatandaşı oldu ve bugün hâlâ adıyla anılan Tesla bobinini geliştirdi.
+
+84
+00:08:58,994 --> 00:09:04,091
+Bu cihaz yüksek frekanslı, yüksek gerilimli akımlar üretiyordu.
+
+85
+00:09:04,091 --> 00:09:10,135
+Konferanslarında, kablo bağlanmamış lambaları elinde yakarak izleyicileri büyülüyordu.
+
+86
+00:09:10,135 --> 00:09:14,516
+Ama Mart 1895'te büyük bir darbe aldı.
+
+87
+00:09:14,516 --> 00:09:18,727
+New York'taki laboratuvarı yangında tamamen yandı.
+
+88
+00:09:18,727 --> 00:09:23,909
+Yıllarca biriktirdiği notlar, modeller ve deney düzenekleri kül oldu.
+
+89
+00:09:23,909 --> 00:09:25,924
+Tesla yılmadı.
+
+90
+00:09:25,924 --> 00:09:36,713
+1898'de New York'taki Madison Square Garden'da düzenlenen elektrik sergisinde, telsiz sinyallerle yönettiği küçük bir tekneyi bir havuzda hareket ettirdi.
+
+91
+00:09:36,713 --> 00:09:45,098
+İzleyicilerin bir kısmı teknenin içinde eğitimli bir maymun saklandığını, ya da Tesla'nın zihin gücüyle onu kontrol ettiğini düşündü.
+
+92
+00:09:45,098 --> 00:09:50,378
+Oysa izledikleri şey, bugünkü uzaktan kumandalı cihazların atasıydı.
+
+93
+00:09:51,224 --> 00:09:59,025
+1899'da Tesla, Colorado Springs'e taşındı ve yüksek bir rakımda büyük bir deney istasyonu kurdu.
+
+94
+00:09:58,975 --> 00:10:07,179
+Burada dev bir yükseltici verici ile milyonlarca voltluk gerilimler üretti ve metrelerce uzunlukta yapay şimşekler oluşturdu.
+
+95
+00:10:07,179 --> 00:10:15,310
+Tesla'nın amacı, elektrik enerjisini kablolar olmadan, yerküre ve atmosfer üzerinden uzak mesafelere iletmekti.
+
+96
+00:10:15,310 --> 00:10:25,007
+Colorado'daki ölçümleri sırasında, kaynağını açıklayamadığı düzenli sinyaller kaydetti ve bunların başka bir gezegenden gelmiş olabileceğini öne sürdü.
+
+97
+00:10:25,007 --> 00:10:30,711
+Bu iddia bilim çevrelerinde ciddiye alınmadı ve onun itibarına zarar verdi.
+
+98
+00:10:31,572 --> 00:10:36,886
+New York'a döndüğünde Tesla, hayatının en büyük projesine girişti.
+
+99
+00:10:36,836 --> 00:10:46,629
+Ünlü bankacı J. P. Morgan'dan yaklaşık yüz elli bin dolarlık destek aldı ve Long Island'daki Wardenclyffe'te devasa bir kule inşa etmeye başladı.
+
+100
+00:10:46,629 --> 00:10:55,379
+Bu kule, okyanus ötesine telsiz iletişim sağlayacak, Tesla'nın hayaline göre ise bir gün dünyaya kablosuz enerji dağıtacaktı.
+
+101
+00:10:55,379 --> 00:11:04,154
+Ancak Aralık 1901'de İtalyan mucit Guglielmo Marconi, Atlas Okyanusu'nun ötesine ilk telsiz sinyalini gönderdiğini duyurdu.
+
+102
+00:11:04,154 --> 00:11:08,122
+Üstelik çok daha basit ve ucuz bir düzenekle.
+
+103
+00:11:08,122 --> 00:11:12,479
+Morgan, Tesla'nın ek finansman taleplerini reddetti.
+
+104
+00:11:12,479 --> 00:11:17,285
+Proje yıllarca parasızlık içinde sürüklendi ve sonunda terk edildi.
+
+105
+00:11:17,285 --> 00:11:21,362
+Wardenclyffe kulesi 1917'de yıkıldı.
+
+106
+00:11:22,216 --> 00:11:24,593
+Tesla hiç evlenmedi.
+
+107
+00:11:24,543 --> 00:11:29,664
+Bilime kendini adamak için evlilikten bilerek uzak durduğunu söylerdi.
+
+108
+00:11:29,664 --> 00:11:33,827
+Hayatının büyük bölümünü New York otellerinde geçirdi.
+
+109
+00:11:33,827 --> 00:11:41,849
+Önce lüks Waldorf-Astoria'da yaşadı, ama ödenmemiş faturalar biriktikçe daha mütevazı otellere taşınmak zorunda kaldı.
+
+110
+00:11:41,849 --> 00:11:46,509
+Yaşlandıkça alışkanlıkları da daha dikkat çekici hale geldi.
+
+111
+00:11:46,509 --> 00:11:55,283
+Çağdaşlarının anlattığına göre üç sayısına özel bir önem verir, yemekten önce tabak ve çatal bıçaklarını peçetelerle özenle silerdi.
+
+112
+00:11:55,283 --> 00:11:58,997
+Mikroplara karşı derin bir kaygı taşıyordu.
+
+113
+00:11:58,997 --> 00:12:02,395
+En büyük tutkusu ise güvercinlerdi.
+
+114
+00:12:02,395 --> 00:12:08,232
+Parklarda saatlerce onları besler, hasta olanları odasına götürüp iyileştirirdi.
+
+115
+00:12:08,232 --> 00:12:17,844
+Tesla, özellikle beyaz bir güvercini bir insanı sever gibi sevdiğini, o güvercin öldüğünde hayatındaki işin de sona erdiğini hissettiğini anlatmıştır.
+
+116
+00:12:18,692 --> 00:12:22,015
+Parası azalsa da adı unutulmamıştı.
+
+117
+00:12:21,965 --> 00:12:31,334
+1917'de, Amerikan Elektrik Mühendisleri Enstitüsü'nün en prestijli ödüllerinden biri olan Edison Madalyası kendisine takdim edildi.
+
+118
+00:12:31,334 --> 00:12:36,844
+Tarihin ironisi: Ödül, bir zamanlar rakibi olduğu adamın adını taşıyordu.
+
+119
+00:12:36,844 --> 00:12:43,749
+1931'de, yetmiş beşinci doğum günü için dünyanın dört bir yanından tebrik mektupları geldi.
+
+120
+00:12:43,749 --> 00:12:48,434
+Bu mektupların arasında Albert Einstein'ın kutlaması da vardı.
+
+121
+00:12:48,434 --> 00:12:52,536
+Aynı yıl ünlü Time dergisi Tesla'yı kapağına taşıdı.
+
+122
+00:12:52,536 --> 00:12:58,409
+1937'de, her zamanki yürüyüşlerinden birinde bir taksi ona çarptı.
+
+123
+00:12:58,409 --> 00:13:04,672
+Tesla ağır yaralandı ve bu kazadan sonra bir daha tam olarak eski sağlığına kavuşamadı.
+
+124
+00:13:05,519 --> 00:13:17,654
+Nikola Tesla, 7 Ocak 1943'te, seksen altı yaşındayken, New York'taki Hotel New Yorker'ın 3327 numaralı odasında, yalnız başına hayatını kaybetti.
+
+125
+00:13:17,604 --> 00:13:22,665
+Cansız bedenini, odayı temizlemeye giren bir otel görevlisi buldu.
+
+126
+00:13:22,665 --> 00:13:30,347
+Ölümünün ardından ABD hükümetine bağlı bir kurum, onun eşyalarına ve belgelerine el koydu.
+
+127
+00:13:30,347 --> 00:13:35,565
+Yıllarca "Tesla'nın gizli icatları" hakkında efsaneler dolaştı.
+
+128
+00:13:35,565 --> 00:13:47,046
+Belgeleri inceleyen mühendis John G. Trump ise raporunda, notların büyük ölçüde spekülatif ve felsefi nitelikte olduğunu, tehlike oluşturacak gizli bir buluş içermediğini yazdı.
+
+129
+00:13:47,046 --> 00:13:53,332
+Tesla'nın cenaze töreni New York'taki Aziz John Katedrali'nde yapıldı ve binlerce kişi katıldı.
+
+130
+00:13:53,332 --> 00:14:00,553
+Külleri bugün Belgrat'taki Nikola Tesla Müzesi'nde, altın kaplama küre biçiminde bir urne içinde saklanıyor.
+
+131
+00:14:01,395 --> 00:14:06,479
+Tesla, hayatı boyunca dünya genelinde yaklaşık üç yüz patent aldı.
+
+132
+00:14:06,429 --> 00:14:13,735
+1960'ta Uluslararası Birimler Sistemi'nde manyetik akı yoğunluğunun birimine onun adı verildi: tesla.
+
+133
+00:14:13,735 --> 00:14:18,990
+Bugün bir MR cihazının gücünü ölçerken bile onun adını kullanıyoruz.
+
+134
+00:14:18,990 --> 00:14:26,174
+Belgrat'taki havalimanı ve dünyanın en tanınmış elektrikli otomobil markalarından biri onun adını taşıyor.
+
+135
+00:14:26,174 --> 00:14:32,995
+Bir zamanlar parasızlık içinde ölen mucit, bugün popüler kültürün en sevilen dâhilerinden biri.
+
+136
+00:14:32,995 --> 00:14:39,633
+Tesla'ya atfedilen ünlü bir söz şöyledir: "Bugün onların; ama uğruna çalıştığım gelecek, benim.
+
+137
+00:14:39,633 --> 00:14:41,842
+Ve haklı çıktı.
+
+138
+00:14:41,842 --> 00:14:51,672
+Çünkü bu videoyu izlediğiniz cihazı besleyen elektrik, büyük olasılıkla Nikola Tesla'nın bir parkta, gün batımında hayal ettiği o alternatif akımla geliyor.
+
