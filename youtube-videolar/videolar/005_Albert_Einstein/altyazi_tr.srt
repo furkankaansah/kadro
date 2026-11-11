@@ -1,0 +1,512 @@
+1
+00:00:04,099 --> 00:00:13,588
+1905 yılında, İsviçre'nin Bern şehrindeki patent ofisinde, üçüncü sınıf teknik uzman olarak çalışan yirmi altı yaşında bir memur vardı.
+
+2
+00:00:13,538 --> 00:00:20,541
+Üniversitede asistanlık başvuruları reddedilmiş, akademik dünyada neredeyse hiç tanınmayan biriydi.
+
+3
+00:00:20,541 --> 00:00:27,628
+Gündüzleri başkalarının icatlarını inceliyor, boş zamanlarında ise evrenin işleyişi üzerine düşünüyordu.
+
+4
+00:00:27,628 --> 00:00:31,742
+O yıl, bu memur dört bilimsel makale yayımladı.
+
+5
+00:00:31,742 --> 00:00:40,735
+Bu makaleler ışığın doğasını, atomların varlığını, zamanın ve uzayın anlamını, kütle ile enerji arasındaki ilişkiyi baştan tanımladı.
+
+6
+00:00:40,735 --> 00:00:47,143
+Ve bugün dünyanın en ünlü denklemi, E eşittir m c kare, ilk kez o yıl ortaya çıktı.
+
+7
+00:00:47,143 --> 00:00:50,274
+Bu, Albert Einstein'ın hikâyesi.
+
+8
+00:00:51,120 --> 00:00:59,650
+Albert Einstein, 14 Mart 1879'da, Almanya'nın Ulm şehrinde, Yahudi bir ailenin çocuğu olarak doğdu.
+
+9
+00:00:59,600 --> 00:01:03,119
+Bir yıl sonra aile Münih'e taşındı.
+
+10
+00:01:03,119 --> 00:01:09,794
+Babası Hermann ve amcası Jakob, burada elektrik ekipmanları üreten küçük bir şirket kurdu.
+
+11
+00:01:09,794 --> 00:01:14,260
+Albert konuşmaya geç başlayan, sessiz bir çocuktu.
+
+12
+00:01:14,260 --> 00:01:19,842
+Kendi anlatımına göre dört beş yaşlarındayken babası ona bir pusula gösterdi.
+
+13
+00:01:19,842 --> 00:01:25,486
+Hiçbir şeyin dokunmadığı ibrenin hep aynı yönü göstermesi onu derinden etkiledi.
+
+14
+00:01:25,486 --> 00:01:29,563
+Görünmeyen bir şeyin dünyayı yönettiğini hissetmişti.
+
+15
+00:01:29,563 --> 00:01:33,653
+Bu merak, hayatı boyunca onu bırakmayacaktı.
+
+16
+00:01:33,653 --> 00:01:37,779
+Annesi Pauline ise ona keman dersleri aldırdı.
+
+17
+00:01:37,779 --> 00:01:44,745
+Müzik, Einstein'ın ömür boyu en büyük tutkularından biri oldu; özellikle Mozart'ı çok severdi.
+
+18
+00:01:44,745 --> 00:01:51,942
+On iki yaşında eline geçen bir geometri kitabını ise sonradan "kutsal geometri kitabı" diye anacaktı.
+
+19
+00:01:52,780 --> 00:01:58,882
+Einstein hakkında en çok bilinen efsanelerden biri, okulda matematikten kaldığıdır.
+
+20
+00:01:58,832 --> 00:02:00,968
+Bu doğru değil.
+
+21
+00:02:00,968 --> 00:02:09,548
+Einstein, daha on beş yaşına gelmeden diferansiyel ve integral hesabı öğrenmişti ve matematikte her zaman çok başarılıydı.
+
+22
+00:02:09,548 --> 00:02:15,762
+Ancak ezberci ve askerî disipline dayanan Alman okul sisteminden nefret ediyordu.
+
+23
+00:02:15,762 --> 00:02:21,769
+1894'te ailesinin şirketi iflas edince aile İtalya'ya taşındı.
+
+24
+00:02:21,769 --> 00:02:29,014
+Albert, okulunu bitirmek için Münih'te kaldı, ama kısa süre sonra okulu bırakıp ailesinin yanına gitti.
+
+25
+00:02:29,014 --> 00:02:36,745
+1895'te, normal yaşından iki yıl erken, Zürih'teki ünlü politeknik okulunun giriş sınavına girdi.
+
+26
+00:02:36,745 --> 00:02:44,269
+Matematik ve fizikte çok iyi sonuç aldı, ama dil ve genel kültür bölümlerinde yetersiz kaldı ve sınavı geçemedi.
+
+27
+00:02:44,269 --> 00:02:53,590
+Bir yıl İsviçre'nin Aarau kasabasındaki liberal bir okulda okudu, liseyi orada bitirdi ve 1896'da politeknik okuluna girdi.
+
+28
+00:02:54,439 --> 00:03:00,300
+Zürih'te, sınıfındaki tek kadın öğrenci olan Sırp asıllı Mileva Marić ile tanıştı.
+
+29
+00:03:00,250 --> 00:03:04,861
+İkisi fizik üzerine saatlerce tartışan iki âşık oldular.
+
+30
+00:03:04,861 --> 00:03:08,526
+Einstein'ın ailesi bu ilişkiye karşıydı.
+
+31
+00:03:08,526 --> 00:03:14,910
+1900'de mezun olduğunda, Einstein'ın önünde parlak bir gelecek yokmuş gibi görünüyordu.
+
+32
+00:03:14,910 --> 00:03:21,512
+Hocalarının çoğu, derslere düzenli gelmeyen ve otoriteyi sorgulayan bu öğrenciyi sevmiyordu.
+
+33
+00:03:21,512 --> 00:03:28,090
+Avrupa'daki pek çok üniversiteye asistanlık başvurusu yaptı, hiçbirinden olumlu yanıt alamadı.
+
+34
+00:03:28,090 --> 00:03:31,694
+Özel dersler vererek geçinmeye çalıştı.
+
+35
+00:03:31,694 --> 00:03:36,997
+1902'de Mileva, evlilik dışı bir kız çocuğu dünyaya getirdi.
+
+36
+00:03:36,997 --> 00:03:43,490
+Mektuplarda adı Lieserl olarak geçen bu çocuğun sonrasında ne olduğu bugün hâlâ bilinmiyor.
+
+37
+00:03:43,490 --> 00:03:49,825
+Aynı yıl bir arkadaşının babasının yardımıyla Einstein, Bern'deki patent ofisinde iş buldu.
+
+38
+00:03:49,825 --> 00:03:53,150
+1903'te Mileva ile evlendi.
+
+39
+00:03:54,012 --> 00:03:58,937
+Patent ofisindeki iş, Einstein'a düşünmek için zaman bırakıyordu.
+
+40
+00:03:58,887 --> 00:04:07,601
+Akşamları arkadaşlarıyla kurduğu ve şakayla "Olimpiya Akademisi" adını verdikleri bir grupta felsefe ve fizik tartışıyordu.
+
+41
+00:04:07,601 --> 00:04:13,329
+1905'te, bilim tarihçilerinin "mucize yıl" dediği o yıl geldi.
+
+42
+00:04:13,329 --> 00:04:22,285
+Einstein'ın ilk makalesi, ışığın küçük enerji paketlerinden, yani kuantumlardan oluştuğunu öne sürerek fotoelektrik olayını açıkladı.
+
+43
+00:04:22,285 --> 00:04:32,455
+İkinci makale, sıvı içindeki küçük parçacıkların rastgele hareketini, yani Brown hareketini açıklayarak atomların gerçekten var olduğuna güçlü bir kanıt sundu.
+
+44
+00:04:32,455 --> 00:04:36,545
+Üçüncü makale ise özel görelilik kuramıydı.
+
+45
+00:04:36,545 --> 00:04:44,967
+Einstein, ışık hızının herkes için aynı olduğunu kabul ederek, zamanın ve uzunluğun gözlemciye göre değişebileceğini gösterdi.
+
+46
+00:04:44,967 --> 00:04:50,198
+Hızla hareket eden bir saat, duran bir saate göre daha yavaş işliyordu.
+
+47
+00:04:50,198 --> 00:04:56,436
+Dördüncü makalede ise kütle ile enerjinin birbirine dönüşebileceğini ortaya koydu.
+
+48
+00:04:56,436 --> 00:05:01,145
+Bu fikrin sonucu, E eşittir m c kare denklemi oldu.
+
+49
+00:05:01,145 --> 00:05:05,720
+Aynı yıl Zürih Üniversitesi'nden doktora derecesini de aldı.
+
+50
+00:05:05,720 --> 00:05:09,907
+Ama ilk başta bu makaleler büyük bir ilgi görmedi.
+
+51
+00:05:10,768 --> 00:05:15,268
+Zamanla bilim dünyası Einstein'ın kim olduğunu fark etti.
+
+52
+00:05:15,218 --> 00:05:21,262
+1909'da patent ofisinden ayrılıp Zürih Üniversitesi'nde öğretim üyesi oldu.
+
+53
+00:05:21,262 --> 00:05:29,053
+Ardından Prag'a, sonra yeniden Zürih'e, 1914'te ise Almanya'nın bilim merkezi Berlin'e geçti.
+
+54
+00:05:29,053 --> 00:05:33,811
+Ama zihnini meşgul eden asıl soru şuydu: Yer çekimi nedir?
+
+55
+00:05:33,811 --> 00:05:43,871
+Kendi anlatımına göre, 1907'de bir gün patent ofisinde otururken bir fikir aklına geldi: Serbestçe düşen bir insan, kendi ağırlığını hissetmezdi.
+
+56
+00:05:43,871 --> 00:05:48,871
+Einstein bunu, hayatının "en mutlu düşüncesi" olarak anlattı.
+
+57
+00:05:48,871 --> 00:05:53,689
+Bu fikir, sekiz yıl süren zorlu bir yolculuğun başlangıcıydı.
+
+58
+00:05:53,689 --> 00:05:58,896
+Kasım 1915'te Einstein, genel görelilik kuramını tamamladı.
+
+59
+00:05:58,896 --> 00:06:05,243
+Bu kurama göre yer çekimi bir kuvvet değil, kütlenin uzay ve zamanı bükmesinin sonucuydu.
+
+60
+00:06:05,243 --> 00:06:11,723
+Güneş gibi büyük bir kütle, çevresindeki uzayı büker ve ışık bile bu bükülmüş yolu izlerdi.
+
+61
+00:06:12,572 --> 00:06:15,871
+Bu çarpıcı fikrin bir sınavı vardı.
+
+62
+00:06:15,821 --> 00:06:21,428
+Eğer Einstein haklıysa, Güneş'in yakınından geçen yıldız ışığı bükülmeliydi.
+
+63
+00:06:21,428 --> 00:06:25,663
+Bunu görmenin tek yolu, tam bir Güneş tutulmasıydı.
+
+64
+00:06:25,663 --> 00:06:37,532
+29 Mayıs 1919'da, İngiliz astronom Arthur Eddington'ın da yer aldığı ekipler, Afrika açıklarındaki Príncipe Adası'nda ve Brezilya'nın Sobral kasabasında tutulmayı gözlemledi.
+
+65
+00:06:37,532 --> 00:06:44,862
+Kasım 1919'da Londra'da sonuçlar açıklandı: Işık, Einstein'ın öngördüğü şekilde bükülüyordu.
+
+66
+00:06:44,862 --> 00:06:49,110
+Ertesi gün dünya basını bu haberi manşetlere taşıdı.
+
+67
+00:06:49,110 --> 00:06:52,763
+Bir gazete "Bilimde devrim" diye yazdı.
+
+68
+00:06:52,763 --> 00:06:57,071
+Einstein bir gecede dünyanın en ünlü bilim insanı oldu.
+
+69
+00:06:57,071 --> 00:07:03,078
+O yıl, uzun süredir ayrı yaşadığı Mileva'dan boşandı ve kuzeni Elsa ile evlendi.
+
+70
+00:07:03,078 --> 00:07:09,838
+Boşanma anlaşmasında, ileride kazanacağı Nobel ödülünün parasını Mileva'ya vereceğine söz verdi.
+
+71
+00:07:10,680 --> 00:07:12,911
+Ve o ödül geldi.
+
+72
+00:07:12,861 --> 00:07:17,485
+Einstein, 1921 Nobel Fizik Ödülü'nü kazandı.
+
+73
+00:07:17,485 --> 00:07:22,740
+Ödül, kararın ertelenmesi nedeniyle 1922'de açıklandı.
+
+74
+00:07:22,740 --> 00:07:34,839
+Ancak ilginç bir ayrıntı vardı: Ödül, onu dünyaca ünlü yapan görelilik kuramı için değil, "kuramsal fiziğe hizmetleri ve özellikle fotoelektrik olayının yasasını keşfi için" verilmişti.
+
+75
+00:07:34,839 --> 00:07:40,094
+Görelilik, o dönem Nobel komitesi için hâlâ fazla tartışmalıydı.
+
+76
+00:07:40,094 --> 00:07:42,958
+Einstein artık bir yıldızdı.
+
+77
+00:07:42,958 --> 00:07:49,973
+Dünyayı dolaşıyor, konferanslar veriyor, gittiği her yerde kalabalıklar tarafından karşılanıyordu.
+
+78
+00:07:49,973 --> 00:07:56,878
+Ama Almanya'da, Yahudi olduğu ve barışçı görüşleri olduğu için ona karşı düşmanlık giderek büyüyordu.
+
+79
+00:07:56,878 --> 00:08:02,218
+Bazı çevreler, görelilik kuramını "Yahudi fiziği" diye aşağılıyordu.
+
+80
+00:08:03,076 --> 00:08:08,195
+Ocak 1933'te Adolf Hitler Almanya'da iktidara geldi.
+
+81
+00:08:08,145 --> 00:08:11,264
+Einstein o sırada Amerika'daydı.
+
+82
+00:08:11,264 --> 00:08:14,614
+Bir daha asla Almanya'ya dönmedi.
+
+83
+00:08:14,614 --> 00:08:18,291
+Prusya Bilimler Akademisi'nden istifa etti.
+
+84
+00:08:18,291 --> 00:08:26,240
+Naziler, onun yazlık evine baskın düzenledi, mal varlığına el koydu ve kitaplarını yakılacak kitaplar arasına aldı.
+
+85
+00:08:26,240 --> 00:08:35,257
+Einstein, Amerika'nın Princeton kasabasında yeni kurulan İleri Araştırmalar Enstitüsü'ne yerleşti ve hayatının geri kalanını orada geçirdi.
+
+86
+00:08:35,257 --> 00:08:38,752
+1936'da eşi Elsa öldü.
+
+87
+00:08:38,752 --> 00:08:42,466
+1940'ta Amerikan vatandaşı oldu.
+
+88
+00:08:42,466 --> 00:08:50,427
+Princeton'da, dağınık saçları, çorapsız ayakları ve bisikletiyle tanınan, kasabanın en ünlü sakini haline geldi.
+
+89
+00:08:51,272 --> 00:08:57,423
+Einstein'ın dünyaca ün kazanan hayatının arkasında, az bilinen bir aile dramı vardı.
+
+90
+00:08:57,373 --> 00:09:04,934
+Mileva ile evliliğinden iki oğlu olmuştu: 1904'te doğan Hans Albert ve 1910'da doğan Eduard.
+
+91
+00:09:04,934 --> 00:09:09,509
+Eduard, babası gibi zeki ve müziğe yetenekli bir çocuktu.
+
+92
+00:09:09,509 --> 00:09:13,259
+Tıp okumak ve psikiyatrist olmak istiyordu.
+
+93
+00:09:13,259 --> 00:09:18,174
+Ancak yirmili yaşlarının başında ona şizofreni teşhisi konuldu.
+
+94
+00:09:18,174 --> 00:09:25,674
+Bundan sonraki hayatının büyük bölümünü annesi Mileva'nın bakımında ve Zürih'teki bir psikiyatri kliniğinde geçirdi.
+
+95
+00:09:25,674 --> 00:09:32,082
+Einstein, 1933'te Avrupa'dan ayrılmadan önce oğlunu son bir kez ziyaret etti.
+
+96
+00:09:32,082 --> 00:09:34,922
+Bir daha onu hiç görmedi.
+
+97
+00:09:34,922 --> 00:09:40,856
+Mektuplarında Eduard'ın durumunun hayatındaki en büyük acılardan biri olduğunu yazdı.
+
+98
+00:09:40,856 --> 00:09:48,769
+Büyük oğlu Hans Albert ise Amerika'ya göç etti ve Kaliforniya Üniversitesi'nde hidrolik mühendisliği profesörü oldu.
+
+99
+00:09:48,769 --> 00:09:54,618
+Baba ile oğul arasındaki ilişki uzun yıllar gergin kaldı, ama zamanla yumuşadı.
+
+100
+00:09:55,475 --> 00:10:01,578
+1939 yazında, Macar fizikçi Leó Szilárd, Einstein'ı ziyaret etti.
+
+101
+00:10:01,528 --> 00:10:07,475
+Nazi Almanyası'nın uranyumla çok güçlü bir bomba geliştirebileceğinden korkuyordu.
+
+102
+00:10:07,475 --> 00:10:16,650
+Einstein, Szilárd'ın hazırladığı, Başkan Franklin Roosevelt'e hitaben yazılmış 2 Ağustos 1939 tarihli mektubu imzaladı.
+
+103
+00:10:16,650 --> 00:10:22,536
+Bu mektup, Amerika'nın atom bombası araştırmalarını başlatan adımlardan biri oldu.
+
+104
+00:10:22,536 --> 00:10:27,681
+Einstein, atom bombasını üreten Manhattan Projesi'nde hiç çalışmadı.
+
+105
+00:10:27,681 --> 00:10:32,536
+Siyasi görüşleri yüzünden güvenlik açısından sakıncalı görülmüştü.
+
+106
+00:10:32,536 --> 00:10:38,907
+1945'te Hiroşima ve Nagazaki'ye atom bombaları atıldığında derin bir üzüntü yaşadı.
+
+107
+00:10:38,907 --> 00:10:49,684
+Anlatıldığına göre, o mektubu imzalamanın hayatındaki büyük bir hata olduğunu söyledi; ancak Almanların bombayı önce yapma ihtimalinin bu kararı haklı kıldığını da ekledi.
+
+108
+00:10:49,684 --> 00:10:54,805
+Hayatının son yıllarında nükleer silahlara karşı kampanyalara katıldı.
+
+109
+00:10:54,805 --> 00:11:03,980
+Ölümünden yalnızca birkaç gün önce, filozof Bertrand Russell ile birlikte nükleer silahların tehlikesine dikkat çeken ünlü bildiriyi imzaladı.
+
+110
+00:11:04,816 --> 00:11:12,897
+1952'de, İsrail'in ilk cumhurbaşkanı Chaim Weizmann öldüğünde, Einstein'a cumhurbaşkanlığı teklif edildi.
+
+111
+00:11:12,847 --> 00:11:21,293
+Einstein bu teklifi kibarca reddetti; siyasete uygun olmadığını, insanlarla ilişkilerde yeterli deneyimi olmadığını yazdı.
+
+112
+00:11:21,293 --> 00:11:27,944
+Son otuz yılını, yer çekimi ile elektromanyetizmayı tek bir kuramda birleştirme hayaline adadı.
+
+113
+00:11:27,944 --> 00:11:32,240
+Bu birleşik alan kuramını hiçbir zaman tamamlayamadı.
+
+114
+00:11:32,240 --> 00:11:39,570
+Ayrıca kendi katkıda bulunduğu kuantum mekaniğinin olasılıklara dayanan yorumunu hiçbir zaman tam olarak kabul etmedi.
+
+115
+00:11:39,570 --> 00:11:43,575
+Ona atfedilen ünlü sözle: "Tanrı zar atmaz.
+
+116
+00:11:43,575 --> 00:11:53,890
+18 Nisan 1955'te, yetmiş altı yaşındayken, Princeton'daki hastanede, karın aortundaki bir damarın yırtılması sonucu hayatını kaybetti.
+
+117
+00:11:53,890 --> 00:11:56,524
+Ameliyatı reddetmişti.
+
+118
+00:11:56,524 --> 00:12:01,609
+Yanında, üzerinde çalıştığı hesapların yazılı olduğu sayfalar vardı.
+
+119
+00:12:02,468 --> 00:12:06,155
+Ölümünden sonra ilginç bir olay yaşandı.
+
+120
+00:12:06,105 --> 00:12:13,266
+Otopsiyi yapan patolog Thomas Harvey, ailesinin önceden izni olmadan Einstein'ın beynini çıkarıp sakladı.
+
+121
+00:12:13,266 --> 00:12:20,377
+Daha sonra oğlu Hans Albert, beynin yalnızca bilimsel amaçla incelenmesi şartıyla buna onay verdi.
+
+122
+00:12:20,377 --> 00:12:25,547
+Einstein'ın külleri ise vasiyeti gereği, bilinmeyen bir yere savruldu.
+
+123
+00:12:25,547 --> 00:12:29,904
+Einstein'ın kuramları, bugün günlük hayatımızın içinde.
+
+124
+00:12:29,904 --> 00:12:42,076
+Telefonunuzdaki konum sistemi, yani GPS, uydulardaki saatlerin görelilik etkisiyle farklı hızda işlemesini hesaba katmazsa, konumunuzu kısa sürede kilometrelerce yanlış gösterir.
+
+125
+00:12:42,076 --> 00:12:48,800
+2015'te, onun yüz yıl önce öngördüğü kütle çekim dalgaları ilk kez doğrudan gözlemlendi.
+
+126
+00:12:48,800 --> 00:12:54,358
+1999'da Time dergisi onu "Yüzyılın Kişisi" seçti.
+
+127
+00:12:54,358 --> 00:13:00,559
+Bir patent ofisinde başlayan merak, evreni anlama biçimimizi sonsuza dek değiştirdi.
+
+128
+00:13:00,559 --> 00:13:05,887
+Ona ait olduğu bilinen bir sözle: "Hayal gücü bilgiden daha önemlidir.
+

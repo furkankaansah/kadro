@@ -17,6 +17,24 @@ Her kişinin kendi klasörü var: `videolar/<NNN_Ad_Soyad>/`
 | `seslendirme_metni.txt` | Kendi sesinle okumak için bölüm bölüm metin |
 | `kendi_sesim/` | Kendi kayıtlarını buraya koyarsın (aşağıya bak) |
 
+## Videoları üretme (senin bilgisayarında)
+Bulut sunucusunun IP'si başka kullanıcılarla ortak olduğu için Wikimedia görsel indirmeyi orada engelledi. Bu yüzden MP4'ler
+senin bilgisayarında üretilir. Senaryolar, açıklamalar, etiketler ve altyazı metni hazır.
+
+1. **Python 3** kur: https://www.python.org/downloads/ (Windows'ta kurulumda "Add python.exe to PATH" kutusunu işaretle).
+2. **ffmpeg** kur: Windows'ta komut isteminde `winget install Gyan.FFmpeg`, Mac'te `brew install ffmpeg`.
+3. Depoyu indir (GitHub > Code > Download ZIP) ve `youtube-videolar` klasöründe:
+   - Windows: **`VIDEOLARI_URET.bat`** dosyasına çift tıkla
+   - Mac: **`VIDEOLARI_URET.command`** dosyasına çift tıkla
+4. Her kişi için yaklaşık 10–20 dakika sürer. Hazır olan videolar atlanır, tekrar çalıştırınca kaldığı yerden devam eder.
+   Bütün videoları baştan üretmek için: `python uret.py --hepsi --yeniden`
+5. (İsteğe bağlı) `arac/iletisim.txt` dosyasına e-posta adresini yazarsan Wikimedia'ya giden isteklerde iletişim bilgisi olarak
+   gönderilir. Wikimedia bunu otomatik araçlardan ister. Bu dosya git'e eklenmez.
+
+Bazı senaryolarda görseller `ara: ...` satırlarıyla verilmiştir (Einstein, Fatih). Bunlar ilk çalıştırmada Wikimedia
+Commons'ta aranır ve seçilenler `videolar/<kişi>/secilen_gorseller.json` dosyasına yazılır. Beğenmediğin bir seçimi bu
+dosyadan değiştirebilirsin. Görselleri tek sayfada görmek için: `python arac/onizleme.py senaryolar/005_albert_einstein.txt onizleme.jpg`
+
 ## Kendi sesinle (gerçek insan sesi) yeniden üretme
 1. `seslendirme_metni.txt` dosyasını aç. Her bölüm için ayrı bir kayıt yap: `00.mp3`, `01.mp3`, … ve `fragman.mp3`.
    (.wav ve .m4a da olur.)

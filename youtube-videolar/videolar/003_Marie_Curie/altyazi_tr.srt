@@ -1,0 +1,532 @@
+1
+00:00:04,099 --> 00:00:10,566
+Paris'teki Fransa Ulusal Kütüphanesi'nde, kurşunla kaplı kutularda saklanan defterler var.
+
+2
+00:00:10,516 --> 00:00:17,228
+Bu defterler, yazıldıklarından bu yana yüz yılı aşkın zaman geçmesine rağmen hâlâ radyoaktif.
+
+3
+00:00:17,228 --> 00:00:22,082
+Onları inceleyecek araştırmacılar özel önlemler almak zorunda.
+
+4
+00:00:22,082 --> 00:00:27,750
+Bu defterlerin sahibi, bilim tarihinin en olağanüstü insanlarından biriydi.
+
+5
+00:00:27,750 --> 00:00:32,094
+Üniversiteye kadınların kabul edilmediği bir ülkede doğdu.
+
+6
+00:00:32,094 --> 00:00:37,216
+Bir çatı katında, açlıktan bayılacak kadar yoksulluk içinde okudu.
+
+7
+00:00:37,216 --> 00:00:42,883
+Bir barakada, ellerini yakan maddelerle çalışarak iki yeni element keşfetti.
+
+8
+00:00:42,883 --> 00:00:48,672
+Ve iki farklı bilim dalında Nobel Ödülü kazanan, bugüne kadarki tek insan oldu.
+
+9
+00:00:48,672 --> 00:00:53,793
+Ama onu dünyaya tanıtan keşif, sonunda onun hayatına da mal oldu.
+
+10
+00:00:53,793 --> 00:00:56,645
+Bu, Marie Curie'nin hikâyesi.
+
+11
+00:00:57,504 --> 00:01:03,400
+Maria Salomea Skłodowska, 7 Kasım 1867'de Varşova'da doğdu.
+
+12
+00:01:03,350 --> 00:01:07,488
+O yıllarda Polonya haritada bir ülke olarak yoktu.
+
+13
+00:01:07,488 --> 00:01:11,627
+Varşova, Rus Çarlığı'nın sıkı denetimi altındaydı.
+
+14
+00:01:11,627 --> 00:01:17,221
+Okullarda Polonya tarihi okutmak yasaktı, dersler Rusça yapılıyordu.
+
+15
+00:01:17,221 --> 00:01:20,620
+Maria, beş kardeşin en küçüğüydü.
+
+16
+00:01:20,620 --> 00:01:26,675
+Babası Władysław matematik ve fizik öğretmeniydi; annesi bir kız okulunu yönetiyordu.
+
+17
+00:01:26,675 --> 00:01:32,549
+Ama aile, Rus yönetimine karşı vatansever tutumu yüzünden zor günler geçirdi.
+
+18
+00:01:32,549 --> 00:01:37,209
+Babası işini kaybetti, aile ekonomik sıkıntıya düştü.
+
+19
+00:01:37,209 --> 00:01:40,170
+Sonra acılar art arda geldi.
+
+20
+00:01:40,170 --> 00:01:44,964
+Maria sekiz yaşındayken en büyük ablası Zofia tifüsten öldü.
+
+21
+00:01:44,964 --> 00:01:50,935
+İki yıl sonra, henüz on yaşındayken, annesi tüberkülozdan hayatını kaybetti.
+
+22
+00:01:50,935 --> 00:01:54,042
+Küçük Maria derin bir yasa gömüldü.
+
+23
+00:01:54,042 --> 00:01:56,991
+Ama derslerinde hep birinciydi.
+
+24
+00:01:56,991 --> 00:02:02,695
+1883'te, on beş yaşında, liseyi altın madalyayla bitirdi.
+
+25
+00:02:03,532 --> 00:02:08,154
+Ne var ki Varşova Üniversitesi kadınları kabul etmiyordu.
+
+26
+00:02:08,104 --> 00:02:18,165
+Maria ve ablası Bronisława, yasa dışı olarak gizlice ders veren ve yer değiştirdiği için "Gezici Üniversite" adıyla bilinen bir okulda eğitim aldılar.
+
+27
+00:02:18,165 --> 00:02:22,109
+İki kız kardeş, aralarında bir anlaşma yaptı.
+
+28
+00:02:22,109 --> 00:02:29,293
+Maria mürebbiye olarak çalışacak, kazandığı parayla Bronisława'nın Paris'teki tıp eğitimine destek olacaktı.
+
+29
+00:02:29,293 --> 00:02:33,929
+Bronisława doktor olduktan sonra da sıra Maria'ya gelecekti.
+
+30
+00:02:33,929 --> 00:02:38,371
+Maria yıllarca zengin ailelerin çocuklarına ders verdi.
+
+31
+00:02:38,371 --> 00:02:43,468
+Bu sırada yanında çalıştığı ailenin oğluyla aralarında bir aşk başladı.
+
+32
+00:02:43,468 --> 00:02:49,135
+Ancak oğlanın ailesi, yoksul bir mürebbiye ile evlenmesine izin vermedi.
+
+33
+00:02:49,135 --> 00:02:54,609
+Kırık bir kalple bekledi, okumaya devam etti ve sırasının gelmesini bekledi.
+
+34
+00:02:55,448 --> 00:03:04,099
+1891'in sonbaharında, yirmi dört yaşındaki Maria nihayet Paris'e gitti ve ünlü Sorbonne Üniversitesi'ne kaydoldu.
+
+35
+00:03:04,049 --> 00:03:08,806
+Artık adını Fransızca biçimiyle, Marie olarak kullanıyordu.
+
+36
+00:03:08,806 --> 00:03:14,971
+Bir süre sonra okula yakın olmak için Latin Mahallesi'nde küçük bir çatı katına taşındı.
+
+37
+00:03:14,971 --> 00:03:23,102
+Kızı Ève'in yazdığı biyografiye göre kışın oda o kadar soğuk oluyordu ki, sahip olduğu bütün giysileri üst üste giyerek uyuyordu.
+
+38
+00:03:23,102 --> 00:03:29,486
+Kimi günler yalnızca ekmek ve çayla yetiniyor, bir keresinde açlıktan bayıldığı anlatılıyor.
+
+39
+00:03:29,486 --> 00:03:32,496
+Ama bu zorluklar onu durduramadı.
+
+40
+00:03:32,496 --> 00:03:37,532
+1893'te fizik bölümünü sınıf birincisi olarak bitirdi.
+
+41
+00:03:37,532 --> 00:03:41,331
+Bir yıl sonra matematikte de diploma aldı.
+
+42
+00:03:42,180 --> 00:03:47,676
+1894'te Marie, çalışmaları için bir laboratuvar arıyordu.
+
+43
+00:03:47,626 --> 00:03:54,907
+Bir tanıdığı onu, manyetizma ve kristaller üzerine çalışan genç bir fizikçiyle tanıştırdı: Pierre Curie.
+
+44
+00:03:54,907 --> 00:03:58,766
+Pierre, bilime en az onun kadar tutkuyla bağlıydı.
+
+45
+00:03:58,766 --> 00:04:02,346
+Kısa süre içinde birbirlerine âşık oldular.
+
+46
+00:04:02,346 --> 00:04:07,868
+Marie başlangıçta Polonya'ya dönmeyi planlıyordu, ama Pierre onu ikna etti.
+
+47
+00:04:07,868 --> 00:04:13,232
+26 Temmuz 1895'te sade bir törenle evlendiler.
+
+48
+00:04:13,232 --> 00:04:19,482
+Gelinlik giymedi; düğününde sonradan laboratuvarda da giyeceği koyu renk bir elbise vardı.
+
+49
+00:04:19,482 --> 00:04:25,963
+Balayına, düğün hediyesi olarak aldıkları bisikletlerle Fransa'nın kırsalında gezinerek çıktılar.
+
+50
+00:04:25,963 --> 00:04:30,599
+1897'de ilk kızları Irène dünyaya geldi.
+
+51
+00:04:31,456 --> 00:04:39,791
+1896'da Fransız fizikçi Henri Becquerel, uranyum tuzlarının gözle görülmeyen ışınlar yaydığını keşfetmişti.
+
+52
+00:04:39,741 --> 00:04:44,159
+Marie, doktora konusu olarak bu gizemli ışınları seçti.
+
+53
+00:04:44,159 --> 00:04:49,996
+Kısa sürede önemli bir şey fark etti: Toryum elementi de benzer ışınlar yayıyordu.
+
+54
+00:04:49,996 --> 00:04:57,096
+Üstelik bu ışınların şiddeti, maddenin kimyasal yapısına değil, içerdiği element miktarına bağlıydı.
+
+55
+00:04:57,096 --> 00:05:01,343
+Yani bu, atomun kendisinden gelen bir özellikti.
+
+56
+00:05:01,343 --> 00:05:05,312
+Marie bu olguya bir isim verdi: radyoaktivite.
+
+57
+00:05:05,312 --> 00:05:12,909
+Daha da şaşırtıcısı, pitchblend denen uranyum cevherinin, içindeki uranyumdan çok daha güçlü ışınım yaymasıydı.
+
+58
+00:05:12,909 --> 00:05:17,472
+Demek ki cevherin içinde bilinmeyen başka elementler vardı.
+
+59
+00:05:17,472 --> 00:05:21,076
+Pierre kendi çalışmalarını bırakıp ona katıldı.
+
+60
+00:05:21,076 --> 00:05:26,987
+1898 yılında çift, iki yeni element keşfettiklerini açıkladı.
+
+61
+00:05:26,987 --> 00:05:33,758
+Birincisine, Marie'nin esaret altındaki vatanı Polonya'nın onuruna "polonyum" adını verdiler.
+
+62
+00:05:33,758 --> 00:05:39,717
+İkincisine ise Latince ışın anlamına gelen kelimeden esinlenerek "radyum" dediler.
+
+63
+00:05:39,717 --> 00:05:42,872
+Ama bilim dünyası kanıt istiyordu.
+
+64
+00:05:42,872 --> 00:05:53,746
+Sonraki yıllarda Marie, eskiden bir okulun tıp öğrencilerinin kullandığı, yağmur alan, havasız bir barakada, tonlarca cevheri kazanlarda kaynatıp karıştırarak işledi.
+
+65
+00:05:53,746 --> 00:05:59,062
+1902'de, yaklaşık bir desigram saf radyum klorür elde etti.
+
+66
+00:05:59,062 --> 00:06:02,533
+Karanlıkta mavimsi bir ışıkla parlıyordu.
+
+67
+00:06:02,533 --> 00:06:07,824
+Pierre ve Marie, geceleri laboratuvara gidip bu ışığı izlemeyi severlerdi.
+
+68
+00:06:08,660 --> 00:06:13,221
+Haziran 1903'te Marie, doktora tezini savundu.
+
+69
+00:06:13,171 --> 00:06:22,661
+Aynı yılın sonunda, 1903 Nobel Fizik Ödülü, radyoaktivite üzerine çalışmaları için Henri Becquerel, Pierre Curie ve Marie Curie'ye verildi.
+
+70
+00:06:22,661 --> 00:06:27,310
+Ancak tarihi kayıtlar ilginç bir gerçeği ortaya koyuyor.
+
+71
+00:06:27,310 --> 00:06:32,479
+Başlangıçta ödül için yapılan aday gösteriminde Marie'nin adı yoktu.
+
+72
+00:06:32,479 --> 00:06:39,021
+Bunu öğrenen Pierre, ödül verilecekse Marie'nin de katkısının tanınması gerektiğini açıkça belirtti.
+
+73
+00:06:39,021 --> 00:06:43,232
+Sonunda Marie, Nobel Ödülü kazanan ilk kadın oldu.
+
+74
+00:06:43,232 --> 00:06:48,681
+Curie çifti ödül törenine o yıl katılamadı; ikisi de yorgun ve hastaydı.
+
+75
+00:06:48,681 --> 00:06:57,127
+Bugün bildiğimiz şey şuydu: Korunmasız şekilde çalıştıkları radyoaktif maddeler, sağlıklarını yavaş yavaş bozmaya başlamıştı.
+
+76
+00:06:57,127 --> 00:07:00,319
+Elleri yanık ve yaralarla doluydu.
+
+77
+00:07:00,319 --> 00:07:03,984
+1904'te ikinci kızları Ève doğdu.
+
+78
+00:07:04,824 --> 00:07:09,531
+19 Nisan 1906'da Paris'te yağmur yağıyordu.
+
+79
+00:07:09,481 --> 00:07:18,401
+Pierre Curie, kalabalık bir caddede karşıdan karşıya geçerken kaydı ve atlı bir yük arabasının altında kalarak oracıkta hayatını kaybetti.
+
+80
+00:07:18,401 --> 00:07:20,791
+Kırk altı yaşındaydı.
+
+81
+00:07:20,791 --> 00:07:23,534
+Marie için dünya yıkılmıştı.
+
+82
+00:07:23,534 --> 00:07:27,442
+Günlüğüne Pierre'e mektuplar yazmaya devam etti.
+
+83
+00:07:27,442 --> 00:07:29,590
+Ama pes etmedi.
+
+84
+00:07:29,590 --> 00:07:36,690
+Sorbonne, Pierre'in kürsüsünü Marie'ye teklif etti ve o, Sorbonne'da ders veren ilk kadın oldu.
+
+85
+00:07:36,690 --> 00:07:40,197
+İki yıl sonra da profesörlüğe yükseldi.
+
+86
+00:07:40,197 --> 00:07:45,015
+Kasım 1906'daki ilk dersine çok sayıda kişi geldi.
+
+87
+00:07:45,015 --> 00:07:50,743
+Marie kürsüye çıktı ve dersine, Pierre'in son dersinde bıraktığı yerden başladı.
+
+88
+00:07:50,743 --> 00:07:58,037
+İki küçük kızını, Pierre'in babasının yardımıyla tek başına büyüttü ve laboratuvardaki çalışmalarını sürdürdü.
+
+89
+00:07:58,900 --> 00:08:04,347
+1910'da Marie, saf radyumu metal halinde elde etmeyi başardı.
+
+90
+00:08:04,297 --> 00:08:09,807
+Ama 1911, onun için hem zafer hem de aşağılanma yılı oldu.
+
+91
+00:08:09,807 --> 00:08:16,166
+Ocak ayında Fransız Bilimler Akademisi'ne aday oldu, ancak az bir oy farkıyla reddedildi.
+
+92
+00:08:16,166 --> 00:08:23,617
+Aynı yıl, Pierre'in eski öğrencisi ve evli bir fizikçi olan Paul Langevin ile ilişkisi gazetelere yansıdı.
+
+93
+00:08:23,617 --> 00:08:33,290
+Fransız basını Marie'ye karşı acımasız bir kampanya başlattı; evinin önünde öfkeli kalabalıklar toplandı, yabancı olduğu için de hedef gösterildi.
+
+94
+00:08:33,290 --> 00:08:40,996
+Tam bu sırada, Kasım 1911'de, Marie'ye bu kez tek başına, Nobel Kimya Ödülü verildiği açıklandı.
+
+95
+00:08:40,996 --> 00:08:46,215
+Polonyum ve radyumun keşfi ve radyumun saf olarak elde edilmesi için.
+
+96
+00:08:46,215 --> 00:08:52,319
+Nobel komitesinden bir isim, skandal nedeniyle ödülü almaya gelmemesini önerdi.
+
+97
+00:08:52,319 --> 00:09:01,142
+Marie ise bilimsel çalışmasıyla özel hayatı arasında bir bağ olmadığını yazarak bunu reddetti ve Aralık'ta Stockholm'e gidip ödülünü aldı.
+
+98
+00:09:01,142 --> 00:09:05,001
+Böylece iki Nobel kazanan ilk insan oldu.
+
+99
+00:09:05,001 --> 00:09:10,159
+Bugün hâlâ iki farklı bilim dalında Nobel Ödülü almış tek kişidir.
+
+100
+00:09:11,024 --> 00:09:18,692
+1914'te Birinci Dünya Savaşı başladığında, Marie'nin Paris'teki Radyum Enstitüsü henüz tamamlanmıştı.
+
+101
+00:09:18,642 --> 00:09:23,436
+Ama o, laboratuvarında kalmak yerine cepheye gitmeyi seçti.
+
+102
+00:09:23,436 --> 00:09:31,615
+Yaralı askerlerin vücudundaki kurşun ve şarapnel parçalarını bulmak için röntgen cihazlarının hayati önemde olduğunu biliyordu.
+
+103
+00:09:31,615 --> 00:09:35,244
+Otomobillere röntgen cihazları yerleştirdi.
+
+104
+00:09:35,244 --> 00:09:39,358
+Halk arasında bu araçlara "Küçük Curie'ler" denildi.
+
+105
+00:09:39,358 --> 00:09:48,436
+Marie, araç kullanmayı öğrendi, cihazların bakımını bizzat yaptı ve on yedi yaşındaki kızı Irène ile birlikte cephe hastanelerinde çalıştı.
+
+106
+00:09:48,436 --> 00:09:53,424
+Ayrıca yaklaşık yüz elli kadına röntgen teknisyenliği eğitimi verdi.
+
+107
+00:09:53,424 --> 00:10:00,511
+Savaş boyunca bu sistemle bir milyonun üzerinde askerin röntgen muayenesinden geçirildiği tahmin ediliyor.
+
+108
+00:10:00,511 --> 00:10:07,258
+Marie, Nobel madalyalarını bile savaş için bağışlamak istedi, ancak bu teklifi kabul edilmedi.
+
+109
+00:10:08,124 --> 00:10:13,268
+Marie, radyumu elde etme yöntemi için hiçbir zaman patent almadı.
+
+110
+00:10:13,218 --> 00:10:17,101
+Keşfin tüm insanlığa ait olduğuna inanıyordu.
+
+111
+00:10:17,101 --> 00:10:22,951
+Ama bu yüzden, kendi keşfettiği elementin bir gramını bile satın alacak parası yoktu.
+
+112
+00:10:22,951 --> 00:10:28,218
+O dönemde bir gram radyum, yüz bin doları aşan bir fiyata satılıyordu.
+
+113
+00:10:28,218 --> 00:10:35,536
+Amerikalı gazeteci Marie Meloney bunu öğrenince, Amerikan kadınları arasında bir bağış kampanyası başlattı.
+
+114
+00:10:35,536 --> 00:10:45,912
+1921'de Marie, kızlarıyla birlikte Amerika'ya gitti ve Beyaz Saray'da Başkan Warren Harding, ona Amerikan kadınları adına bir gram radyum hediye etti.
+
+115
+00:10:45,912 --> 00:10:52,368
+Hayatının son yıllarında memleketi Varşova'da da bir Radyum Enstitüsü kurulmasına öncülük etti.
+
+116
+00:10:52,368 --> 00:10:59,868
+1932'de açılan bu enstitünün başına, bir zamanlar okuması için çalıştığı ablası Bronisława geçti.
+
+117
+00:11:00,711 --> 00:11:09,351
+1927'de Brüksel'deki ünlü Solvay Konferansı'nda çekilen fotoğraf, bilim tarihinin en tanınmış karelerinden biridir.
+
+118
+00:11:09,301 --> 00:11:16,522
+Albert Einstein, Niels Bohr, Max Planck gibi isimlerin arasında tek bir kadın vardır: Marie Curie.
+
+119
+00:11:16,522 --> 00:11:21,728
+Ama yıllarca radyoaktif maddelerle korunmasız çalışmanın bedeli ağırdı.
+
+120
+00:11:21,728 --> 00:11:26,364
+Gözlerinde katarakt gelişti, birkaç kez ameliyat oldu.
+
+121
+00:11:26,364 --> 00:11:30,502
+Sürekli yorgunluk ve ateş nöbetleriyle boğuşuyordu.
+
+122
+00:11:30,502 --> 00:11:37,517
+Çağdaşlarının anlattığına göre, cebinde radyum tüplerini taşıdığı ve masa çekmecesinde sakladığı olurdu.
+
+123
+00:11:37,517 --> 00:11:45,854
+4 Temmuz 1934'te Marie Curie, Fransız Alpleri'ndeki bir sanatoryumda, altmış altı yaşında hayatını kaybetti.
+
+124
+00:11:45,854 --> 00:11:51,983
+Ölüm nedeni, kemik iliğinin kan hücresi üretememesiyle ortaya çıkan aplastik anemiydi.
+
+125
+00:11:51,983 --> 00:11:56,704
+Doktorlar bunu, uzun süreli radyasyon maruziyetine bağladı.
+
+126
+00:11:57,548 --> 00:12:02,473
+Marie, Paris yakınlarındaki Sceaux'da, Pierre'in yanına gömüldü.
+
+127
+00:12:02,423 --> 00:12:13,406
+Ölümünden sadece bir yıl sonra, 1935'te kızı Irène ve damadı Frédéric Joliot-Curie, yapay radyoaktiviteyi keşfettikleri için Nobel Kimya Ödülü'nü kazandı.
+
+128
+00:12:13,406 --> 00:12:18,685
+Curie ailesi, tarihte en çok Nobel kazanan ailelerden biri oldu.
+
+129
+00:12:18,685 --> 00:12:26,064
+1995'te Marie ve Pierre Curie'nin naaşları, Fransa'nın büyük isimlerinin yattığı Panthéon'a taşındı.
+
+130
+00:12:26,064 --> 00:12:30,494
+Marie, kendi başarılarıyla Panthéon'a giren ilk kadın oldu.
+
+131
+00:12:30,494 --> 00:12:37,884
+Bugün radyoterapi ile kanser tedavisinden nükleer fiziğe kadar sayısız alanda onun açtığı yoldan yürünüyor.
+
+132
+00:12:37,884 --> 00:12:42,642
+Bir element, curium, onun ve Pierre'in onuruna adlandırıldı.
+
+133
+00:12:42,642 --> 00:12:52,265
+Ona atfedilen bir söz, bütün hayatını özetler gibidir: "Hayatta korkulacak hiçbir şey yoktur; yalnızca anlaşılması gereken şeyler vardır.
+

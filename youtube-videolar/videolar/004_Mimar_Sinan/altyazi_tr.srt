@@ -1,0 +1,380 @@
+1
+00:00:04,099 --> 00:00:14,013
+Sabah ezanı vakti, İstanbul'un tarihi yarımadasına baktığınızda, siluetin en tepesinde dev bir kubbe ve onu çevreleyen dört ince minare görürsünüz.
+
+2
+00:00:13,963 --> 00:00:15,941
+Süleymaniye.
+
+3
+00:00:15,941 --> 00:00:22,228
+Dört yüz yılı aşkın süredir depremlere, yangınlara ve savaşlara rağmen ayakta duran bir yapı.
+
+4
+00:00:22,228 --> 00:00:31,560
+Onu tasarlayan adam, Anadolu'nun bir köyünde doğmuş, devşirme olarak saraya alınmış, yıllarca bir asker olarak savaş meydanlarında dolaşmıştı.
+
+5
+00:00:31,560 --> 00:00:35,334
+Mimarbaşı olduğunda yaklaşık elli yaşındaydı.
+
+6
+00:00:35,334 --> 00:00:43,417
+Ve sonraki yaklaşık elli yıl boyunca üç padişaha hizmet ederek, kendi listelerine göre üç yüzü aşkın yapıya imza attı.
+
+7
+00:00:43,417 --> 00:00:47,786
+En büyük eserini ise seksenli yaşlarında tamamladı.
+
+8
+00:00:47,786 --> 00:00:50,820
+Bu, Mimar Sinan'ın hikâyesi.
+
+9
+00:00:51,672 --> 00:00:55,165
+Sinan'ın doğum yılı kesin olarak bilinmiyor.
+
+10
+00:00:55,115 --> 00:01:03,028
+Tarihçilerin çoğu, onun 1490 yılı civarında, Kayseri yakınlarındaki Ağırnas köyünde doğduğunu kabul ediyor.
+
+11
+00:01:03,028 --> 00:01:10,928
+Hristiyan bir aileden geldiği biliniyor; ama kökeninin Rum mu, Ermeni mi olduğu tarihçiler arasında hâlâ tartışılıyor.
+
+12
+00:01:10,928 --> 00:01:14,800
+Sinan'ın çocukluğuna dair bilgilerimiz çok sınırlı.
+
+13
+00:01:14,800 --> 00:01:24,023
+Bildiğimiz şu: Yavuz Sultan Selim döneminde, yaklaşık 1512 yılında, devşirme sistemiyle köyünden alınarak İstanbul'a getirildi.
+
+14
+00:01:24,023 --> 00:01:31,681
+Bugün Ağırnas'ta, onun doğduğu ev olduğu kabul edilen taş yapı, bir müze ev olarak ziyaretçilerini bekliyor.
+
+15
+00:01:32,524 --> 00:01:40,301
+Devşirme, Osmanlı'nın Hristiyan tebaa arasından seçtiği erkek çocukları saraya ve orduya kazandırdığı bir sistemdi.
+
+16
+00:01:40,251 --> 00:01:46,513
+Bu çocuklar Müslüman olarak yetiştirilir, Türkçe öğrenir ve sert bir eğitimden geçirilirdi.
+
+17
+00:01:46,513 --> 00:01:51,525
+En yetenekliler sarayda, diğerleri ordu saflarında görev alırdı.
+
+18
+00:01:51,525 --> 00:01:57,157
+Sinan, Acemi Oğlanlar Ocağı'nda eğitim gördü ve burada marangozluk öğrendi.
+
+19
+00:01:57,157 --> 00:02:05,907
+Ahşapla çalışmak, ona malzemenin dilini, yükün nasıl taşındığını ve yapının nasıl ayakta durduğunu sezgisel olarak kavramayı öğretti.
+
+20
+00:02:05,907 --> 00:02:13,661
+Belgelerde onun adı, din değiştirenlere verilen yaygın bir baba adı olan "Abdülmennan oğlu Sinan" olarak geçer.
+
+21
+00:02:14,527 --> 00:02:19,211
+Eğitimini tamamlayan Sinan, yeniçeri olarak orduya katıldı.
+
+22
+00:02:19,161 --> 00:02:24,573
+Kanuni Sultan Süleyman'ın Belgrad, Rodos ve Mohaç seferlerinde bulundu.
+
+23
+00:02:24,573 --> 00:02:28,614
+Ama onun asıl değeri, kılıcından çok aklındaydı.
+
+24
+00:02:28,614 --> 00:02:35,471
+Seferler, ona Avrupa'dan İran'a kadar uzanan geniş bir coğrafyadaki yapıları görme fırsatı verdi.
+
+25
+00:02:35,471 --> 00:02:39,100
+Kiliseleri, köprüleri, kaleleri inceledi.
+
+26
+00:02:39,100 --> 00:02:44,561
+Bağdat seferi sırasında Van Gölü'nü geçmek için gemiler inşa ettiği anlatılır.
+
+27
+00:02:44,561 --> 00:02:52,704
+1538'deki Karaboğdan seferinde ise ordunun Prut Nehri'ni geçebilmesi için kısa sürede bir köprü kurdu.
+
+28
+00:02:52,704 --> 00:02:57,219
+Bu başarı, onu padişahın gözünde ayrı bir yere taşıdı.
+
+29
+00:02:57,219 --> 00:03:01,794
+Aynı yıllarda, saray mimarbaşısı Acem Ali vefat etti.
+
+30
+00:03:01,794 --> 00:03:09,318
+Sinan, yaklaşık 1539'da Hassa Mimarbaşı, yani imparatorluğun baş mimarı olarak atandı.
+
+31
+00:03:09,318 --> 00:03:12,037
+Yaklaşık elli yaşındaydı.
+
+32
+00:03:12,037 --> 00:03:16,733
+Ve hayatının asıl hikâyesi, ancak şimdi başlıyordu.
+
+33
+00:03:17,579 --> 00:03:24,932
+1543 yılında Kanuni Sultan Süleyman, çok sevdiği oğlu Şehzade Mehmed'i genç yaşta kaybetti.
+
+34
+00:03:24,882 --> 00:03:30,963
+Acılı padişah, oğlunun anısına bir cami yaptırmak istedi ve bu görevi Sinan'a verdi.
+
+35
+00:03:30,963 --> 00:03:39,992
+1548'de tamamlanan Şehzade Camii, merkezi bir kubbenin dört yarım kubbeyle desteklendiği simetrik bir planla inşa edildi.
+
+36
+00:03:39,992 --> 00:03:47,091
+Sinan'a atfedilen eser listelerini içeren tezkirelerde, bu yapı onun "çıraklık" eseri olarak anılır.
+
+37
+00:03:47,091 --> 00:03:51,521
+Bir çıraklık eseri için bile olağanüstü bir başlangıçtı.
+
+38
+00:03:52,383 --> 00:03:57,103
+Ardından Kanuni, kendi adını taşıyacak bir külliye istedi.
+
+39
+00:03:57,053 --> 00:04:04,177
+1550'de temeli atılan ve 1557'de açılan Süleymaniye, yalnızca bir cami değildi.
+
+40
+00:04:04,177 --> 00:04:13,109
+Medreseleri, darüşşifası yani hastanesi, aşevi, kütüphanesi, hamamı ve dükkânlarıyla bir şehir içinde küçük bir şehirdi.
+
+41
+00:04:13,109 --> 00:04:18,024
+Sinan, caminin akustiğine ve aydınlatmasına özel önem verdi.
+
+42
+00:04:18,024 --> 00:04:24,553
+Yüzlerce pencereden süzülen ışık, iç mekânda neredeyse süzülen bir kubbe hissi yaratır.
+
+43
+00:04:24,553 --> 00:04:33,970
+Halk arasında anlatılan bir hikâyeye göre, kandillerden çıkan isin havalandırma yoluyla bir odada toplandığı ve bu isten mürekkep yapıldığı söylenir.
+
+44
+00:04:33,970 --> 00:04:39,541
+Sinan bu yapıyı, kendi eserleri arasında "kalfalık" dönemine yerleştirdi.
+
+45
+00:04:39,541 --> 00:04:47,866
+Süleymaniye, bugün İstanbul'un simgelerinden biri olarak UNESCO Dünya Mirası listesindeki tarihi alanlar arasında yer alıyor.
+
+46
+00:04:48,716 --> 00:04:52,367
+Sinan'ın işi yalnızca cami yapmak değildi.
+
+47
+00:04:52,317 --> 00:04:57,948
+Mimarbaşı olarak, imparatorluğun dört bir yanındaki yapı işlerinden sorumluydu.
+
+48
+00:04:57,948 --> 00:05:06,589
+Camiler, medreseler, hamamlar, kervansaraylar, köprüler, su kemerleri ve saraylar onun ve ekibinin elinden çıktı.
+
+49
+00:05:06,589 --> 00:05:15,011
+İstanbul'a su taşıyan Kırkçeşme su yolları için inşa ettiği Mağlova Kemeri, bugün bile bir mühendislik harikası olarak görülür.
+
+50
+00:05:15,011 --> 00:05:19,526
+Büyükçekmece'deki uzun taş köprü de onun eserlerindendir.
+
+51
+00:05:19,526 --> 00:05:28,021
+Bugünkü Bosna-Hersek'te, Vişegrad'daki Sokullu Mehmed Paşa Köprüsü de onun eseridir ve UNESCO Dünya Mirası listesindedir.
+
+52
+00:05:28,021 --> 00:05:34,526
+Bu köprü, Nobel ödüllü yazar İvo Andriç'in ünlü "Drina Köprüsü" romanına da konu oldu.
+
+53
+00:05:34,526 --> 00:05:43,931
+İstanbul'daki Rüstem Paşa Camii'nin duvarlarını kaplayan İznik çinileri ise, Osmanlı çini sanatının en göz alıcı örnekleri arasında gösterilir.
+
+54
+00:05:44,783 --> 00:05:52,646
+Mimarbaşı olarak ilk büyük işlerinden biri, Kanuni'nin eşi Hürrem Sultan için İstanbul'da yaptığı Haseki Külliyesi'ydi.
+
+55
+00:05:52,596 --> 00:06:00,594
+Hürrem Sultan adına, Ayasofya ile Sultanahmet arasında bugün hâlâ ayakta duran çifte hamam da Sinan'ın eseridir.
+
+56
+00:06:00,594 --> 00:06:07,208
+Kadınlar ve erkekler için iki ayrı bölümden oluşan bu hamam, simetrik planıyla dikkat çeker.
+
+57
+00:06:07,208 --> 00:06:12,244
+Sinan'ın küçük ölçekli camileri de en az büyükleri kadar ustacadır.
+
+58
+00:06:12,244 --> 00:06:20,145
+Kadırga'daki Sokullu Mehmed Paşa Camii, eğimli bir arazi üzerine, avlusu ve medresesiyle birlikte yerleştirilmiştir.
+
+59
+00:06:20,145 --> 00:06:30,776
+Bu caminin ilginç bir özelliği vardır: Mihrabının ve minberinin çevresine, Kâbe'deki Hacerülesved taşından getirildiği kabul edilen küçük parçalar yerleştirilmiştir.
+
+60
+00:06:30,776 --> 00:06:34,429
+Sinan'ın etkisi İstanbul'la sınırlı kalmadı.
+
+61
+00:06:34,429 --> 00:06:40,703
+Şam'da, Kanuni adına inşa edilen Süleymaniye Tekkiyesi de onun tasarımlarından biridir.
+
+62
+00:06:40,703 --> 00:06:45,897
+İmparatorluğun bir ucundan diğerine, aynı mimari dilin izleri görülür.
+
+63
+00:06:45,897 --> 00:06:50,363
+Bunun sırrı, Sinan'ın yönettiği büyük mimarlar ocağıydı.
+
+64
+00:06:50,363 --> 00:06:56,892
+Planları o çiziyor, yerinde çalışan kalfalar ve ustalar bu planları hayata geçiriyordu.
+
+65
+00:06:57,747 --> 00:07:05,355
+Sinan, Kanuni'nin kızı Mihrimah Sultan için de iki cami inşa etti: Biri Üsküdar'da, diğeri Edirnekapı'da.
+
+66
+00:07:05,305 --> 00:07:12,478
+Edirnekapı'daki cami, kubbesini taşıyan duvarlardaki çok sayıda pencere sayesinde ışıkla dolup taşar.
+
+67
+00:07:12,478 --> 00:07:18,776
+Halk arasında yayılmış romantik bir efsaneye göre Sinan, Mihrimah Sultan'a gizlice âşıktı.
+
+68
+00:07:18,776 --> 00:07:26,749
+Bu hikâyeye göre, belirli günlerde güneş bir caminin minaresinin ardında batarken, ay da diğerinin yanından doğarmış.
+
+69
+00:07:26,749 --> 00:07:30,730
+Mihrimah'ın adı da "güneş ve ay" anlamına gelir.
+
+70
+00:07:30,730 --> 00:07:35,135
+Ancak bu aşkı kanıtlayan hiçbir tarihi belge yoktur.
+
+71
+00:07:35,135 --> 00:07:41,179
+Bu, Sinan'ın eserlerinin insanlarda uyandırdığı hayranlıktan doğmuş güzel bir efsanedir.
+
+72
+00:07:42,031 --> 00:07:48,414
+Kanuni'nin ölümünden sonra tahta geçen oğlu İkinci Selim, Edirne'de bir cami yaptırmak istedi.
+
+73
+00:07:48,364 --> 00:07:52,004
+Sinan bu sırada yaklaşık seksen yaşındaydı.
+
+74
+00:07:52,004 --> 00:08:06,009
+Sinan, tezkiresinde, o dönem bazı mimarların Ayasofya kubbesi büyüklüğünde bir kubbenin Müslüman mimarlar tarafından yapılamayacağını iddia ettiğini, kendisinin de Selimiye'yi bu iddiayı boşa çıkarmak için yaptığını anlatır.
+
+75
+00:08:06,009 --> 00:08:12,417
+Selimiye'nin kubbesi yaklaşık otuz bir metre çapındadır ve sekiz büyük ayak üzerinde yükselir.
+
+76
+00:08:12,417 --> 00:08:18,206
+Dört ince minaresi, Osmanlı mimarisinin en yüksek minareleri arasındadır.
+
+77
+00:08:18,206 --> 00:08:21,968
+Cami 1575 yılında tamamlandı.
+
+78
+00:08:21,968 --> 00:08:27,053
+Sinan bu eseri, kendi deyişiyle "ustalık" eseri olarak gördü.
+
+79
+00:08:27,053 --> 00:08:33,266
+Selimiye Camii ve Külliyesi, 2011'de UNESCO Dünya Mirası listesine alındı.
+
+80
+00:08:33,266 --> 00:08:38,424
+Pek çok sanat tarihçisine göre, Osmanlı mimarisinin zirvesidir.
+
+81
+00:08:39,275 --> 00:08:47,235
+Sinan, hayatının sonlarına doğru, dostu şair Sâî Mustafa Çelebi'ye hatıralarını ve eserlerinin listesini anlattı.
+
+82
+00:08:47,185 --> 00:08:52,561
+Bu metinler, Tezkiretü'l-Bünyan ve Tezkiretü'l-Ebniye gibi adlarla bilinir.
+
+83
+00:08:52,561 --> 00:08:58,362
+Farklı nüshalarda sayılar değişse de, bu listelerde üç yüzü aşkın yapı yer alır.
+
+84
+00:08:58,362 --> 00:09:05,899
+Bu, onun dönemi için çok nadir bir şeydi: Bir mimar, kendi hayat hikâyesini ve eserlerini kayda geçirtmişti.
+
+85
+00:09:05,899 --> 00:09:09,794
+Sinan'ın gerçek bir portresi bugün elimizde yok.
+
+86
+00:09:09,794 --> 00:09:19,042
+Ancak bazı araştırmacılar, 1579 tarihli bir minyatürde inşaat ekibinin başında görülen figürün Sinan olabileceğini düşünüyor.
+
+87
+00:09:19,042 --> 00:09:24,709
+Sinan'ın yetiştirdiği mimarlar da Osmanlı mimarisini sonraki kuşaklara taşıdı.
+
+88
+00:09:24,709 --> 00:09:31,930
+İstanbul'daki Sultanahmet Camii'nin mimarı Sedefkâr Mehmed Ağa, onun ekolünden gelen isimlerden biridir.
+
+89
+00:09:32,775 --> 00:09:38,672
+Mimar Sinan, 1588 yılında İstanbul'da hayata gözlerini yumdu.
+
+90
+00:09:38,622 --> 00:09:45,928
+Doğum tarihi kesin olmadığı için yaşı da tam bilinmiyor; ama yaklaşık yüz yaşına yaklaştığı kabul ediliyor.
+
+91
+00:09:45,928 --> 00:09:54,083
+Hayatı boyunca imparatorluğun en görkemli yapılarını tasarlayan bu usta, kendisi için son derece sade bir türbe yaptı.
+
+92
+00:09:54,083 --> 00:10:01,159
+Bu türbe, Süleymaniye Külliyesi'nin bir köşesinde, en büyük eserlerinden birinin hemen yanında bulunur.
+
+93
+00:10:01,159 --> 00:10:11,353
+Bugün Edirne'den Saraybosna'ya, Şam'dan Kudüs'e kadar uzanan geniş bir coğrafyada, Sinan'ın imzasını taşıyan ya da ona atfedilen yapılar hâlâ kullanılıyor.
+
+94
+00:10:11,353 --> 00:10:19,399
+Türkiye'de bir üniversite ona adanmış; bir zamanlar on bin liralık banknotların arka yüzünde onun portresi yer alıyordu.
+
+95
+00:10:19,399 --> 00:10:27,384
+Ve her sabah İstanbul'un siluetine baktığımızda, dört yüz yılı aşkın süredir, devşirme bir çocuğun hayallerini görüyoruz.
+

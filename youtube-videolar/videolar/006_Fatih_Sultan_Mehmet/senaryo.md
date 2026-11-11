@@ -1,0 +1,105 @@
+# Fatih Sultan Mehmet'in Hayatı: 21 Yaşında İstanbul'u Fetheden Padişah | Belgesel
+
+## Giriş
+
+22 Nisan 1453 gecesi, Galata'nın arkasındaki tepelerde inanılmaz bir şey yaşandı. Onlarca savaş gemisi, yağlanmış kızaklar üzerinde, öküzlerin ve binlerce askerin gücüyle karadan yürütüldü. Sabah olduğunda, Bizans'ın Haliç'i koruyan dev zinciri işe yaramaz hale gelmişti. Osmanlı gemileri artık Haliç'in içindeydi.
+
+Bu planı uygulatan padişah, henüz yirmi bir yaşındaydı. Beş hafta sonra, bin yılı aşkın süredir ayakta duran Bizans İmparatorluğu'nun başkenti Konstantinopolis düşecek ve tarihçilerin çoğuna göre Orta Çağ sona erecekti.
+
+Bu, İkinci Mehmed'in, yani Fatih Sultan Mehmet'in hikâyesi.
+
+## [0:49] Edirne'de Doğan Şehzade
+
+Mehmed, 30 Mart 1432'de, o dönem Osmanlı'nın başkenti olan Edirne'de doğdu. Babası Sultan İkinci Murad, annesi Hüma Hatun'du. Mehmed, babasının küçük oğullarından biriydi ve başlangıçta tahtın beklenen varisi değildi.
+
+Osmanlı geleneğine göre şehzadeler çok küçük yaşta sancaklara gönderilir, devlet yönetimini orada öğrenirdi. Mehmed de çocuk yaşta Amasya'ya, ardından Manisa'ya gönderildi. Ancak ağabeyleri birer birer hayatını kaybedince, genç Mehmed tahtın tek varisi haline geldi.
+
+## [1:26] Değneği Unutmayan Hoca
+
+Anlatılanlara göre çocuk Mehmed oldukça inatçı ve derslerine ilgisizdi. Babası Murad, oğlunun eğitimi için dönemin ünlü âlimi Molla Gürani'yi görevlendirdi ve ona, gerekirse şehzadeyi cezalandırma yetkisi verdi. Rivayete göre Molla Gürani, elinde bir değnekle derse girdi ve söz dinlemeyen şehzadeyi cezalandırdı. Bundan sonra Mehmed derslerine sıkı sıkıya sarıldı.
+
+Mehmed'in hayatındaki bir diğer önemli isim, manevi hocası Akşemseddin'di. Fethin manevi önderlerinden biri olarak anılacaktı.
+
+Kaynaklar, Mehmed'in Türkçenin yanı sıra Arapça ve Farsça bildiğini, Yunanca ve Latince ile de ilgilendiğini aktarır. Tarih, coğrafya, matematik ve askerî bilimlere meraklıydı. İskender ve Sezar gibi büyük komutanların hayatlarını okumayı severdi. Ayrıca "Avnî" mahlasıyla şiirler yazdı.
+
+## [2:25] On İki Yaşında Padişah
+
+1444'te, henüz on iki yaşındayken beklenmedik bir şey oldu. Sultan Murad tahttan çekildi ve tahtı oğlu Mehmed'e bıraktı. Ancak Avrupa'da bu durumu fırsat bilen bir Haçlı ordusu harekete geçti. Devlet adamları, tecrübeli Murad'ı geri çağırdı. Murad, Kasım 1444'te Varna Meydan Muharebesi'nde Haçlıları yendi.
+
+Birkaç yıl sonra, Edirne'de yeniçeriler ayaklandı. Bu kargaşanın ardından Murad, tahtı yeniden devraldı. Genç Mehmed ise Manisa'ya geri gönderildi. Bu deneyim, ona derin bir ders verdi: Güçlü olmayan bir hükümdarın tahtı korunamazdı.
+
+Şubat 1451'de babası Sultan Murad öldü. On sekiz yaşındaki Mehmed, ikinci kez ve bu sefer kalıcı olarak tahta çıktı. Avrupa'daki birçok hükümdar, tecrübesiz bir gencin tahta geçtiğini düşünerek rahatladı. Çok yanılıyorlardı.
+
+## [3:28] Boğazkesen
+
+Mehmed'in tek bir hedefi vardı: Konstantinopolis. Bu şehir, yüzyıllardır Osmanlı topraklarının ortasında bir ada gibi duruyordu ve Osmanlı'nın Anadolu ile Rumeli arasındaki bağlantısını tehdit ediyordu.
+
+1452 baharında Mehmed, İstanbul Boğazı'nın en dar yerinde, Anadolu Hisarı'nın tam karşısında bir hisar yaptırmaya başladı. Rumeli Hisarı yaklaşık dört buçuk ayda tamamlandı. Halk ona "Boğazkesen" adını verdi. Artık Karadeniz'den gelen hiçbir gemi, Osmanlı'nın izni olmadan Bizans'a ulaşamayacaktı.
+
+Aynı dönemde Orban adlı bir top dökümcüsü, önce Bizans'a hizmet teklif etti. Bizans imparatoru ona istediği parayı ödeyemedi. Orban bunun üzerine Mehmed'e gitti. Mehmed ona istediği her şeyi verdi ve Orban, Osmanlı ordusu için o güne kadar görülmüş en büyük toplardan birini döktü.
+
+## [4:27] Kuşatma
+
+6 Nisan 1453'te Osmanlı ordusu, Konstantinopolis'in surlarının önünde kuşatmaya başladı. Karşılarında, dünyanın en güçlü savunma duvarlarından biri olarak bilinen Theodosius Surları vardı. Bu surlar, bin yıl boyunca sayısız orduyu durdurmuştu.
+
+Şehri, son Bizans imparatoru On Birinci Konstantin savunuyordu. Askerleri sayıca azdı, ama Cenevizli komutan Giovanni Giustiniani gibi tecrübeli savaşçılar da yanındaydı. Haliç'in girişi ise kalın bir zincirle kapatılmıştı.
+
+Osmanlı topları haftalarca surları dövdü. Bizanslılar her gece yıkılan yerleri onarıyordu. İlk saldırılar püskürtüldü. Nisan ayında Haliç'e yardım getiren gemilerin Osmanlı donanmasını aşıp şehre ulaşması, Mehmed'i öfkelendirdi. Bir çözüm bulmalıydı.
+
+## [5:23] Gemiler Karadan Yürüyor
+
+Mehmed'in bulduğu çözüm, savaş tarihinin en cesur hamlelerinden biriydi. Galata'nın arkasındaki tepelerin üzerinden, Boğaz'dan Haliç'e uzanan bir yol hazırlatıldı. Yola yağlanmış kızaklar döşendi.
+
+22 Nisan 1453 gecesi, onlarca gemi bu yoldan karadan yürütülerek Haliç'e indirildi. Kaynaklarda gemi sayısı farklı veriliyor, ama çoğu kaynak yetmiş civarında gemiden söz ediyor. Ertesi sabah Bizanslılar, Haliç'in içinde Osmanlı gemilerini görünce büyük bir şaşkınlık ve korku yaşadı. Artık surların Haliç tarafını da savunmak zorundaydılar ve zaten az olan askerleri daha da dağıldı.
+
+## [6:07] 29 Mayıs 1453
+
+Mayıs ayının sonlarında Mehmed, son büyük saldırıya karar verdi. 29 Mayıs 1453 Salı günü, şafaktan önce, Osmanlı ordusu dalgalar halinde surlara yüklendi.
+
+Saldırının en kritik anında Bizans savunmasının komutanlarından Giustiniani ağır yaralandı ve savaş alanından çekildi. Bu, savunmacıların moralini çökertti. Osmanlı askerleri surları aştı ve şehre girdi. Son Bizans imparatoru On Birinci Konstantin, savaşarak hayatını kaybetti.
+
+Aynı gün öğleden sonra, yirmi bir yaşındaki Sultan Mehmed, atının üzerinde şehre girdi ve Ayasofya'ya gitti. Ayasofya camiye dönüştürüldü. O günden sonra halk ona "Fatih", yani fetheden diyecekti. Doğu Roma İmparatorluğu sona ermişti.
+
+## [7:00] Yeni Bir Başkent
+
+Fatih, şehri yeni başkenti yaptı. Ancak kuşatma sırasında nüfusun büyük kısmı ölmüş, esir alınmış ya da kaçmıştı. Fatih, Anadolu'dan ve Balkanlar'dan Müslüman, Hristiyan ve Yahudi aileleri şehre yerleştirdi.
+
+Rum Ortodoks topluluğuna yeni bir patrik seçtirdi; Gennadios Skolarios'u patrik olarak atadı ve onun dinî topluluğu üzerindeki yetkilerini tanıdı. Bu, Osmanlı'nın farklı inanç topluluklarını kendi dinî liderleri aracılığıyla yönetme geleneğinin önemli bir adımı oldu.
+
+İstanbul kısa sürede yeniden canlandı. Fatih, burada camiler, medreseler, çarşılar ve hanlar yaptırdı. Fatih Külliyesi ve onun içindeki Sahn-ı Seman medreseleri, imparatorluğun en önemli eğitim kurumu haline geldi. Topkapı Sarayı'nın inşası da onun döneminde başladı.
+
+## [7:55] Durmayan Bir Sultan
+
+İstanbul'un fethi, Fatih için bir son değil, başlangıçtı. Otuz yıllık saltanatı boyunca neredeyse her yıl bir sefere çıktı.
+
+Sırbistan ve Mora'yı Osmanlı topraklarına kattı. 1461'de Trabzon Rum İmparatorluğu'na son verdi. 1462'de Eflak'ta, tarihe Kazıklı Voyvoda olarak geçen Üçüncü Vlad'a karşı sefer düzenledi. Bu Vlad, yüzyıllar sonra Drakula efsanesine ilham verecek olan hükümdardı. 1463'te Bosna'yı aldı. 1473'te Otlukbeli'nde Akkoyunlu hükümdarı Uzun Hasan'ı yendi. Venedik ile yaklaşık on altı yıl süren bir savaş yaptı.
+
+1480'de Osmanlı kuvvetleri İtalya'nın güneyindeki Otranto'ya çıktı. Avrupa'da büyük bir korku yayıldı. Aynı yıl Rodos kuşatması ise başarısız oldu.
+
+## [8:53] Bellini'nin Portresi
+
+Fatih, savaşçı kimliğinin yanında sanata ve bilime de ilgi duyan bir hükümdardı. 1479'da Venedik ile barış yapıldıktan sonra, Venedikli ressam Gentile Bellini'yi İstanbul'a davet etti. Bellini, bugün Londra'daki Ulusal Galeri'de bulunan ünlü Fatih portresini 1480 yılında yaptı.
+
+Fatih, sarayında farklı dinlerden ve milletlerden bilginleri ağırladı. Ünlü astronom Ali Kuşçu'yu İstanbul'a davet etti. Hukuk alanında da önemli düzenlemeler yaptı ve devlet teşkilatını düzenleyen kanunnameler hazırlattı.
+
+## [9:31] Hünkâr Çayırı'nda Bir Son
+
+1481 baharında Fatih, yeni bir sefer için ordusuyla Anadolu'ya geçti. Seferin hedefi bugün hâlâ tartışılıyor. Ancak Gebze yakınlarındaki Hünkâr Çayırı denilen yerde ağır şekilde hastalandı. 3 Mayıs 1481'de, henüz kırk dokuz yaşındayken hayatını kaybetti.
+
+Ölüm nedeni de tartışmalıdır. Bazı tarihçiler, uzun süredir çektiği gut ve mide rahatsızlıkları gibi hastalıklarının etkili olduğunu düşünürken, bazıları onun zehirlenmiş olabileceğini ileri sürer. Bu konuda kesin bir sonuç yoktur.
+
+Fatih Sultan Mehmet, İstanbul'daki Fatih Camii'nin yanındaki türbesine defnedildi. Arkasında, yüzyıllar boyunca dünyanın en önemli şehirlerinden biri olacak bir başkent ve Avrupa ile Asya arasında uzanan bir imparatorluk bıraktı.
+
+Bugün İstanbul Boğazı'nı geçen köprülerden biri, onun adını taşıyor: Fatih Sultan Mehmet Köprüsü.
+
+## Fragman
+
+Henüz on iki yaşındayken tahta çıkarıldı. Sonra tahttan indirildi.
+
+On sekiz yaşında ikinci kez padişah olduğunda, Avrupa onu tecrübesiz bir genç sandı. Ama o, yüzyıllardır kimsenin alamadığı bir şehri hedefledi.
+
+Boğaz'ın en dar yerine bir hisar yaptırdı. Dev toplar döktürdü. Haliç'in zinciri yolunu kesince, gemilerini bir gecede karadan yürüttü.
+
+Ve 29 Mayıs 1453'te, yirmi bir yaşındayken, bin yıllık bir imparatorluğa son verdi.
+
+Fatih Sultan Mehmet'in hayat hikâyesi. Tamamı kanalımızda.

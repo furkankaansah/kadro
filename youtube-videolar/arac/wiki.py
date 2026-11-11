@@ -2,6 +2,10 @@
 import json, os, re, ssl, time, urllib.parse, urllib.request
 
 UA = "BiyografiVideoUretici/1.0 (educational documentary video tool; low-volume thumbnail downloads)"
+# Wikimedia, otomatik araçlardan iletişim bilgisi ister. İstersen arac/iletisim.txt dosyasına e-postanı yaz.
+_il = os.path.join(os.path.dirname(os.path.abspath(__file__)), "iletisim.txt")
+if os.path.exists(_il) and open(_il, encoding="utf-8").read().strip():
+    UA = UA[:-1] + "; contact: " + open(_il, encoding="utf-8").read().strip().splitlines()[0] + ")"
 _CA = "/root/.ccr/ca-bundle.crt"
 _CTX = ssl.create_default_context(cafile=_CA) if os.path.exists(_CA) else ssl.create_default_context()
 
@@ -11,7 +15,7 @@ _last = [0.0]
 
 def get(url, binary=False, tries=10):
     for i in range(tries):
-        wait = 3.0 - (time.time() - _last[0])
+        wait = 1.5 - (time.time() - _last[0])
         if wait > 0:
             time.sleep(wait)
         _last[0] = time.time()
@@ -24,7 +28,8 @@ def get(url, binary=False, tries=10):
             if i == tries - 1:
                 raise
             ra = getattr(e, "headers", None) and e.headers.get("Retry-After")
-            time.sleep(min(int(ra), 900) if ra and ra.isdigit() else min(10 * 2 ** i, 300))
+            print(f"    [Wikimedia yoğun, bekleniyor] {str(e)[:60]} (deneme {i + 1})", flush=True)
+            time.sleep(min(int(ra), 900) if ra and ra.isdigit() else min(60 * 2 ** i, 900))
 
 
 def api(host, **params):
@@ -84,8 +89,7 @@ def file_info(names, width=1920):
             d = api(host, action="query", titles="|".join("File:" + n for n in chunk), prop="imageinfo",
                     iiprop="url|size|extmetadata", iiurlwidth=width,
                     iiextmetadatafilter="LicenseShortName|Artist|ImageDescription|Credit")
-            norm = {x["to"]: x["from"] for x in d["query"].get("normalized", [])}
-            for p in d["query"]["pages"].values():
+            for p in d.get("query", {}).get("pages", {}).values():
                 if "imageinfo" not in p:
                     continue
                 ii = p["imageinfo"][0]
@@ -106,7 +110,7 @@ def file_info(names, width=1920):
 def search_files(query, limit=10):
     d = api("commons.wikimedia.org", action="query", list="search", srnamespace=6,
             srsearch=query + " filetype:bitmap", srlimit=limit)
-    return [x["title"].split(":", 1)[1] for x in d["query"]["search"]]
+    return [x["title"].split(":", 1)[1] for x in d.get("query", {}).get("search", [])]
 
 
 OK_LICENSE = re.compile(r"public domain|^pd|cc0|cc by|cc-by|attribution|no restrictions|fal", re.I)

@@ -1,10 +1,10 @@
-SIRADAKİ HAYAT HİKÂYELERİ (yeni videolar bu sırayla üretilir — sırayı değiştirebilirsin)
+SIRADAKİ HAYAT HİKÂYELERİ ([x] = senaryosu hazır. Yeni senaryolar bu sırayla yazılır; sırayı değiştirebilirsin)
 [x] 001 Nikola Tesla
-[ ] 002 Mustafa Kemal Atatürk
-[ ] 003 Marie Curie
-[ ] 004 Mimar Sinan
-[ ] 005 Albert Einstein
-[ ] 006 Fatih Sultan Mehmet
+[x] 002 Mustafa Kemal Atatürk
+[x] 003 Marie Curie
+[x] 004 Mimar Sinan
+[x] 005 Albert Einstein
+[x] 006 Fatih Sultan Mehmet
 [ ] 007 Leonardo da Vinci
 [ ] 008 Aziz Sancar
 [ ] 009 Steve Jobs

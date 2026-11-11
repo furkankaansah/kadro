@@ -21,11 +21,24 @@ import wiki  # noqa: E402
 KOK = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 ONB = os.path.join(KOK, ".onbellek")
 W, H, FPS = 1280, 720, 25
-FONT_B = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
-FONT_R = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
-FONT_S = "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf"
-SAHNE_ARASI = 0.7
-HIZ = "+3%"  # konuşma hızı  # bölümler arası sessizlik (sn)
+
+
+def _font_bul(*adaylar):
+    for a in adaylar:
+        if os.path.exists(a):
+            return a
+    raise SystemExit("Uygun yazı tipi bulunamadı: " + adaylar[0])
+
+
+_WF = os.path.join(os.environ.get("WINDIR", "C:/Windows"), "Fonts")
+FONT_B = _font_bul("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", os.path.join(_WF, "arialbd.ttf"),
+                   "/System/Library/Fonts/Supplemental/Arial Bold.ttf", "/Library/Fonts/Arial Bold.ttf")
+FONT_R = _font_bul("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", os.path.join(_WF, "arial.ttf"),
+                   "/System/Library/Fonts/Supplemental/Arial.ttf", "/Library/Fonts/Arial.ttf")
+FONT_S = _font_bul("/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf", os.path.join(_WF, "georgiab.ttf"),
+                   "/System/Library/Fonts/Supplemental/Georgia Bold.ttf", FONT_B)
+SAHNE_ARASI = 0.7  # bölümler arası sessizlik (sn)
+HIZ = "+3%"  # konuşma hızı
 
 
 # ---------------------------------------------------------------- senaryo okuma
@@ -96,9 +109,61 @@ def kare_hazirla(src, dst, olcek=2):
     return dst
 
 
+def gorselleri_coz(meta, sahneler, kayit):
+    """'ara: sorgu' biçimindeki görsel girdilerini Commons aramasıyla dosya adına çevirir.
+    Seçimler kaydedilir; aynı sonuç tekrar kullanılır (değiştirmek için json'u düzenle/sil)."""
+    secim = json.load(open(kayit, encoding="utf-8")) if os.path.exists(kayit) else {}
+    kullanilan = set(secim.values())
+    for s in sahneler:
+        kullanilan.update(g for g in s["gorsel"] if not g.startswith("ara:"))
+
+    def coz(g):
+        if not g.startswith("ara:"):
+            return g
+        if g in secim:
+            return secim[g]
+        q = g[4:].strip()
+        adaylar = wiki.search_files(q, 12)
+        inf = wiki.file_info(adaylar) if adaylar else {}
+        for n in adaylar:
+            i = inf.get(n)
+            if i and n not in kullanilan and min(i["w"], i["h"]) >= 600 and wiki.OK_LICENSE.search(i["license"] or ""):
+                secim[g] = n; kullanilan.add(n)
+                json.dump(secim, open(kayit, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+                print(f"  görsel: '{q}' → {n}")
+                return n
+        print(f"  UYARI: '{q}' için uygun görsel bulunamadı, atlandı")
+        return None
+
+    for s in sahneler:
+        s["gorsel"] = [x for x in (coz(g) for g in s["gorsel"]) if x]
+        if not s["gorsel"]:
+            raise SystemExit(f"'{s['baslik']}' bölümü için hiç görsel yok")
+    ilkler = [s["gorsel"][0] for s in sahneler]
+    for k in ("giris_gorseller", "fragman_gorseller"):
+        meta[k] = "; ".join(x for x in (coz(g) for g in liste(meta.get(k))) if x)
+    if not meta.get("giris_gorseller"):
+        meta["giris_gorseller"] = "; ".join(ilkler[:3])
+    if not meta.get("fragman_gorseller"):
+        meta["fragman_gorseller"] = "; ".join(ilkler[:11])
+    meta["kapak_gorsel"] = coz(meta.get("kapak_gorsel") or "") or ilkler[0]
+
+
 # ---------------------------------------------------------------- yazı kartları
 def font(p, s):
     return ImageFont.truetype(p, s)
+
+
+def buyuk(t):
+    """Türkçe kurallarına uygun büyük harf (i→İ, ı→I)."""
+    return t.replace("i", "İ").replace("ı", "I").upper()
+
+
+def sigdir(d, t, p, boy, maxw):
+    f = font(p, boy)
+    while d.textlength(t, font=f) > maxw and boy > 20:
+        boy -= 2; f = font(p, boy)
+    return f
 
 
 def sar(draw, metin, f, maxw):
@@ -130,8 +195,8 @@ def baslik_karti(dst, ad, yillar, alt):
     im = Image.new("RGB", (W, H), (12, 12, 14)); d = ImageDraw.Draw(im)
     for y in range(H):
         c = int(12 + 18 * (y / H)); d.line([(0, y), (W, y)], fill=(c, c, c + 2))
-    f1, f2, f3 = font(FONT_S, 78), font(FONT_B, 34), font(FONT_R, 28)
-    for i, (t, f, col, y) in enumerate([(ad.upper(), f1, (255, 255, 255), 250), (yillar, f2, (232, 180, 40), 360)]):
+    f1, f2, f3 = sigdir(d, buyuk(ad), FONT_S, 78, W - 100), sigdir(d, yillar, FONT_B, 34, W - 100), font(FONT_R, 28)
+    for i, (t, f, col, y) in enumerate([(buyuk(ad), f1, (255, 255, 255), 250), (yillar, f2, (232, 180, 40), 360)]):
         d.text(((W - d.textlength(t, font=f)) / 2, y), t, font=f, fill=col)
     d.line([(W / 2 - 120, 345), (W / 2 + 120, 345)], fill=(232, 180, 40), width=3)
     for i, l in enumerate(sar(d, alt, f3, 1000)):
@@ -152,17 +217,17 @@ def kapak(dst, gorsel, yazi, ad):
     bg.paste(Image.new("RGB", (W, H), (8, 8, 10)), (0, 0), grad)
     d = ImageDraw.Draw(bg)
     satirlar = [s.strip() for s in yazi.split("|") if s.strip()]
-    y = 120
+    y = 90
     for i, s in enumerate(satirlar):
-        f = font(FONT_B, 76 if len(s) < 14 else 60)
-        for l in sar(d, s.upper(), f, W * 0.58):
+        f = font(FONT_B, 96 if len(s) < 12 else 80 if len(s) < 18 else 64)
+        for l in sar(d, buyuk(s), f, W * 0.58):
             col = (255, 214, 0) if i == 0 else (255, 255, 255)
             d.text((50, y), l, font=f, fill=col, stroke_width=4, stroke_fill=(0, 0, 0))
             y += f.size + 12
         y += 14
-    f = font(FONT_S, 44)
-    d.rectangle([40, H - 120, 60 + d.textlength(ad.upper(), font=f), H - 50], fill=(200, 30, 30))
-    d.text((50, H - 115), ad.upper(), font=f, fill=(255, 255, 255))
+    f = sigdir(d, buyuk(ad), FONT_S, 44, W * 0.5)
+    d.rectangle([40, H - 120, 60 + d.textlength(buyuk(ad), font=f), H - 50], fill=(200, 30, 30))
+    d.text((50, H - 115), buyuk(ad), font=f, fill=(255, 255, 255))
     bg.save(dst, quality=92)
 
 
@@ -228,6 +293,10 @@ def cumlele(m):
 
 
 # ---------------------------------------------------------------- video
+def ffyol(p):
+    return os.path.abspath(p).replace("\\", "/").replace("'", "'\\''")
+
+
 def run(cmd):
     r = subprocess.run(cmd, capture_output=True, text=True)
     if r.returncode:
@@ -256,7 +325,7 @@ def segment(goruntuler, ses, dur, cikis, bant=None, gecici="."):
         p = os.path.join(gecici, f"kb_{os.path.basename(cikis)}_{i}.mp4")
         kenburns(k, per, hash(k) % 4 + i, p); parcalar.append(p)
     lst = os.path.join(gecici, os.path.basename(cikis) + ".lst")
-    open(lst, "w").write("".join(f"file '{os.path.abspath(p)}'\n" for p in parcalar))
+    open(lst, "w").write("".join(f"file '{ffyol(p)}'\n" for p in parcalar))
     cmd = ["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst]
     if ses:
         cmd += ["-i", ses]
@@ -280,7 +349,7 @@ def segment(goruntuler, ses, dur, cikis, bant=None, gecici="."):
 
 def birlestir(parcalar, cikis, gecici):
     lst = os.path.join(gecici, "hepsi.lst")
-    open(lst, "w").write("".join(f"file '{os.path.abspath(p)}'\n" for p in parcalar))
+    open(lst, "w").write("".join(f"file '{ffyol(p)}'\n" for p in parcalar))
     run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-c", "copy",
          "-movflags", "+faststart", cikis])
 
@@ -300,15 +369,20 @@ def uret(yol, sesadi, sadece_metin=False):
     gecici = os.path.join(ONB, "tmp", meta["klasor"]); os.makedirs(gecici, exist_ok=True)
     print(f"\n=== {ad} → {klasor}")
     bilgi = {}
+    if not sadece_metin:
+        gorselleri_coz(meta, sahneler, os.path.join(klasor, "secilen_gorseller.json"))
     tum_gorseller = []
     for s in sahneler:
         tum_gorseller += s["gorsel"]
     tum_gorseller += liste(meta.get("fragman_gorseller")) + [meta.get("kapak_gorsel", "")]
     tum_gorseller = [g for g in dict.fromkeys(tum_gorseller) if g]
+    tum_gorseller = [g for g in tum_gorseller if not g.startswith("ara:")]
     for i in range(0, len(tum_gorseller), 40):
+        if sadece_metin:
+            break
         bilgi.update(wiki.file_info(tum_gorseller[i:i + 40], width=1920))
     eksik = [g for g in tum_gorseller if g not in bilgi]
-    if eksik:
+    if eksik and not sadece_metin:
         raise SystemExit("Commons'ta bulunamayan görseller: " + "; ".join(eksik))
 
     # açılış metni = @giris, sonra bölümler
@@ -344,6 +418,8 @@ def uret(yol, sesadi, sadece_metin=False):
     bolum_listesi = "0:00 Başlangıç\n" + "\n".join(f"{zt(z)} {b}" for z, b in zaman[1:])
     kredi = []
     for g in tum_gorseller:
+        if g not in bilgi:
+            kredi.append(f"- {g} (lisans bilgisi video üretilirken doldurulur)"); continue
         i = bilgi[g]
         kredi.append(f"- {g} — {i['artist'] or 'bilinmiyor'} — {i['license']} — {i['page']}")
     aciklama = (meta["aciklama"].strip() + "\n\n⏱ BÖLÜMLER\n" + bolum_listesi +
@@ -415,10 +491,15 @@ if __name__ == "__main__":
     ap.add_argument("--hepsi", action="store_true")
     ap.add_argument("--ses", default="tr-TR-AhmetNeural")
     ap.add_argument("--sadece-metin", action="store_true")
+    ap.add_argument("--yeniden", action="store_true", help="--hepsi ile: hazır videoları da yeniden üret")
     a = ap.parse_args()
     yollar = a.senaryo
     if a.hepsi:
         d = os.path.join(KOK, "senaryolar")
         yollar = sorted(os.path.join(d, f) for f in os.listdir(d) if f.endswith(".txt"))
     for y in yollar:
+        if a.hepsi and not a.yeniden:
+            m, _ = senaryo_oku(y)
+            if os.path.exists(os.path.join(KOK, "videolar", m["klasor"], m["klasor"] + "_FRAGMAN.mp4")):
+                print(f"zaten hazır: {m['klasor']}"); continue
         uret(y, a.ses, a.sadece_metin)
