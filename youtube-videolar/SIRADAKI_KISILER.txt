@@ -9,10 +9,10 @@ SIRADAKİ HAYAT HİKÂYELERİ ([x] = senaryosu hazır. Yeni senaryolar bu sıray
 [x] 008 Aziz Sancar
 [x] 009 Steve Jobs
 [x] 010 Barış Manço
-[ ] 011 Charles Chaplin
-[ ] 012 Cahit Arf
-[ ] 013 Frida Kahlo
-[ ] 014 Nâzım Hikmet
+[x] 011 Charlie Chaplin
+[x] 012 Cahit Arf
+[x] 013 Frida Kahlo
+[x] 014 Nâzım Hikmet
 [ ] 015 Muhammed Ali
 [ ] 016 Thomas Edison
 [ ] 017 Sabiha Gökçen

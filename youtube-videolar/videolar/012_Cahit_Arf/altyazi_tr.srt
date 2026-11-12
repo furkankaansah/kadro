@@ -1,0 +1,344 @@
+1
+00:00:04,099 --> 00:00:09,681
+Cebinizde bir on Türk lirası banknot varsa, onu çevirip arka yüzüne bakın.
+
+2
+00:00:09,631 --> 00:00:18,186
+Orada, gözlüklü, yaşlı bir adamın portresi ve yanında, çoğu insanın anlamını bilmediği bir matematik formülü göreceksiniz.
+
+3
+00:00:18,186 --> 00:00:26,026
+Bu formül, matematik dünyasında bugün hâlâ bu adamın adıyla anılan bir kavramı, "Arf değişmezi"ni tanımlıyor.
+
+4
+00:00:26,026 --> 00:00:32,834
+Dünyada adı, kendi buluşlarıyla birlikte matematik kitaplarına geçmiş çok az Türk bilim insanı var.
+
+5
+00:00:32,834 --> 00:00:36,208
+O, bunların en önde gelenlerinden biri.
+
+6
+00:00:36,208 --> 00:00:43,878
+Selanik'te doğdu, Paris'te okudu, Göttingen'de doktora yaptı ve hayatını Türkiye'de matematiği yaymaya adadı.
+
+7
+00:00:43,878 --> 00:00:46,851
+Bu, Cahit Arf'ın hikâyesi.
+
+8
+00:00:47,712 --> 00:00:55,064
+Cahit Arf, 11 Ekim 1910'da, o dönem Osmanlı İmparatorluğu'nun bir parçası olan Selanik'te doğdu.
+
+9
+00:00:55,014 --> 00:00:59,760
+Ancak çocukluğu, imparatorluğun çöküş yıllarına denk geldi.
+
+10
+00:00:59,760 --> 00:01:10,609
+1912'de patlak veren Balkan Savaşları sırasında Selanik, Osmanlı'nın elinden çıktı ve Arf ailesi, birçok aile gibi şehri terk etmek zorunda kaldı.
+
+11
+00:01:10,609 --> 00:01:15,184
+Aile önce İstanbul'a, daha sonra İzmir'e yerleşti.
+
+12
+00:01:15,184 --> 00:01:21,580
+Küçük Cahit, savaş yıllarının ve ardından gelen Kurtuluş Savaşı'nın zor koşullarında büyüdü.
+
+13
+00:01:21,580 --> 00:01:25,451
+Cumhuriyet kurulduğunda henüz on üç yaşındaydı.
+
+14
+00:01:25,451 --> 00:01:31,034
+Çocukluğundan itibaren sayılara ve problemlere karşı olağanüstü bir ilgisi vardı.
+
+15
+00:01:31,034 --> 00:01:38,315
+Öğretmenleri onun yeteneğini fark etti ve ailesini, eğitimine özel önem vermeleri için teşvik etti.
+
+16
+00:01:39,171 --> 00:01:47,228
+Genç Cumhuriyet, yetenekli gençleri yurt dışına göndererek ülkenin ihtiyaç duyduğu bilim insanlarını yetiştirmeye çalışıyordu.
+
+17
+00:01:47,178 --> 00:01:53,307
+Cahit Arf de bu öğrencilerden biri oldu ve 1926'da Fransa'ya gitti.
+
+18
+00:01:53,307 --> 00:01:57,093
+Paris'teki ünlü Saint-Louis Lisesi'nde okudu.
+
+19
+00:01:57,093 --> 00:02:04,217
+Ardından Fransa'nın en seçkin yükseköğretim kurumlarından biri olan École Normale Supérieure'e kabul edildi.
+
+20
+00:02:04,217 --> 00:02:09,945
+Bu okul, dünyaca ünlü pek çok matematikçi ve bilim insanı yetiştirmişti.
+
+21
+00:02:09,945 --> 00:02:13,829
+Arf, 1932'de buradan mezun oldu.
+
+22
+00:02:13,829 --> 00:02:18,428
+Paris yılları, onun matematik anlayışını derinden etkiledi.
+
+23
+00:02:18,428 --> 00:02:23,659
+Fransız matematik okulunun soyut, yapısal düşünme biçimi ile tanıştı.
+
+24
+00:02:23,659 --> 00:02:30,783
+Matematiği ezberlenecek formüller olarak değil, keşfedilecek bir düşünce dünyası olarak görmeye başladı.
+
+25
+00:02:31,640 --> 00:02:38,907
+Türkiye'ye döndüğünde Arf, İstanbul'daki Galatasaray Lisesi'nde matematik öğretmeni olarak çalışmaya başladı.
+
+26
+00:02:38,857 --> 00:02:43,323
+Ardından İstanbul Üniversitesi'nde asistanlık yaptı.
+
+27
+00:02:43,323 --> 00:02:47,887
+O yıllarda Türk üniversiteleri büyük bir dönüşüm yaşıyordu.
+
+28
+00:02:47,887 --> 00:02:58,081
+1933 Üniversite Reformu ile birlikte, Nazi Almanyası'ndan kaçmak zorunda kalan pek çok bilim insanı İstanbul Üniversitesi'nde göreve başlamıştı.
+
+29
+00:02:58,081 --> 00:03:03,518
+Bu, Türk bilim hayatı için büyük bir fırsattı ve Arf de bu ortamda yetişti.
+
+30
+00:03:03,518 --> 00:03:09,792
+Ancak Arf, kendi araştırmalarını derinleştirmek için doktora yapması gerektiğini biliyordu.
+
+31
+00:03:09,792 --> 00:03:17,705
+Bu kez yolu, matematik dünyasının o dönemki en önemli merkezlerinden birine, Almanya'nın Göttingen şehrine çıktı.
+
+32
+00:03:18,564 --> 00:03:28,841
+Göttingen Üniversitesi, Carl Friedrich Gauss'tan Bernhard Riemann'a, David Hilbert'e kadar matematik tarihinin dev isimlerinin çalıştığı efsanevi bir merkezdi.
+
+33
+00:03:28,791 --> 00:03:34,993
+Arf burada, sayılar teorisinin önde gelen isimlerinden Helmut Hasse'nin öğrencisi oldu.
+
+34
+00:03:34,993 --> 00:03:41,121
+Arf'ın Göttingen'deki çalışmaları, cebirsel sayılar teorisi denen alanda yoğunlaştı.
+
+35
+00:03:41,121 --> 00:03:44,956
+1938'de doktorasını tamamladı.
+
+36
+00:03:44,956 --> 00:03:52,930
+Doktora çalışmasından çıkan sonuçlardan biri, bugün matematik literatüründe "Hasse–Arf teoremi" olarak bilinir.
+
+37
+00:03:52,930 --> 00:03:59,228
+Yani genç Türk matematikçinin adı, hocasının adıyla yan yana, bir teoreme verilmişti.
+
+38
+00:03:59,228 --> 00:04:05,527
+Bu teorem, sayı cisimleri arasındaki ilişkileri inceleyen bir alanda önemli bir yapı taşıdır.
+
+39
+00:04:05,527 --> 00:04:10,636
+Anlaşılması üniversite düzeyinde ileri matematik bilgisi gerektirir.
+
+40
+00:04:10,636 --> 00:04:18,014
+Ama önemi şudur: Bugün dünyanın dört bir yanındaki matematikçiler, bu alanda çalışırken onun adını anıyor.
+
+41
+00:04:18,856 --> 00:04:27,932
+Türkiye'ye döndükten sonra Arf, 1941'de yayımladığı bir makaleyle, matematiğe en ünlü katkısını yaptı: Arf değişmezi.
+
+42
+00:04:27,882 --> 00:04:31,122
+Bunu basitçe anlatmaya çalışalım.
+
+43
+00:04:31,122 --> 00:04:38,319
+Matematikçiler, "kuadratik form" denen ve kareli terimlerden oluşan ifadeleri sınıflandırmaya çalışır.
+
+44
+00:04:38,319 --> 00:04:44,265
+Bu, farklı görünen iki ifadenin aslında aynı yapıda olup olmadığını anlamak gibidir.
+
+45
+00:04:44,265 --> 00:04:53,355
+Ancak özel bir sayı sisteminde, yalnızca sıfır ve birden oluşan ve bir artı birin sıfır ettiği sistemde, bu sınıflandırma çok zordu.
+
+46
+00:04:53,355 --> 00:04:59,314
+Cahit Arf, bu durumda formları birbirinden ayırt etmeyi sağlayan bir sayı tanımladı.
+
+47
+00:04:59,314 --> 00:05:04,411
+Bu sayı, form ne kadar değiştirilirse değiştirilsin aynı kalıyordu.
+
+48
+00:05:04,411 --> 00:05:07,918
+İşte bu yüzden ona "değişmez" denir.
+
+49
+00:05:07,918 --> 00:05:18,064
+Arf değişmezi, sonraki yıllarda sadece cebirde değil, topoloji denen ve şekillerin özelliklerini inceleyen alanda, hatta düğüm teorisinde de kullanıldı.
+
+50
+00:05:18,064 --> 00:05:23,998
+Bugün düğümlerin sınıflandırılmasında bile "Arf değişmezi" adında bir kavram var.
+
+51
+00:05:23,998 --> 00:05:32,663
+Topolojide, onlarca yıl boyunca dünyanın en iyi matematikçilerini uğraştıran ünlü bir soru vardır: Kervaire değişmezi problemi.
+
+52
+00:05:32,663 --> 00:05:39,702
+Bu problemde adı geçen Kervaire değişmezi, aslında belirli bir kuadratik formun Arf değişmezidir.
+
+53
+00:05:39,702 --> 00:05:49,095
+Problemin büyük bölümü, 2009'da üç Amerikalı matematikçinin açıkladığı bir çalışmayla çözüldü ve matematik dünyasında büyük yankı uyandırdı.
+
+54
+00:05:49,095 --> 00:05:57,882
+Yani Cahit Arf'ın 1941'de tanımladığı kavram, yetmiş yıl sonra bile matematiğin en güncel tartışmalarının merkezindeydi.
+
+55
+00:05:57,882 --> 00:06:06,802
+2009'da basılmaya başlanan on Türk lirası banknotlarının arka yüzünde, Cahit Arf'ın portresi ve bu değişmezin formülü yer aldı.
+
+56
+00:06:07,652 --> 00:06:11,182
+Arf'ın katkıları bununla sınırlı kalmadı.
+
+57
+00:06:11,132 --> 00:06:20,124
+1940'larda cebirsel eğrilerin tekil noktaları, yani eğrilerin kendini kestiği, sivrildiği ya da kırıldığı noktalar üzerine çalıştı.
+
+58
+00:06:20,124 --> 00:06:27,903
+Bu çalışmalarından, bugün matematikte "Arf halkaları" ve "Arf kapanışı" olarak bilinen kavramlar doğdu.
+
+59
+00:06:27,903 --> 00:06:35,161
+Bu kavramlar da onlarca yıl sonra, dünya çapında matematikçilerin üzerinde çalıştığı konular haline geldi.
+
+60
+00:06:35,161 --> 00:06:42,782
+Böylece Cahit Arf'ın adı, tek bir buluşla değil, birden fazla matematiksel kavramla kalıcı olarak anılır oldu.
+
+61
+00:06:42,782 --> 00:06:47,952
+Bu çalışmaları nedeniyle 1948'de İnönü Armağanı'nı aldı.
+
+62
+00:06:47,952 --> 00:06:53,001
+Bir matematikçi olarak ününü, uluslararası alanda da kanıtlamıştı.
+
+63
+00:06:53,856 --> 00:07:00,905
+Cahit Arf, sadece kendi araştırmalarıyla değil, Türkiye'de bilimin kurumsallaşmasıyla da ilgilendi.
+
+64
+00:07:00,855 --> 00:07:13,331
+1960'larda Türkiye Bilimsel ve Teknolojik Araştırma Kurumu, yani TÜBİTAK kurulurken, bu sürece katkıda bulunan bilim insanları arasında yer aldı ve kurumun bilim kurulunda görev yaptı.
+
+65
+00:07:13,331 --> 00:07:24,314
+1960'ların ortasında bir süre Amerika'da, Princeton'daki İleri Araştırmalar Enstitüsü'nde ve Kaliforniya Üniversitesi'nde misafir araştırmacı olarak çalıştı.
+
+66
+00:07:24,314 --> 00:07:31,243
+Albert Einstein'ın da çalıştığı bu enstitü, dünyanın en seçkin araştırma merkezlerinden biriydi.
+
+67
+00:07:31,243 --> 00:07:41,789
+Türkiye'ye döndükten sonra Ankara'daki Orta Doğu Teknik Üniversitesi'nde öğretim üyesi olarak çalıştı ve 1980'de emekli olana kadar burada ders verdi.
+
+68
+00:07:41,789 --> 00:07:46,340
+1974'te TÜBİTAK Bilim Ödülü'ne layık görüldü.
+
+69
+00:07:47,188 --> 00:07:53,800
+Cahit Arf'ı tanıyanlar, onu bir dâhi olmanın yanında, olağanüstü bir öğretmen olarak anlatır.
+
+70
+00:07:53,750 --> 00:07:57,767
+Matematiğin ezber yoluyla öğretilmesine karşıydı.
+
+71
+00:07:57,767 --> 00:08:05,401
+Öğrencilerinin formülleri ezberlemesi yerine, bir problemin nasıl düşünülerek çözüleceğini anlamalarını istiyordu.
+
+72
+00:08:05,401 --> 00:08:13,580
+Lise öğrencilerine ve öğretmenlere yönelik seminerler verdi, matematiği sevdirmek için yazılar yazdı ve konuşmalar yaptı.
+
+73
+00:08:13,580 --> 00:08:20,607
+Ona göre matematik, sadece bilim insanlarının değil, düşünen her insanın kullanabileceği bir araçtı.
+
+74
+00:08:20,607 --> 00:08:31,020
+Matematiğin nasıl öğretilmesi gerektiği ve bilimsel düşüncenin toplum için önemi üzerine yaptığı konuşmalar, bugün hâlâ öğretmenler ve öğrenciler tarafından okunuyor.
+
+75
+00:08:31,020 --> 00:08:37,318
+Ona göre bir toplumun ilerlemesi, soru sormayı bilen insanlar yetiştirmesine bağlıydı.
+
+76
+00:08:37,318 --> 00:08:41,918
+Türkiye'deki birçok matematikçi, onun açtığı yoldan yürüdü.
+
+77
+00:08:41,918 --> 00:08:48,362
+Bugün Türk Matematik Derneği'nin ve pek çok üniversitenin etkinliklerinde onun adı yaşatılıyor.
+
+78
+00:08:49,208 --> 00:08:56,548
+Cahit Arf, 26 Aralık 1997'de, seksen yedi yaşında İstanbul'da hayatını kaybetti.
+
+79
+00:08:56,498 --> 00:09:02,700
+Ölümü, geniş kitlelerde bir sanatçının ya da bir siyasetçinin ölümü kadar ses getirmedi.
+
+80
+00:09:02,700 --> 00:09:08,137
+Ama matematik dünyası, en büyük isimlerinden birini kaybettiğini biliyordu.
+
+81
+00:09:08,137 --> 00:09:17,748
+Ölümünden on iki yıl sonra, 2009'da, Türkiye Cumhuriyet Merkez Bankası, onu on liralık banknotun arka yüzüne koyarak ölümsüzleştirdi.
+
+82
+00:09:17,748 --> 00:09:25,940
+Böylece milyonlarca insan, belki de hayatında ilk kez onun adını duydu ve "Bu formül ne anlama geliyor?" diye sordu.
+
+83
+00:09:26,796 --> 00:09:39,986
+Cahit Arf'ın hikâyesi, savaşlarla yerinden edilmiş bir ailenin çocuğunun, genç Cumhuriyet'in eğitime verdiği önemle dünyanın en iyi okullarında okuyabildiği ve sonra bu bilgiyi ülkesine geri getirdiği bir hikâye.
+
+84
+00:09:39,936 --> 00:09:49,086
+Dünyanın dört bir yanındaki matematik kitaplarında "Arf değişmezi", "Hasse–Arf teoremi" ve "Arf halkaları" gibi kavramlar yer alıyor.
+
+85
+00:09:49,086 --> 00:09:54,535
+Bunlar, Türk biliminin dünya bilimine yaptığı en kalıcı katkılardan bazıları.
+
+86
+00:09:54,535 --> 00:10:03,977
+Ve her gün, cebimizde taşıdığımız o banknot, bize sessizce bir şey hatırlatıyor: Bir milletin en değerli hazinesi, düşünen insanlarıdır.
+

@@ -1,0 +1,113 @@
+# Frida Kahlo'nun Hayatı: Bir Kaza, Bir Yatak ve Dünyayı Etkileyen Tablolar | Belgesel
+
+## Giriş
+
+1953 yılının Nisan ayında, Meksiko'daki bir sanat galerisinin önüne bir ambulans yanaştı. Ambulanstan, sedyeye uzanmış bir kadın indirildi. Doktorları, yatağından kalkmasının tehlikeli olduğunu söylemişti. O da çözümü bulmuştu: Kendi yatağını galeriye taşıttı ve kendi ülkesindeki ilk kişisel sergisinin açılışına, yatağında yatarak katıldı.
+
+Bu kadın, on sekiz yaşında geçirdiği korkunç bir kazadan sonra hayatı boyunca otuzdan fazla ameliyat geçirdi. Acısını, yalnızlığını ve aşkını tuvallerine taşıdı. Bugün yüzü, dünyanın dört bir yanında tişörtlerden duvar resimlerine kadar her yerde.
+
+Bu, Frida Kahlo'nun hikâyesi.
+
+## [0:50] Mavi Evdeki Çocuk
+
+Magdalena Carmen Frida Kahlo y Calderón, 6 Temmuz 1907'de, Meksiko yakınlarındaki Coyoacán'da, sonradan "Mavi Ev" olarak ünlenecek evde doğdu. Babası Guillermo Kahlo, Almanya'dan Meksika'ya göç etmiş bir fotoğrafçıydı. Annesi Matilde Calderón ise Meksikalıydı.
+
+İlginç bir ayrıntı: Frida, ilerleyen yıllarda doğum yılını 1910 olarak söylemeyi tercih etti. Bu, Meksika Devrimi'nin başladığı yıldı. Kendini, yeni Meksika ile birlikte doğmuş biri olarak görmek istiyordu.
+
+Babasıyla çok yakındı. Guillermo Kahlo, ona fotoğrafçılığı, ışık ve gölgeyle çalışmayı öğretti. Frida, sanatçı gözünü ilk olarak babasının fotoğraf makinesinin arkasında geliştirdi.
+
+## [1:41] İlk Darbe: Çocuk Felci
+
+Altı yaşındayken Frida, çocuk felci geçirdi. Aylarca yatağa bağlı kaldı. Hastalıktan sonra sağ bacağı, sol bacağından daha ince ve kısa kaldı. Okulda arkadaşları onunla alay etti.
+
+Ama babası onu cesaretlendirdi. O dönemde kız çocukları için pek alışılmış olmayan sporlara yönlendirdi: Bisiklet, yüzme, hatta boks. Frida, inatçı ve cesur bir genç kız olarak büyüdü. Bacağını gizlemek için uzun etekler giymeye başladı. Bu, ileride onun simgesi olacak renkli Meksika kıyafetlerinin de başlangıcıydı.
+
+## [2:22] Hazırlık Okulundaki Asi Kız
+
+1922'de Frida, Meksika'nın en saygın okullarından biri olan Ulusal Hazırlık Okulu'na kabul edildi. Okulun binlerce öğrencisi arasında yalnızca birkaç düzine kız öğrenci vardı. Frida, tıp okumayı ve doktor olmayı planlıyordu.
+
+Zeki, alaycı ve asi bir öğrenciydi. Okuldaki entelektüel bir öğrenci grubuna katıldı. Aynı yıllarda okulun duvarlarına büyük bir duvar resmi yapan, ünlü ressam Diego Rivera'yı ilk kez burada gördü. Henüz bir öğrenciydi ve kimse, yıllar sonra bu iki insanın hikâyesinin nasıl birleşeceğini tahmin edemezdi.
+
+## [3:03] 17 Eylül 1925
+
+17 Eylül 1925'te, on sekiz yaşındaki Frida, erkek arkadaşıyla birlikte okuldan eve dönmek için bir otobüse bindi. Otobüs, bir tramvayla çarpıştı.
+
+Kaza korkunçtu. Otobüsün demir tutunma çubuklarından biri Frida'nın kalçasından girip bedenini deldi. Omurgası birkaç yerden kırıldı, leğen kemiği, köprücük kemiği ve kaburgaları zarar gördü, sağ bacağı ve ayağı parçalandı. Doktorlar, hayatta kalacağından emin değildi.
+
+Frida hayatta kaldı. Ama aylarca alçılar içinde yatağa bağlı kalmak zorunda kaldı. Tıp okuma hayali sona ermişti. Ve bu kaza, ömrünün geri kalanında süren bir acının başlangıcıydı.
+
+## [3:51] Yatağın Üzerindeki Ayna
+
+Yatakta geçen uzun aylarda annesi, ona özel bir şövale yaptırdı. Yatağın üzerine, Frida'nın kendini görebileceği bir ayna da yerleştirildi. Frida, babasının boyalarını alıp resim yapmaya başladı. En kolay ulaşabildiği model kendisiydi.
+
+Ona atfedilen ünlü bir sözde şöyle der: "Kendimi resmediyorum, çünkü çoğu zaman yalnızım ve en iyi tanıdığım konu benim." Bu, onun sanatının temel taşı oldu. Sanat tarihçilerine göre Frida'nın bugün bilinen yaklaşık yüz kırk tablosunun elli beş kadarı otoportredir.
+
+1926'da yaptığı ilk ciddi otoportresinde, kadife bir elbise içinde, uzun boyunlu, ciddi bakışlı bir genç kadın vardı. Bu, onun resim dilinin ilk adımıydı.
+
+## [4:41] Fil ile Güvercin
+
+Frida, iyileştikten sonra resimlerini, yıllar önce okulunda gördüğü ünlü ressam Diego Rivera'ya gösterdi ve fikrini sordu. Rivera, onun yeteneğinden çok etkilendi. Kısa süre içinde aralarında bir aşk başladı.
+
+1929'da evlendiler. Frida yirmi iki, Diego kırk iki yaşındaydı. Diego iri yapılı, Frida ise ufak tefek ve narindi. Frida'nın annesi bu evliliğe karşıydı. Anlatıldığına göre, çiftin bu görüntüsünü bir fil ile bir güvercinin evliliğine benzetti.
+
+Bu evlilik, hem tutkulu hem de fırtınalı oldu. Diego, Frida'yı sanatında sonuna kadar destekledi, ama sadakatsizlikleri ona büyük acılar yaşattı.
+
+## [5:30] Amerika'da Kaybedilen Bebek
+
+1930'ların başında çift, Diego'nun duvar resimleri yapacağı Amerika'ya gitti. San Francisco, Detroit ve New York'ta yaşadılar. Frida, Amerika'nın sanayi şehirlerinde kendini yabancı hissediyordu.
+
+1932'de Detroit'teyken Frida hamileydi. Ancak kazanın bedenine verdiği hasar yüzünden bebeğini kaybetti. Bu kayıp, onu derinden sarstı. Hayatı boyunca çocuk sahibi olamadı.
+
+Bu acıyı, "Henry Ford Hastanesi" adlı tablosunda anlattı. Tabloda, bir hastane yatağında kanlar içinde yatan Frida ve etrafında, ona kırmızı ipliklerle bağlı semboller görülür. Bu resim, sanat tarihinde bir kadının bu tür bir acıyı bu kadar açık bir şekilde anlattığı ilk eserlerden biri olarak kabul edilir.
+
+## [6:23] İhanet, Boşanma ve İki Frida
+
+Meksika'ya döndükten sonra Frida, hayatının en büyük ihanetini yaşadı: Diego'nun, Frida'nın kız kardeşi Cristina ile bir ilişkisi olduğunu öğrendi. Bu, onu derin bir yıkıma uğrattı.
+
+1937'de, Sovyetler Birliği'nden sürgün edilen devrimci Lev Troçki ve eşi, Diego'nun yardımıyla Meksika'ya geldi ve bir süre Frida'nın Mavi Ev'inde kaldı. Frida ile Troçki arasında kısa süreli bir ilişki yaşandığı bilinir.
+
+1939'da Frida ile Diego boşandı. Aynı yıl Frida, en ünlü eserlerinden biri olan "İki Frida"yı yaptı. Tabloda yan yana oturmuş iki Frida vardı: Biri Avrupa tarzı beyaz bir elbise, diğeri geleneksel Meksika kıyafeti giyiyordu. İkisinin kalbi açıktaydı ve birbirine bir damarla bağlıydı. Ancak ayrılık uzun sürmedi. Çift, 1940'ta yeniden evlendi.
+
+## [7:21] New York, Paris ve Louvre
+
+1938'de Frida, New York'ta ilk kişisel sergisini açtı. Sergi büyük ilgi gördü. Ertesi yıl Paris'e davet edildi. Fransız gerçeküstücülüğün öncüsü André Breton, onu bir gerçeküstücü olarak görüyordu.
+
+Ama Frida bu etiketi reddetti. Ona atfedilen sözle: "Asla rüyalarımı resmetmedim. Kendi gerçekliğimi resmettim."
+
+Paris'teki sergi sırasında Louvre, onun "Çerçeve" adlı otoportresini satın aldı. Bu, Louvre'un koleksiyonuna eserini alan ilk yirminci yüzyıl Meksikalı sanatçının eseriydi. Paris'te Pablo Picasso ve Joan Miró gibi isimlerle tanıştı. Picasso'nun ona hediye olarak bir çift küpe verdiği anlatılır.
+
+## [8:11] Kırık Kolon
+
+1940'larda Frida'nın sağlığı giderek kötüleşti. Omurgası için defalarca ameliyat oldu. Aylarca alçı ve çelik korselerle yaşamak zorunda kaldı. Ama korselerini bile boyayarak birer sanat eserine dönüştürdü.
+
+1944'te yaptığı "Kırık Kolon" tablosunda, bedenini ortadan ikiye yarılmış olarak resmetti. Omurgasının yerinde, parçalanmış bir antik sütun vardı. Bedeni çivilerle doluydu ve gözlerinden yaşlar akıyordu. Ama yüzü dimdikti, bakışları kararlıydı. Bu tablo, acıyla baş etmenin en güçlü görsel anlatımlarından biri olarak kabul edilir.
+
+Frida aynı yıllarda bir sanat okulunda öğretmenlik yaptı. Sağlığı bozulduğunda öğrencilerini Mavi Ev'e çağırdı ve derslerine evinde devam etti. Öğrencileri, kendilerine "Fridacılar" adını verdi.
+
+## [9:11] Ambulansla Gelen Sanatçı
+
+1953'te Meksiko'da, kendi ülkesindeki ilk kişisel sergisi açıldı. Doktorları onun yataktan kalkmasını yasaklamıştı. Frida, yatağını galeriye taşıttı ve sergiye ambulansla gelip yatağında yatarak konuklarını karşıladı. O gece, sevenleri onun etrafında şarkılar söyledi.
+
+Aynı yıl, kangren yüzünden sağ bacağının dizden aşağısı kesildi. Bu, onu derin bir depresyona soktu. Ama günlüğüne şu cümleyi yazdı: "Uçmak için kanatlarım varken, ayaklara ne ihtiyacım var?"
+
+Frida Kahlo, 13 Temmuz 1954'te, kırk yedinci yaş gününden bir hafta sonra, Mavi Ev'de hayatını kaybetti. Resmî ölüm nedeni akciğer embolisi olarak kaydedildi. Son tablolarından biri, kesilmiş karpuzları resmettiği bir natürmorttu. Üzerine, ölümünden birkaç gün önce şu sözleri yazmıştı: "Viva la Vida", yani "Yaşasın Hayat".
+
+## [10:13] Mavi Ev'den Dünyaya
+
+Diego Rivera, Frida'nın ölümünden sonra Mavi Ev'i müzeye dönüştürmek için ülkesine bağışladı. Müze 1958'de açıldı. Bugün her yıl yüz binlerce kişi, Frida'nın yaşadığı, resim yaptığı ve öldüğü bu evi ziyaret ediyor.
+
+Frida Kahlo, ölümünden sonraki on yıllarda dünya çapında bir simge haline geldi. 2021'de, "Diego ve Ben" adlı otoportresi New York'ta yaklaşık otuz beş milyon dolara satıldı. Bu, bir Latin Amerikalı sanatçının eseri için o güne kadar ödenen en yüksek fiyat oldu.
+
+Ama Frida'yı bu kadar sevilen bir figür yapan şey, tablolarının fiyatı değil. Acısını saklamadan, güzelleştirmeden, olduğu gibi anlatma cesaretiydi. Ve her şeye rağmen, son tablosunun üzerine "Yaşasın Hayat" yazabilmesiydi.
+
+## Fragman
+
+Altı yaşında çocuk felci geçirdi. On sekiz yaşında korkunç bir kazada bedeni paramparça oldu.
+
+Aylarca yatağa bağlı kaldı. Annesi yatağının üzerine bir ayna astırdı. Ve o, kendi yüzünü resmetmeye başladı.
+
+Kendinden yirmi yaş büyük ünlü bir ressamla evlendi. İhanete uğradı, boşandı, yeniden evlendi. Louvre'a tablosu giren ilk Meksikalı ressamlardan biri oldu.
+
+Ve hayatının son yılında, ambulansla geldiği sergisine, yatağında yatarak katıldı.
+
+Frida Kahlo'nun hayat hikâyesi. Tamamı kanalımızda.
