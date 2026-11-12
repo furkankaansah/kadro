@@ -1,0 +1,99 @@
+# Steve Jobs'un Hayatı: Kendi Şirketinden Kovuldu, Dünyayı Değiştirdi | Belgesel
+
+## Giriş
+
+9 Ocak 2007'de, San Francisco'daki bir sahnede, siyah balıkçı yaka kazağı ve kot pantolonuyla bir adam, üç yeni ürün tanıtacağını söyledi: Bir müzik çalar, bir telefon ve bir internet cihazı. Sonra güldü ve ekledi: Bunlar üç ayrı cihaz değil, tek bir cihaz. Adı iPhone'du.
+
+Bu adam, doğduğunda ailesi tarafından evlatlık verilmişti. Üniversiteyi bir dönem sonra bıraktı. Bir garajda kurduğu şirketten otuz yaşında kovuldu. Ve yıllar sonra o şirkete geri dönerek onu dünyanın en değerli şirketlerinden biri haline getirdi.
+
+Bu, Steve Jobs'un hikâyesi.
+
+## [0:47] Evlatlık Verilen Bebek
+
+Steven Paul Jobs, 24 Şubat 1955'te San Francisco'da doğdu. Biyolojik annesi Joanne Schieble, o dönem üniversitede okuyan genç bir kadındı. Biyolojik babası ise Suriye doğumlu Abdulfattah Jandali'ydi. Ailesinin karşı çıktığı bu ilişki yüzünden Joanne, bebeğini evlatlık vermeye karar verdi.
+
+Bebek, Paul ve Clara Jobs çiftine verildi. Paul Jobs bir makine teknisyeniydi; Clara ise muhasebe alanında çalışıyordu. İkisi de üniversite mezunu değildi. Biyolojik anne, evlat edinme belgesini imzalamak için bir şart koştu: Bu çocuk mutlaka üniversiteye gönderilecekti.
+
+Steve, Kaliforniya'nın daha sonra Silikon Vadisi olarak anılacak bölgesinde büyüdü. Babası Paul, evlerinin garajında ona elektronik ve marangozluğu öğretti. Jobs ileride, babasının bir dolabın görünmeyen arka yüzünü bile özenle yapmasından, kusursuzluk hakkında çok şey öğrendiğini anlatacaktı.
+
+## [1:52] İki Steve
+
+1971'de, ortak bir arkadaşları aracılığıyla Steve Jobs, kendisinden beş yaş büyük, elektronik dâhisi Steve Wozniak ile tanıştı. İki genç, kısa sürede yakın arkadaş oldu. Wozniak bir mühendis dâhisiydi; Jobs ise teknolojinin insanlara nasıl satılabileceğini gören bir vizyoner.
+
+1972'de Jobs, Oregon'daki Reed Koleji'ne başladı. Ama sadece bir dönem sonra okulu bıraktı. Ailesinin bütün birikimini okul taksitlerine harcadığını ve bunun bir anlamı olmadığını düşünüyordu. Okulu bıraktıktan sonra da bir süre kampüste kalıp ilgisini çeken derslere misafir öğrenci olarak katıldı. Bunlardan biri, bir hat sanatı dersiydi. Yıllar sonra bu derste öğrendikleri, Macintosh bilgisayarlardaki güzel yazı tiplerine ilham verecekti.
+
+1974'te video oyunu şirketi Atari'de çalıştı, ardından manevi bir arayışla Hindistan'a gitti. Döndüğünde başını tıraş etmiş, Budizm'e ilgi duyan bir genç olarak döndü.
+
+## [3:00] Bir Garajda Başlayan Devrim
+
+1 Nisan 1976'da Steve Jobs, Steve Wozniak ve Ronald Wayne, Apple Computer şirketini kurdu. Wayne, şirketteki yüzde onluk payını yalnızca on iki gün sonra, sekiz yüz dolar karşılığında geri sattı. Bu pay, yıllar sonra milyarlarca dolar değerinde olacaktı.
+
+Wozniak'ın tasarladığı ilk bilgisayar Apple I, Jobs ailesinin evinde, ilk yıllarda garaj ve yatak odası gibi mekânlarda bir araya getirildi. Ertesi yıl tanıtılan Apple II ise büyük bir başarı oldu. Hazır kasası, klavyesi ve renkli grafikleriyle, kişisel bilgisayarı sıradan insanlar için çekici hale getiren ilk ürünlerden biriydi.
+
+Aralık 1980'de Apple halka arz edildi. Yirmi beş yaşındaki Steve Jobs, bir anda milyoner olmuştu.
+
+## [3:53] Xerox'taki Ziyaret ve Macintosh
+
+1979'da Jobs, Xerox şirketinin araştırma merkezini ziyaret etti. Orada, ekranda pencereler ve simgeler bulunan, fareyle kullanılan bir bilgisayar arayüzü gördü. Bunun bilgisayarların geleceği olduğuna hemen ikna oldu.
+
+Bu fikirler, Apple'ın Lisa ve Macintosh bilgisayarlarına ilham verdi. Ocak 1984'te Macintosh, Amerikan futbolu final maçı Super Bowl sırasında yayımlanan ve George Orwell'in "1984" romanına gönderme yapan ünlü bir reklamla tanıtıldı. Reklamı, sinema yönetmeni Ridley Scott çekmişti.
+
+Ancak Macintosh, ilk başta beklenen satış rakamlarına ulaşamadı. Jobs'un sert, talepkâr ve zaman zaman kırıcı yönetim tarzı da şirket içinde ciddi gerginliklere yol açtı.
+
+## [4:45] Kendi Şirketinden Kovulan Adam
+
+1983'te Jobs, Pepsi'nin başında başarılı olmuş yönetici John Sculley'yi Apple'ın başına getirmek istedi. Anlatıldığına göre ona şöyle sordu: "Hayatının geri kalanını şekerli su satarak mı geçirmek istiyorsun, yoksa dünyayı değiştirmek için bir şans mı istiyorsun?" Sculley ikna oldu.
+
+Ama iki adam arasındaki ilişki kısa sürede bozuldu. 1985'te yaşanan güç mücadelesinde Apple'ın yönetim kurulu Sculley'nin tarafını tuttu. Jobs, kurduğu şirketteki yönetim görevlerinden uzaklaştırıldı ve kısa süre sonra şirketten ayrıldı. Otuz yaşındaydı.
+
+Yıllar sonra bu dönemi şöyle anlatacaktı: Apple'dan kovulmak, başına gelebilecek en iyi şeylerden biri olmuştu; çünkü başarılı olmanın ağırlığı, yeniden başlayan birinin hafifliğine dönüşmüştü.
+
+## [5:39] NeXT ve Pixar
+
+Jobs boş durmadı. 1985'te, eğitim ve iş dünyası için güçlü bilgisayarlar üretecek NeXT şirketini kurdu. NeXT bilgisayarları ticari olarak büyük başarı kazanamadı, ama teknolojisi çok ileriydi. Hatta dünyanın ilk web tarayıcısı ve sunucusu, Tim Berners-Lee tarafından bir NeXT bilgisayarında geliştirildi.
+
+1986'da Jobs, film yönetmeni George Lucas'ın şirketinin bilgisayar grafikleri bölümünü satın aldı. Bu bölümün adı Pixar oldu. Yıllarca para kaybeden Pixar, 1995'te tarihin tamamen bilgisayarla canlandırılmış ilk uzun metrajlı filmi Oyuncak Hikâyesi'ni yayımladı. Film büyük bir başarı oldu.
+
+Bu yıllarda Jobs'un özel hayatında da önemli bir değişiklik oldu. 1991'de Laurene Powell ile evlendi.
+
+## [6:35] Eve Dönüş
+
+1990'ların ortasında Apple ciddi bir kriz içindeydi. Şirket iflasın eşiğine gelmişti. Aralık 1996'da Apple, NeXT'i satın aldı ve Jobs, kurduğu şirkete danışman olarak geri döndü. Kısa süre sonra geçici genel müdür oldu.
+
+Jobs, Apple'ın ürün yelpazesini büyük ölçüde daralttı ve şirketi birkaç temel ürüne odakladı. 1997'de "Farklı Düşün" sloganlı bir reklam kampanyası başlattı. 1998'de tanıttığı yarı saydam, renkli iMac bilgisayar, Apple'ın yeniden yükselişinin sembolü oldu.
+
+## [7:15] Cebinizde Bin Şarkı
+
+Ekim 2001'de Apple, iPod'u tanıttı. Jobs'un sloganı basitti: Cebinizde bin şarkı. Ardından 2003'te iTunes Müzik Mağazası açıldı. Müzik endüstrisi o dönem korsan indirmeyle boğuşuyordu. Apple, şarkıları tek tek, yasal yoldan satın alma imkânı sundu.
+
+Ama aynı yıl Jobs, çok kötü bir haber aldı. Rutin bir kontrolde pankreasında bir tümör bulundu. Nadir görülen bir türdü ve ameliyatla tedavi edilebilirdi. Ancak Jobs, ameliyatı aylarca erteledi ve alternatif yöntemler denedi. 2004'te sonunda ameliyat oldu.
+
+2005'te Stanford Üniversitesi mezuniyet töreninde yaptığı konuşma, onun en çok bilinen konuşmalarından biri oldu. Hayatından üç hikâye anlattı ve sözlerini şöyle bitirdi: "Aç kalın, budala kalın."
+
+## [8:13] iPhone
+
+9 Ocak 2007'de tanıtılan iPhone, akıllı telefon kavramını baştan tanımladı. Fiziksel tuşlar yerine dokunmatik bir ekran, parmakla kaydırılan bir arayüz ve cebe sığan bir bilgisayar. Ertesi yıl açılan uygulama mağazası, milyonlarca geliştiriciye yeni bir pazar açtı.
+
+2006'da ise Disney, Pixar'ı satın aldı ve Jobs, Disney'in en büyük bireysel hissedarı oldu. 2010'da tanıtılan iPad, tablet bilgisayarları yaygınlaştırdı.
+
+Bu başarıların arkasında, Jobs'un herkesin bildiği takıntılı mükemmeliyetçiliği vardı. Bir ürünün ambalajından ekrandaki simgelerin köşelerine kadar her ayrıntıyla bizzat ilgileniyordu. Çalışanları onu hem ilham verici hem de son derece zor bir yönetici olarak tanımlıyordu.
+
+## [9:04] Son Gün
+
+Ancak hastalığı geri dönmüştü. 2009'da karaciğer nakli oldu. Giderek zayıflayan Jobs, 24 Ağustos 2011'de Apple'ın genel müdürlüğünden istifa etti.
+
+Steve Jobs, 5 Ekim 2011'de, elli altı yaşında, Kaliforniya'daki evinde, ailesinin yanında hayatını kaybetti. Yetişkin yaşında tanıştığı biyolojik kız kardeşi, yazar Mona Simpson'ın cenazede okuduğu konuşmaya göre, son sözleri şunlardı: "Vay canına. Vay canına. Vay canına."
+
+Hayatında hatalar da vardı. Uzun yıllar ilk kızı Lisa'nın babası olduğunu reddetti; ilişkileri ancak zamanla düzeldi. Ama bugün cebimizdeki telefonlardan izlediğimiz filmlere kadar, onun dokunuşunu taşıyan pek çok şey hâlâ hayatımızda.
+
+## Fragman
+
+Doğduğunda evlatlık verildi. Üniversiteyi bir dönem sonra bıraktı.
+
+Bir garajda, bir arkadaşıyla bilgisayar şirketi kurdu. Yirmi beş yaşında milyoner oldu. Otuz yaşında ise kendi kurduğu şirketten uzaklaştırıldı.
+
+Pes etmedi. Yeni bir şirket kurdu, para kaybeden küçük bir animasyon stüdyosunu dünyanın en başarılı stüdyolarından birine dönüştürdü.
+
+Sonra eski şirketine geri döndü. İflasın eşiğindeki Apple'ı, cebimizdeki dünyayla yeniden doğurdu.
+
+Steve Jobs'un hayat hikâyesi. Tamamı kanalımızda.

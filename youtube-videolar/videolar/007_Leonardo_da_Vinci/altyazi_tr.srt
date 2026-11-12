@@ -1,0 +1,392 @@
+1
+00:00:04,099 --> 00:00:12,266
+Paris'teki Louvre Müzesi'nde, kurşun geçirmez camın arkasında, yetmiş yedi santimetre boyunda bir kavak ağacı panosu duruyor.
+
+2
+00:00:12,216 --> 00:00:17,434
+Her yıl milyonlarca insan onu görmek için saatlerce sırada bekliyor.
+
+3
+00:00:17,434 --> 00:00:19,291
+Mona Lisa.
+
+4
+00:00:19,291 --> 00:00:24,012
+Onu yapan adam, gayrimeşru bir çocuk olarak dünyaya geldi.
+
+5
+00:00:24,012 --> 00:00:29,958
+Bir üniversitede okumadı, Latinceyi ancak yetişkin yaşında öğrenmeye çalıştı.
+
+6
+00:00:29,958 --> 00:00:33,660
+Kendini "okumamış bir adam" olarak tanımladı.
+
+7
+00:00:33,660 --> 00:00:42,592
+Ama arkasında, uçan makinelerden insan anatomisine, nehir haritalarından savaş araçlarına kadar binlerce sayfalık defter bıraktı.
+
+8
+00:00:42,592 --> 00:00:46,087
+Üstelik pek çok eserini hiç bitirmedi.
+
+9
+00:00:46,087 --> 00:00:49,351
+Bu, Leonardo da Vinci'nin hikâyesi.
+
+10
+00:00:50,208 --> 00:00:57,536
+Leonardo, 15 Nisan 1452'de, Floransa yakınlarındaki Vinci kasabasının çevresinde doğdu.
+
+11
+00:00:57,486 --> 00:01:01,175
+Babası Ser Piero, saygın bir noterdi.
+
+12
+00:01:01,175 --> 00:01:05,047
+Annesi Caterina ise genç bir köylü kadındı.
+
+13
+00:01:05,047 --> 00:01:07,365
+İkisi evli değildi.
+
+14
+00:01:07,365 --> 00:01:11,637
+Bu yüzden Leonardo gayrimeşru bir çocuk olarak büyüdü.
+
+15
+00:01:11,637 --> 00:01:15,059
+Bu durum, hayatını derinden etkiledi.
+
+16
+00:01:15,059 --> 00:01:22,098
+Gayrimeşru çocuklar o dönemde üniversiteye giremez, babalarının mesleği olan noterliği de seçemezdi.
+
+17
+00:01:22,098 --> 00:01:28,202
+Leonardo, büyük ölçüde dedesinin evinde büyüdü, temel okuma yazma ve hesap öğrendi.
+
+18
+00:01:28,202 --> 00:01:31,540
+Ama klasik Latince eğitimi almadı.
+
+19
+00:01:31,540 --> 00:01:36,273
+Belki de bu eksiklik, onu kitaplardan çok doğaya yöneltti.
+
+20
+00:01:36,273 --> 00:01:42,632
+Toskana'nın tepelerinde kuşları, suyun akışını, kayaların katmanlarını saatlerce izledi.
+
+21
+00:01:42,632 --> 00:01:49,440
+Bugün bilinen en eski tarihli çizimi, 1473 yılına ait bir Toskana manzarasıdır.
+
+22
+00:01:50,283 --> 00:01:59,166
+On dört yaşlarındayken babası onu Floransa'ya, dönemin en ünlü sanatçılarından Andrea del Verrocchio'nun atölyesine çırak olarak verdi.
+
+23
+00:01:59,116 --> 00:02:06,373
+Bu atölyede yalnızca resim değil; heykel, maden döküm, mühendislik ve perspektif de öğreniliyordu.
+
+24
+00:02:06,373 --> 00:02:13,776
+Atölyenin Mesih'in Vaftizi tablosunda, sol köşedeki meleklerden birini genç Leonardo'nun çizdiği kabul edilir.
+
+25
+00:02:13,776 --> 00:02:23,254
+On altıncı yüzyıl yazarı Giorgio Vasari'nin anlattığına göre, öğrencisinin yaptığı meleği gören Verrocchio, bir daha resim yapmamaya karar verdi.
+
+26
+00:02:23,254 --> 00:02:29,880
+Bu hikâye büyük olasılıkla abartılıdır, ama Leonardo'nun ustasını kısa sürede geçtiği kesindir.
+
+27
+00:02:29,880 --> 00:02:36,106
+1472'de, yirmi yaşında, Floransa'daki ressamlar loncasına kaydoldu.
+
+28
+00:02:36,106 --> 00:02:40,038
+Artık kendi başına çalışabilecek bir ustaydı.
+
+29
+00:02:40,903 --> 00:02:45,999
+Leonardo'nun en büyük kusurlarından biri, işlerini bitirememesiydi.
+
+30
+00:02:45,949 --> 00:02:52,842
+1481'de bir manastır için başladığı büyük "Müneccimlerin Tapınması" tablosu yarım kaldı.
+
+31
+00:02:52,842 --> 00:02:57,539
+Mükemmeliyetçiydi ve sürekli yeni bir merakın peşine düşüyordu.
+
+32
+00:02:57,539 --> 00:03:01,374
+1482 civarında Milano'ya gitti.
+
+33
+00:03:01,374 --> 00:03:14,202
+Milano dükü Ludovico Sforza'ya yazdığı ve taslağı bugüne ulaşan ünlü mektupta kendini önce bir askerî mühendis olarak tanıttı: taşınabilir köprüler, toplar, zırhlı araçlar yapabileceğini anlattı.
+
+34
+00:03:14,202 --> 00:03:19,408
+Resim yapabildiğinden ise ancak mektubun sonunda, kısaca söz etti.
+
+35
+00:03:19,408 --> 00:03:23,619
+Leonardo yaklaşık on yedi yıl Milano sarayında kaldı.
+
+36
+00:03:23,619 --> 00:03:32,515
+Burada şenlikler düzenledi, sahne düzenekleri tasarladı, şehir planları çizdi ve yaşamının en verimli dönemlerinden birini geçirdi.
+
+37
+00:03:33,371 --> 00:03:39,317
+Ludovico, babası Francesco Sforza'nın anısına dev bir atlı heykel istiyordu.
+
+38
+00:03:39,267 --> 00:03:43,721
+Leonardo, yedi metreyi aşacak bronz bir at tasarladı.
+
+39
+00:03:43,721 --> 00:03:49,861
+Yıllarca atların anatomisini inceledi ve heykelin kilden tam boyutlu modelini yaptı.
+
+40
+00:03:49,861 --> 00:03:53,441
+Model, Milano'da halkı hayrete düşürdü.
+
+41
+00:03:53,441 --> 00:04:00,371
+Ancak heykel için ayrılan bronz, Fransa ile savaş tehlikesi yüzünden top dökmek için kullanıldı.
+
+42
+00:04:00,371 --> 00:04:10,941
+1499'da Fransız ordusu Milano'yu ele geçirdiğinde, anlatıldığına göre Fransız okçular kil modeli hedef tahtası olarak kullandı ve model zamanla yok oldu.
+
+43
+00:04:10,941 --> 00:04:17,956
+Bu yıllarda Leonardo, bugün Polonya'nın Krakov şehrinde bulunan "Kakımlı Kadın" portresini de yaptı.
+
+44
+00:04:18,807 --> 00:04:29,947
+1495 ile 1498 yılları arasında Leonardo, Milano'daki Santa Maria delle Grazie manastırının yemekhane duvarına "Son Akşam Yemeği"ni yaptı.
+
+45
+00:04:29,897 --> 00:04:38,623
+Resim, İsa'nın havarilerine "İçinizden biri bana ihanet edecek" dediği anı ve havarilerin bu sözlere verdiği tepkiyi anlatıyordu.
+
+46
+00:04:38,623 --> 00:04:42,846
+Leonardo, geleneksel fresk tekniğini kullanmadı.
+
+47
+00:04:42,846 --> 00:04:51,244
+Islak sıva üzerine hızlı çalışmak yerine kuru duvara, zaman zaman düzeltmeler yapabileceği deneysel bir yöntemle boya sürdü.
+
+48
+00:04:51,244 --> 00:04:59,873
+Çağdaşlarının anlattığına göre bazen günlerce fırçaya dokunmadan resmin önünde durup düşünür, bazen de bütün gün aralıksız çalışırdı.
+
+49
+00:04:59,873 --> 00:05:03,319
+Ama bu deneysel teknik pahalıya patladı.
+
+50
+00:05:03,319 --> 00:05:07,591
+Boya, Leonardo daha hayattayken dökülmeye başladı.
+
+51
+00:05:07,591 --> 00:05:14,072
+Yüzyıllar boyunca yapılan restorasyonlar, savaşlar ve nem eseri büyük ölçüde yıprattı.
+
+52
+00:05:14,072 --> 00:05:20,892
+Bugün gördüğümüz, uzun ve titiz restorasyonların ardından kurtarılabilen haliyle bir başyapıttır.
+
+53
+00:05:21,740 --> 00:05:30,500
+1490 civarında Leonardo, Romalı mimar Vitruvius'un insan bedeninin oranlarına dair yazılarını yorumlayan bir çizim yaptı.
+
+54
+00:05:30,450 --> 00:05:36,724
+Bir çember ve bir karenin içine yerleştirilmiş, kollarını ve bacaklarını açmış bir insan.
+
+55
+00:05:36,724 --> 00:05:41,809
+Vitruvius Adamı, bugün dünyanın en tanınmış çizimlerinden biridir.
+
+56
+00:05:41,809 --> 00:05:45,814
+Leonardo, hayatı boyunca her şeyi not aldı.
+
+57
+00:05:45,814 --> 00:05:54,322
+Bugün ondan bize ulaşan defter sayfalarının sayısı yedi bini aşıyor ve bunun, yazdıklarının ancak bir bölümü olduğu düşünülüyor.
+
+58
+00:05:54,322 --> 00:05:59,322
+Solaktı ve notlarının çoğunu sağdan sola, ayna yazısıyla yazdı.
+
+59
+00:05:59,322 --> 00:06:09,491
+Bu sayfalarda uçan makineler, paraşüt tasarımları, dişli sistemleri, su akışı üzerine gözlemler ve insan bedeninin olağanüstü ayrıntılı çizimleri var.
+
+60
+00:06:09,491 --> 00:06:14,261
+Kendi yazdığına göre, otuzdan fazla insan kadavrasını inceledi.
+
+61
+00:06:14,261 --> 00:06:21,858
+Kalbin kapakçıkları, rahimdeki bebek ve kafatası üzerine yaptığı çizimler, döneminin bilgisinin çok ötesindeydi.
+
+62
+00:06:21,858 --> 00:06:25,377
+Ama bu çalışmaların çoğunu hiç yayımlamadı.
+
+63
+00:06:26,232 --> 00:06:30,696
+Fransızların Milano'yu almasıyla Leonardo şehri terk etti.
+
+64
+00:06:30,646 --> 00:06:34,165
+Venedik'e, ardından Floransa'ya gitti.
+
+65
+00:06:34,165 --> 00:06:43,996
+1502'de, acımasızlığıyla ünlü komutan Cesare Borgia'nın hizmetine girdi ve onun askerî mühendisi olarak İtalya'nın orta bölgelerini dolaştı.
+
+66
+00:06:43,996 --> 00:06:50,585
+Bu dönemde İmola şehrinin, kuşbakışı görünüme dayanan son derece hassas bir haritasını çizdi.
+
+67
+00:06:50,585 --> 00:06:56,945
+Bu harita, kartografi tarihinin en dikkat çekici eserlerinden biri olarak kabul edilir.
+
+68
+00:06:56,945 --> 00:07:05,986
+Floransa'ya döndüğünde, şehrin yönetimi ona belediye sarayının büyük salonu için bir savaş sahnesi, "Anghiari Savaşı" resmini ısmarladı.
+
+69
+00:07:05,986 --> 00:07:13,814
+Aynı salonun karşı duvarına ise genç ve hırslı bir sanatçı, Michelangelo, başka bir savaş sahnesi yapacaktı.
+
+70
+00:07:13,814 --> 00:07:17,090
+Ancak iki eser de tamamlanamadı.
+
+71
+00:07:17,090 --> 00:07:21,338
+Leonardo'nun deneysel boya tekniği yine başarısız oldu.
+
+72
+00:07:22,180 --> 00:07:30,661
+1503 civarında Leonardo, Floransalı ipek tüccarı Francesco del Giocondo'nun eşi Lisa Gherardini'nin portresine başladı.
+
+73
+00:07:30,611 --> 00:07:34,980
+İtalyanca'da bu yüzden "La Gioconda" diye de anılır.
+
+74
+00:07:34,980 --> 00:07:40,211
+Leonardo, katman katman, neredeyse saydam boyalarla çalıştı.
+
+75
+00:07:40,211 --> 00:07:47,856
+Kenar çizgileri olmayan, ışık ile gölgenin dumanımsı bir geçişle birbirine karıştığı bu tekniğe "sfumato" denir.
+
+76
+00:07:47,856 --> 00:07:52,978
+Mona Lisa'nın gülümsemesinin gizemi, büyük ölçüde bu teknikten gelir.
+
+77
+00:07:52,978 --> 00:07:59,580
+İlginç olan şu: Leonardo bu portreyi siparişi veren aileye hiçbir zaman teslim etmedi.
+
+78
+00:07:59,580 --> 00:08:05,842
+Yıllarca yanında taşıdı, üzerinde çalışmaya devam etti ve ölünceye kadar yanında tuttu.
+
+79
+00:08:06,704 --> 00:08:12,333
+Leonardo, sonraki yıllarda yeniden Milano'da, ardından Roma'da çalıştı.
+
+80
+00:08:12,283 --> 00:08:17,089
+Ama Roma'da genç Raffaello ve Michelangelo'nun gölgesinde kaldı.
+
+81
+00:08:17,089 --> 00:08:25,123
+1516'da altmış dört yaşındayken, sanatına hayran olan Fransa Kralı Birinci François'nın davetini kabul etti.
+
+82
+00:08:25,123 --> 00:08:30,366
+Kral ona, Amboise şatosuna yakın Clos Lucé adlı malikâneyi verdi.
+
+83
+00:08:30,366 --> 00:08:36,810
+Leonardo, yanında Mona Lisa da dahil birkaç tablosuyla Alpler'i aşarak Fransa'ya geldi.
+
+84
+00:08:36,810 --> 00:08:42,538
+Burada kral için şenlikler düzenledi, kanal ve saray projeleri tasarladı.
+
+85
+00:08:42,538 --> 00:08:48,472
+Ancak sağ elinde bir felç belirtisi olduğu ve resim yapmakta zorlandığı aktarılır.
+
+86
+00:08:48,472 --> 00:08:55,766
+Leonardo da Vinci, 2 Mayıs 1519'da, altmış yedi yaşında Clos Lucé'de hayatını kaybetti.
+
+87
+00:08:55,766 --> 00:08:59,965
+Vasari, onun kralın kolları arasında öldüğünü yazar.
+
+88
+00:08:59,965 --> 00:09:07,744
+Ancak pek çok tarihçi, kralın o gün başka bir yerde olduğunu belirterek bu hikâyenin bir efsane olduğunu düşünür.
+
+89
+00:09:08,604 --> 00:09:15,835
+Leonardo'nun ölümünden sonra Mona Lisa, Fransız kraliyet koleksiyonuna geçti ve sonunda Louvre'a ulaştı.
+
+90
+00:09:15,785 --> 00:09:21,392
+Ama onu dünyanın en ünlü tablosu yapan olay, 1911'de yaşandı.
+
+91
+00:09:21,392 --> 00:09:26,889
+Louvre'da çalışmış İtalyan bir işçi olan Vincenzo Peruggia, tabloyu çaldı.
+
+92
+00:09:26,889 --> 00:09:30,336
+Tablo iki yıl sonra Floransa'da bulundu.
+
+93
+00:09:30,336 --> 00:09:34,741
+Bu süreçte dünya basını haftalarca Mona Lisa'yı konuştu.
+
+94
+00:09:34,741 --> 00:09:40,785
+Bugün Leonardo'ya kesin olarak atfedilen tabloların sayısı yalnızca yirmi civarındadır.
+
+95
+00:09:40,785 --> 00:09:43,940
+Buna rağmen etkisi ölçülemez.
+
+96
+00:09:43,940 --> 00:09:53,285
+Defterlerinden biri olan Leicester Kodeksi, 1994'te bir müzayedede Bill Gates tarafından yaklaşık otuz bir milyon dolara satın alındı.
+
+97
+00:09:53,285 --> 00:10:02,508
+Bir köylü kadınla bir noterin gayrimeşru çocuğu, sanatı ve bilimi aynı merakla birleştirerek "Rönesans insanı" kavramının sembolü oldu.
+
+98
+00:10:02,508 --> 00:10:09,037
+Belki de en büyük mirası, bitirdikleri değil, sormaktan hiç vazgeçmediği sorulardır.
+

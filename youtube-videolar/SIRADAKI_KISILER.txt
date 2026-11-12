@@ -5,10 +5,10 @@ SIRADAKİ HAYAT HİKÂYELERİ ([x] = senaryosu hazır. Yeni senaryolar bu sıray
 [x] 004 Mimar Sinan
 [x] 005 Albert Einstein
 [x] 006 Fatih Sultan Mehmet
-[ ] 007 Leonardo da Vinci
-[ ] 008 Aziz Sancar
-[ ] 009 Steve Jobs
-[ ] 010 Barış Manço
+[x] 007 Leonardo da Vinci
+[x] 008 Aziz Sancar
+[x] 009 Steve Jobs
+[x] 010 Barış Manço
 [ ] 011 Charles Chaplin
 [ ] 012 Cahit Arf
 [ ] 013 Frida Kahlo

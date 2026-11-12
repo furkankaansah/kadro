@@ -1,0 +1,103 @@
+# Aziz Sancar'ın Hayatı: Savur'dan Nobel'e Uzanan İnanılmaz Yolculuk | Belgesel
+
+## Giriş
+
+2015 yılının Ekim ayında, İsveç Kraliyet Bilimler Akademisi, Nobel Kimya Ödülü'nün sahiplerini açıkladı. Ödülü paylaşan üç bilim insanından biri, Mardin'in Savur ilçesinde, okuma yazma bilmeyen bir anne ve babanın çocuğu olarak doğmuştu.
+
+Bu bilim insanı, Türkiye'de doğmuş biri olarak doğa bilimleri alanında Nobel Ödülü alan ilk kişi oldu. Hücrelerimizin, her gün güneş ışığı ve başka etkenler yüzünden bozulan DNA'yı nasıl onardığını ortaya koymuştu.
+
+Ama bu yolculuk kolay olmadı. Doktor olarak köyüne döndü, sonra her şeyi bırakıp okyanus ötesine gitti, doktorasından sonra yıllarca kalıcı bir akademik kadro bulamadı. Bu, Aziz Sancar'ın hikâyesi.
+
+## [0:51] Savur'da Bir Çocukluk
+
+Aziz Sancar, 8 Eylül 1946'da Mardin'in Savur ilçesinde, sekiz çocuklu bir ailenin yedinci çocuğu olarak dünyaya geldi. Annesi ve babası okuma yazma bilmiyordu. Aile, geçimini çiftçilik ve hayvancılıkla sağlıyordu.
+
+Ama Sancar ailesinin çocuklarının eğitimine verdiği önem büyüktü. Kendisi de sonraki yıllarda, okumamış olsalar da anne ve babasının eğitimin değerini çok iyi bildiğini ve çocuklarını okumaya teşvik ettiğini anlatacaktı.
+
+Aziz, ilkokulda öğretmenlerinin dikkatini çeken, meraklı ve çalışkan bir öğrenciydi. Ortaokul ve liseyi Mardin'de okudu. Öğretmenleri ona, Türkiye'nin en iyi okullarında okuyabileceğini söyledi.
+
+## [1:39] İstanbul ve Tıp Fakültesi
+
+Liseyi bitirdikten sonra İstanbul Üniversitesi Tıp Fakültesi'ni kazandı. Anadolu'nun bir ilçesinden gelen genç için İstanbul büyük bir dünyaydı. Ama o, derslerine odaklandı ve özellikle biyokimya derslerinde büyük bir ilgi duydu.
+
+1969'da tıp fakültesini birincilikle bitirdi. Hekim olarak memleketine döndü ve yaklaşık iki yıl Savur'da doktorluk yaptı. Hastalarını tedavi ederken, aklının bir köşesinde hep aynı soru vardı: Hastalıkların arkasındaki moleküler mekanizmalar nasıl işliyordu?
+
+Sonunda büyük bir karar verdi. Hekimliği bırakıp, bu sorunun peşinden gitmek için yurt dışında biyokimya alanında doktora yapacaktı.
+
+## [2:25] Okyanus Ötesinde Yeni Bir Başlangıç
+
+Sancar, burs kazanarak Amerika'ya, Johns Hopkins Üniversitesi'ne gitti. Burada ışığın DNA üzerindeki etkilerini inceleyen bilim insanı Claud Rupert'in çalışmalarıyla tanıştı. Bir süre Türkiye'ye döndükten sonra, Rupert'in Texas Üniversitesi'nin Dallas kampüsünde kurduğu laboratuvarda doktoraya başladı.
+
+Doktora çalışmasının konusu, bazı bakterilerin güneşin morötesi ışınlarıyla bozulan DNA'sını, yine ışığın enerjisini kullanarak onaran fotoliyaz adlı bir enzimdi. Sancar, bu enzimi kodlayan geni bakteride klonlamayı başardı. 1977'de doktorasını tamamladı.
+
+Ancak bu başarı ona hemen bir akademik kadro getirmedi. Kalıcı bir öğretim üyeliği arayışı sonuçsuz kaldı. Sancar, Yale Üniversitesi'nde, Dean Rupp'un laboratuvarında daha düşük bir pozisyonda çalışmayı kabul etti. Bu yıllar, onun bilim insanı olarak en verimli dönemlerinden birine dönüşecekti.
+
+## [3:28] Gwen
+
+Amerika'daki doktora yıllarında Sancar, hayatını paylaşacağı insanla tanıştı: Gwen Boles. Gwen de biyokimyacıydı. 1978'de evlendiler. Gwen Sancar, yıllar boyunca hem eşi hem de bilimsel çalışmalarında yakın bir meslektaşı oldu.
+
+1982'de Aziz Sancar, Kuzey Carolina Üniversitesi'nin Chapel Hill kampüsünde öğretim üyesi olarak göreve başladı. Gwen de aynı üniversitede çalışmaya başladı. Sancar, bilimsel kariyerinin geri kalanını bu üniversitede geçirdi ve burada profesör oldu.
+
+## [4:07] DNA'nın Yamacıları
+
+Her gün, vücudumuzdaki her bir hücrenin DNA'sı binlerce kez hasar görür. Güneşin morötesi ışınları, sigara dumanı, bazı kimyasallar ve hücrenin kendi faaliyetleri, DNA'nın yapısını bozabilir. Eğer bu hasarlar onarılmasaydı, hücreler hızla bozulur ve kanser gibi hastalıklar çok daha yaygın olurdu.
+
+Aziz Sancar, hücrenin bu hasarları nasıl onardığını aydınlatan bilim insanlarından biri oldu. Özellikle "nükleotit kesip çıkarma onarımı" adı verilen mekanizmayı inceledi. Bu mekanizmada, onarım enzimleri DNA'daki hasarlı bölgeyi tanır, o bölgeyi içeren küçük bir parçayı keserek çıkarır ve boşluk, sağlam ipliğe bakılarak yeniden doldurulur.
+
+Sancar, bu süreci önce bakterilerde, ardından insan hücrelerinde, hangi proteinlerin hangi sırayla görev aldığını tek tek göstererek ortaya koydu. Bu çalışmalar, güneş ışığına aşırı duyarlılıkla ortaya çıkan bazı kalıtsal hastalıkların ve kanserin anlaşılmasında önemli bir yer tuttu.
+
+## [5:12] Güneşe Dayanamayan Çocuklar
+
+DNA onarımının ne kadar hayati olduğunu en çarpıcı şekilde gösteren hastalıklardan biri, "kseroderma pigmentozum" adlı nadir bir kalıtsal hastalıktır. Bu hastalıkta, nükleotit kesip çıkarma onarımında görev alan genlerden biri bozuktur. Hastalar güneş ışığına son derece duyarlıdır ve deri kanserine yakalanma riskleri, sağlıklı insanlara göre kat kat yüksektir. Bazı çocuklar, güneşten korunmak için günlerini kapalı mekânlarda geçirmek zorunda kalır.
+
+Sancar'ın laboratuvarı, insan hücrelerindeki bu onarım sistemini, saflaştırılmış proteinleri bir deney tüpünde bir araya getirerek yeniden kurmayı başardı. 1990'ların ortasında yayımlanan bu çalışma, insan hücresinin hasarlı DNA'yı tanımak, kesmek ve çıkarmak için hangi proteinlere ihtiyaç duyduğunu ayrıntılı olarak gösterdi.
+
+Bu bilgiler tıpta da önem taşıyor. Örneğin bazı kemoterapi ilaçları, kanser hücrelerinin DNA'sına zarar vererek çalışır. Kanser hücrelerinin bu hasarı ne kadar iyi onarabildiği, tedavinin başarısını etkileyebilir. Sancar'ın ekibi, yaygın bir kemoterapi ilacı olan sisplatinin yol açtığı DNA hasarının nasıl onarıldığını da inceledi.
+
+## [6:31] Biyolojik Saat
+
+Sancar'ın ilgi alanı yalnızca DNA onarımıyla sınırlı kalmadı. Doktorasında incelediği fotoliyaz enzimine benzeyen bir protein ailesi, kriptokromlar, onun yeni araştırma konusu oldu.
+
+Sancar ve ekibi, memelilerde kriptokrom proteinlerinin biyolojik saatin, yani vücudumuzun yaklaşık yirmi dört saatlik ritmini düzenleyen sistemin temel parçalarından biri olduğunu gösteren çalışmalar yaptı. Bu araştırmalar, ileride bazı kanser ilaçlarının günün hangi saatinde verildiğinde daha etkili olabileceği gibi soruların incelenmesine de katkı sağladı.
+
+Bilimsel çalışmaları uluslararası alanda büyük saygı gördü. 2005'te ABD Ulusal Bilimler Akademisi'ne üye seçildi. Bu akademiye seçilen ilk Türk asıllı bilim insanlarından biri oldu.
+
+## [7:23] Ekim 2015: Bir Sabah Telefonu
+
+7 Ekim 2015'te, Nobel Kimya Ödülü "DNA onarımının mekanizmasına yönelik çalışmalar" için üç bilim insanına verildi: İsveçli Tomas Lindahl, Amerikalı Paul Modrich ve Aziz Sancar. Üç bilim insanı da DNA onarımının farklı yollarını aydınlatmıştı.
+
+Bu haber Türkiye'de büyük bir sevinçle karşılandı. Aziz Sancar, edebiyat dalında ödül alan Orhan Pamuk'tan sonra Nobel kazanan ikinci Türk vatandaşı ve bilim alanında Nobel alan ilk Türk oldu.
+
+Sancar, ödülü aldıktan sonra yaptığı açıklamalarda Türk gençlerine seslendi. Bilimin çok çalışmayı, sabrı ve merakı gerektirdiğini, imkânsız gibi görünen hedeflere ulaşmanın mümkün olduğunu vurguladı.
+
+## [8:09] Madalya Anıtkabir'de
+
+Sancar'ın Türkiye'ye olan bağlılığı, ödülden sonra attığı en dikkat çekici adımlardan birinde de görüldü. 2016'da, Nobel madalyasını ve belgesini Anıtkabir'e bağışladı. Böylece dünyanın en prestijli bilim ödülü, Türkiye Cumhuriyeti'nin kurucusunun anıt mezarında sergilenmeye başladı.
+
+Sancar, Atatürk'ün bilime verdiği öneme duyduğu saygıyı sık sık dile getirdi. Kendisine yöneltilen sorularda, kariyeri boyunca Türk kimliğini her zaman gururla taşıdığını söyledi.
+
+## [8:43] Chapel Hill'deki Türk Evi
+
+Aziz ve Gwen Sancar, yıllar önce birlikte bir vakıf kurdu. Bu vakıf aracılığıyla Kuzey Carolina'daki Chapel Hill'de, Türk öğrencilere ve araştırmacılara kalacak yer sağlayan bir "Türk Evi" açtılar. Bu ev, Amerika'ya gelen Türk öğrenciler için bir yuva ve buluşma yeri oldu.
+
+Vakıf ayrıca Türk kültürünü Amerika'da tanıtmak ve Türk öğrencilere destek olmak için çalıştı. Sancar, kendisinin bir zamanlar okyanus ötesinde yaşadığı zorlukları, yeni kuşakların daha kolay aşabilmesini istiyordu.
+
+## [9:17] Bir İlham Kaynağı
+
+Bugün Aziz Sancar, Türkiye'de okulların, bilim merkezlerinin ve ödüllerin adını taşıdığı, gençler için büyük bir ilham kaynağı. Hayat hikâyesi bize, bir insanın nereden geldiğinin değil, nereye gitmek istediğinin ve bu yolda ne kadar emek verdiğinin önemli olduğunu hatırlatıyor.
+
+Sancar, gençlere verdiği öğütlerde sık sık aynı noktalara dikkat çekti: Merakını kaybetmemek, başarısızlıklardan yılmamak ve çok çalışmak. Kendi hayatı da bu sözlerin en güzel kanıtıydı.
+
+Savur'da okuma yazma bilmeyen bir ailenin çocuğu olarak başlayan bu yolculuk, Stockholm'deki Nobel törenine kadar uzandı. Ve her gün, vücudumuzdaki milyarlarca hücrede sessizce çalışan onarım mekanizmalarının arkasında, onun da adı var.
+
+## Fragman
+
+Mardin'in Savur ilçesinde doğdu. Annesi ve babası okuma yazma bilmiyordu.
+
+Tıp fakültesini birincilikle bitirdi. Köyüne dönüp doktorluk yaptı. Sonra her şeyi geride bırakıp okyanus ötesine gitti.
+
+Doktorasından sonra yıllarca kalıcı bir kadro bulamadı. Ama vazgeçmedi.
+
+Hücrelerimizin her gün bozulan DNA'yı nasıl onardığının sırrını çözdü. Ve 2015'te, dünyanın en prestijli bilim ödülü ona verildi.
+
+Aziz Sancar'ın hayat hikâyesi. Tamamı kanalımızda.

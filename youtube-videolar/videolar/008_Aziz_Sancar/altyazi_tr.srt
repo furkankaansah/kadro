@@ -1,0 +1,348 @@
+1
+00:00:04,099 --> 00:00:11,914
+2015 yılının Ekim ayında, İsveç Kraliyet Bilimler Akademisi, Nobel Kimya Ödülü'nün sahiplerini açıkladı.
+
+2
+00:00:11,864 --> 00:00:20,626
+Ödülü paylaşan üç bilim insanından biri, Mardin'in Savur ilçesinde, okuma yazma bilmeyen bir anne ve babanın çocuğu olarak doğmuştu.
+
+3
+00:00:20,626 --> 00:00:27,543
+Bu bilim insanı, Türkiye'de doğmuş biri olarak doğa bilimleri alanında Nobel Ödülü alan ilk kişi oldu.
+
+4
+00:00:27,543 --> 00:00:35,419
+Hücrelerimizin, her gün güneş ışığı ve başka etkenler yüzünden bozulan DNA'yı nasıl onardığını ortaya koymuştu.
+
+5
+00:00:35,419 --> 00:00:38,283
+Ama bu yolculuk kolay olmadı.
+
+6
+00:00:38,283 --> 00:00:47,458
+Doktor olarak köyüne döndü, sonra her şeyi bırakıp okyanus ötesine gitti, doktorasından sonra yıllarca kalıcı bir akademik kadro bulamadı.
+
+7
+00:00:47,458 --> 00:00:50,468
+Bu, Aziz Sancar'ın hikâyesi.
+
+8
+00:00:51,312 --> 00:01:00,521
+Aziz Sancar, 8 Eylül 1946'da Mardin'in Savur ilçesinde, sekiz çocuklu bir ailenin yedinci çocuğu olarak dünyaya geldi.
+
+9
+00:01:00,471 --> 00:01:04,197
+Annesi ve babası okuma yazma bilmiyordu.
+
+10
+00:01:04,197 --> 00:01:08,724
+Aile, geçimini çiftçilik ve hayvancılıkla sağlıyordu.
+
+11
+00:01:08,724 --> 00:01:13,554
+Ama Sancar ailesinin çocuklarının eğitimine verdiği önem büyüktü.
+
+12
+00:01:13,554 --> 00:01:23,093
+Kendisi de sonraki yıllarda, okumamış olsalar da anne ve babasının eğitimin değerini çok iyi bildiğini ve çocuklarını okumaya teşvik ettiğini anlatacaktı.
+
+13
+00:01:23,093 --> 00:01:29,452
+Aziz, ilkokulda öğretmenlerinin dikkatini çeken, meraklı ve çalışkan bir öğrenciydi.
+
+14
+00:01:29,452 --> 00:01:32,826
+Ortaokul ve liseyi Mardin'de okudu.
+
+15
+00:01:32,826 --> 00:01:38,311
+Öğretmenleri ona, Türkiye'nin en iyi okullarında okuyabileceğini söyledi.
+
+16
+00:01:39,171 --> 00:01:44,716
+Liseyi bitirdikten sonra İstanbul Üniversitesi Tıp Fakültesi'ni kazandı.
+
+17
+00:01:44,666 --> 00:01:49,970
+Anadolu'nun bir ilçesinden gelen genç için İstanbul büyük bir dünyaydı.
+
+18
+00:01:49,970 --> 00:01:55,977
+Ama o, derslerine odaklandı ve özellikle biyokimya derslerinde büyük bir ilgi duydu.
+
+19
+00:01:55,977 --> 00:02:00,588
+1969'da tıp fakültesini birincilikle bitirdi.
+
+20
+00:02:00,588 --> 00:02:06,013
+Hekim olarak memleketine döndü ve yaklaşık iki yıl Savur'da doktorluk yaptı.
+
+21
+00:02:06,013 --> 00:02:15,273
+Hastalarını tedavi ederken, aklının bir köşesinde hep aynı soru vardı: Hastalıkların arkasındaki moleküler mekanizmalar nasıl işliyordu?
+
+22
+00:02:15,273 --> 00:02:18,137
+Sonunda büyük bir karar verdi.
+
+23
+00:02:18,137 --> 00:02:24,812
+Hekimliği bırakıp, bu sorunun peşinden gitmek için yurt dışında biyokimya alanında doktora yapacaktı.
+
+24
+00:02:25,664 --> 00:02:31,269
+Sancar, burs kazanarak Amerika'ya, Johns Hopkins Üniversitesi'ne gitti.
+
+25
+00:02:31,219 --> 00:02:38,136
+Burada ışığın DNA üzerindeki etkilerini inceleyen bilim insanı Claud Rupert'in çalışmalarıyla tanıştı.
+
+26
+00:02:38,136 --> 00:02:46,498
+Bir süre Türkiye'ye döndükten sonra, Rupert'in Texas Üniversitesi'nin Dallas kampüsünde kurduğu laboratuvarda doktoraya başladı.
+
+27
+00:02:46,498 --> 00:02:57,335
+Doktora çalışmasının konusu, bazı bakterilerin güneşin morötesi ışınlarıyla bozulan DNA'sını, yine ışığın enerjisini kullanarak onaran fotoliyaz adlı bir enzimdi.
+
+28
+00:02:57,335 --> 00:03:02,372
+Sancar, bu enzimi kodlayan geni bakteride klonlamayı başardı.
+
+29
+00:03:02,372 --> 00:03:06,231
+1977'de doktorasını tamamladı.
+
+30
+00:03:06,231 --> 00:03:10,685
+Ancak bu başarı ona hemen bir akademik kadro getirmedi.
+
+31
+00:03:10,685 --> 00:03:14,423
+Kalıcı bir öğretim üyeliği arayışı sonuçsuz kaldı.
+
+32
+00:03:14,423 --> 00:03:21,923
+Sancar, Yale Üniversitesi'nde, Dean Rupp'un laboratuvarında daha düşük bir pozisyonda çalışmayı kabul etti.
+
+33
+00:03:21,923 --> 00:03:27,651
+Bu yıllar, onun bilim insanı olarak en verimli dönemlerinden birine dönüşecekti.
+
+34
+00:03:28,500 --> 00:03:35,088
+Amerika'daki doktora yıllarında Sancar, hayatını paylaşacağı insanla tanıştı: Gwen Boles.
+
+35
+00:03:35,038 --> 00:03:37,465
+Gwen de biyokimyacıydı.
+
+36
+00:03:37,465 --> 00:03:40,875
+1978'de evlendiler.
+
+37
+00:03:40,875 --> 00:03:47,550
+Gwen Sancar, yıllar boyunca hem eşi hem de bilimsel çalışmalarında yakın bir meslektaşı oldu.
+
+38
+00:03:47,550 --> 00:03:55,960
+1982'de Aziz Sancar, Kuzey Carolina Üniversitesi'nin Chapel Hill kampüsünde öğretim üyesi olarak göreve başladı.
+
+39
+00:03:55,960 --> 00:03:59,734
+Gwen de aynı üniversitede çalışmaya başladı.
+
+40
+00:03:59,734 --> 00:04:06,397
+Sancar, bilimsel kariyerinin geri kalanını bu üniversitede geçirdi ve burada profesör oldu.
+
+41
+00:04:07,264 --> 00:04:13,014
+Her gün, vücudumuzdaki her bir hücrenin DNA'sı binlerce kez hasar görür.
+
+42
+00:04:12,964 --> 00:04:21,666
+Güneşin morötesi ışınları, sigara dumanı, bazı kimyasallar ve hücrenin kendi faaliyetleri, DNA'nın yapısını bozabilir.
+
+43
+00:04:21,666 --> 00:04:28,814
+Eğer bu hasarlar onarılmasaydı, hücreler hızla bozulur ve kanser gibi hastalıklar çok daha yaygın olurdu.
+
+44
+00:04:28,814 --> 00:04:35,392
+Aziz Sancar, hücrenin bu hasarları nasıl onardığını aydınlatan bilim insanlarından biri oldu.
+
+45
+00:04:35,392 --> 00:04:41,326
+Özellikle "nükleotit kesip çıkarma onarımı" adı verilen mekanizmayı inceledi.
+
+46
+00:04:41,326 --> 00:04:52,892
+Bu mekanizmada, onarım enzimleri DNA'daki hasarlı bölgeyi tanır, o bölgeyi içeren küçük bir parçayı keserek çıkarır ve boşluk, sağlam ipliğe bakılarak yeniden doldurulur.
+
+47
+00:04:52,892 --> 00:05:02,964
+Sancar, bu süreci önce bakterilerde, ardından insan hücrelerinde, hangi proteinlerin hangi sırayla görev aldığını tek tek göstererek ortaya koydu.
+
+48
+00:05:02,964 --> 00:05:11,945
+Bu çalışmalar, güneş ışığına aşırı duyarlılıkla ortaya çıkan bazı kalıtsal hastalıkların ve kanserin anlaşılmasında önemli bir yer tuttu.
+
+49
+00:05:12,812 --> 00:05:23,150
+DNA onarımının ne kadar hayati olduğunu en çarpıcı şekilde gösteren hastalıklardan biri, "kseroderma pigmentozum" adlı nadir bir kalıtsal hastalıktır.
+
+50
+00:05:23,100 --> 00:05:29,289
+Bu hastalıkta, nükleotit kesip çıkarma onarımında görev alan genlerden biri bozuktur.
+
+51
+00:05:29,289 --> 00:05:37,651
+Hastalar güneş ışığına son derece duyarlıdır ve deri kanserine yakalanma riskleri, sağlıklı insanlara göre kat kat yüksektir.
+
+52
+00:05:37,651 --> 00:05:43,974
+Bazı çocuklar, güneşten korunmak için günlerini kapalı mekânlarda geçirmek zorunda kalır.
+
+53
+00:05:43,974 --> 00:05:54,034
+Sancar'ın laboratuvarı, insan hücrelerindeki bu onarım sistemini, saflaştırılmış proteinleri bir deney tüpünde bir araya getirerek yeniden kurmayı başardı.
+
+54
+00:05:54,034 --> 00:06:06,037
+1990'ların ortasında yayımlanan bu çalışma, insan hücresinin hasarlı DNA'yı tanımak, kesmek ve çıkarmak için hangi proteinlere ihtiyaç duyduğunu ayrıntılı olarak gösterdi.
+
+55
+00:06:06,037 --> 00:06:09,398
+Bu bilgiler tıpta da önem taşıyor.
+
+56
+00:06:09,398 --> 00:06:15,903
+Örneğin bazı kemoterapi ilaçları, kanser hücrelerinin DNA'sına zarar vererek çalışır.
+
+57
+00:06:15,903 --> 00:06:22,396
+Kanser hücrelerinin bu hasarı ne kadar iyi onarabildiği, tedavinin başarısını etkileyebilir.
+
+58
+00:06:22,396 --> 00:06:30,563
+Sancar'ın ekibi, yaygın bir kemoterapi ilacı olan sisplatinin yol açtığı DNA hasarının nasıl onarıldığını da inceledi.
+
+59
+00:06:31,416 --> 00:06:36,511
+Sancar'ın ilgi alanı yalnızca DNA onarımıyla sınırlı kalmadı.
+
+60
+00:06:36,461 --> 00:06:44,738
+Doktorasında incelediği fotoliyaz enzimine benzeyen bir protein ailesi, kriptokromlar, onun yeni araştırma konusu oldu.
+
+61
+00:06:44,738 --> 00:06:57,893
+Sancar ve ekibi, memelilerde kriptokrom proteinlerinin biyolojik saatin, yani vücudumuzun yaklaşık yirmi dört saatlik ritmini düzenleyen sistemin temel parçalarından biri olduğunu gösteren çalışmalar yaptı.
+
+62
+00:06:57,893 --> 00:07:07,517
+Bu araştırmalar, ileride bazı kanser ilaçlarının günün hangi saatinde verildiğinde daha etkili olabileceği gibi soruların incelenmesine de katkı sağladı.
+
+63
+00:07:07,517 --> 00:07:12,165
+Bilimsel çalışmaları uluslararası alanda büyük saygı gördü.
+
+64
+00:07:12,165 --> 00:07:17,723
+2005'te ABD Ulusal Bilimler Akademisi'ne üye seçildi.
+
+65
+00:07:17,723 --> 00:07:22,711
+Bu akademiye seçilen ilk Türk asıllı bilim insanlarından biri oldu.
+
+66
+00:07:23,572 --> 00:07:36,471
+7 Ekim 2015'te, Nobel Kimya Ödülü "DNA onarımının mekanizmasına yönelik çalışmalar" için üç bilim insanına verildi: İsveçli Tomas Lindahl, Amerikalı Paul Modrich ve Aziz Sancar.
+
+67
+00:07:36,421 --> 00:07:41,348
+Üç bilim insanı da DNA onarımının farklı yollarını aydınlatmıştı.
+
+68
+00:07:41,348 --> 00:07:45,438
+Bu haber Türkiye'de büyük bir sevinçle karşılandı.
+
+69
+00:07:45,438 --> 00:07:55,049
+Aziz Sancar, edebiyat dalında ödül alan Orhan Pamuk'tan sonra Nobel kazanan ikinci Türk vatandaşı ve bilim alanında Nobel alan ilk Türk oldu.
+
+70
+00:07:55,049 --> 00:08:00,887
+Sancar, ödülü aldıktan sonra yaptığı açıklamalarda Türk gençlerine seslendi.
+
+71
+00:08:00,887 --> 00:08:09,127
+Bilimin çok çalışmayı, sabrı ve merakı gerektirdiğini, imkânsız gibi görünen hedeflere ulaşmanın mümkün olduğunu vurguladı.
+
+72
+00:08:09,992 --> 00:08:17,162
+Sancar'ın Türkiye'ye olan bağlılığı, ödülden sonra attığı en dikkat çekici adımlardan birinde de görüldü.
+
+73
+00:08:17,112 --> 00:08:22,440
+2016'da, Nobel madalyasını ve belgesini Anıtkabir'e bağışladı.
+
+74
+00:08:22,440 --> 00:08:30,183
+Böylece dünyanın en prestijli bilim ödülü, Türkiye Cumhuriyeti'nin kurucusunun anıt mezarında sergilenmeye başladı.
+
+75
+00:08:30,183 --> 00:08:35,802
+Sancar, Atatürk'ün bilime verdiği öneme duyduğu saygıyı sık sık dile getirdi.
+
+76
+00:08:35,802 --> 00:08:42,452
+Kendisine yöneltilen sorularda, kariyeri boyunca Türk kimliğini her zaman gururla taşıdığını söyledi.
+
+77
+00:08:43,308 --> 00:08:48,027
+Aziz ve Gwen Sancar, yıllar önce birlikte bir vakıf kurdu.
+
+78
+00:08:47,977 --> 00:08:56,824
+Bu vakıf aracılığıyla Kuzey Carolina'daki Chapel Hill'de, Türk öğrencilere ve araştırmacılara kalacak yer sağlayan bir "Türk Evi" açtılar.
+
+79
+00:08:56,824 --> 00:09:02,200
+Bu ev, Amerika'ya gelen Türk öğrenciler için bir yuva ve buluşma yeri oldu.
+
+80
+00:09:02,200 --> 00:09:08,717
+Vakıf ayrıca Türk kültürünü Amerika'da tanıtmak ve Türk öğrencilere destek olmak için çalıştı.
+
+81
+00:09:08,717 --> 00:09:16,958
+Sancar, kendisinin bir zamanlar okyanus ötesinde yaşadığı zorlukları, yeni kuşakların daha kolay aşabilmesini istiyordu.
+
+82
+00:09:17,800 --> 00:09:26,305
+Bugün Aziz Sancar, Türkiye'de okulların, bilim merkezlerinin ve ödüllerin adını taşıdığı, gençler için büyük bir ilham kaynağı.
+
+83
+00:09:26,255 --> 00:09:35,758
+Hayat hikâyesi bize, bir insanın nereden geldiğinin değil, nereye gitmek istediğinin ve bu yolda ne kadar emek verdiğinin önemli olduğunu hatırlatıyor.
+
+84
+00:09:35,758 --> 00:09:45,394
+Sancar, gençlere verdiği öğütlerde sık sık aynı noktalara dikkat çekti: Merakını kaybetmemek, başarısızlıklardan yılmamak ve çok çalışmak.
+
+85
+00:09:45,394 --> 00:09:49,168
+Kendi hayatı da bu sözlerin en güzel kanıtıydı.
+
+86
+00:09:49,168 --> 00:09:57,117
+Savur'da okuma yazma bilmeyen bir ailenin çocuğu olarak başlayan bu yolculuk, Stockholm'deki Nobel törenine kadar uzandı.
+
+87
+00:09:57,117 --> 00:10:05,066
+Ve her gün, vücudumuzdaki milyarlarca hücrede sessizce çalışan onarım mekanizmalarının arkasında, onun da adı var.
+
