@@ -13,10 +13,10 @@ SIRADAKİ HAYAT HİKÂYELERİ ([x] = senaryosu hazır. Yeni senaryolar bu sıray
 [x] 012 Cahit Arf
 [x] 013 Frida Kahlo
 [x] 014 Nâzım Hikmet
-[ ] 015 Muhammed Ali
-[ ] 016 Thomas Edison
-[ ] 017 Sabiha Gökçen
-[ ] 018 Mozart
+[x] 015 Muhammed Ali
+[x] 016 Thomas Edison
+[x] 017 Sabiha Gökçen
+[x] 018 Mozart
 [ ] 019 Neşet Ertaş
 [ ] 020 Isaac Newton
 [ ] 021 Galileo Galilei

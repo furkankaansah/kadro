@@ -1,0 +1,109 @@
+# Sabiha Gökçen'in Hayatı: Yetim Bir Kızdan Göklerin Kızına | Belgesel
+
+## Giriş
+
+1936 yılında, Türkiye'nin askerî havacılık okulunda, erkek öğrencilerin arasında tek bir kadın vardı. Henüz yirmi üç yaşındaydı. Uçuş eğitimini tamamladığında, Türkiye'nin ilk kadın askerî pilotu olarak tarihe geçti.
+
+Bu genç kadın, çocukken anne ve babasını kaybetmiş bir yetimdi. Hayatı, bir gün Bursa'da tanıştığı bir adamın onu evlat edinmesiyle tamamen değişti. Bu adam, Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'tü.
+
+Bugün İstanbul'un en büyük havalimanlarından biri onun adını taşıyor. Bu, Sabiha Gökçen'in hikâyesi.
+
+## [0:45] Bursa'da Yetim Bir Kız
+
+Sabiha, resmî kayıtlara göre 22 Mart 1913'te Bursa'da doğdu. Çocukluğu, Birinci Dünya Savaşı ve Kurtuluş Savaşı yıllarına denk geldi. Çok küçük yaşta anne ve babasını kaybetti ve ağabeyinin yanında, yoksulluk içinde büyüdü.
+
+Kökeni ve ailesi hakkında yıllar içinde farklı iddialar ortaya atıldı. Bu tartışmalar zaman zaman kamuoyunda büyük yankı uyandırdı. Sabiha Gökçen'in kendi anlatımında ise Bursalı bir aileden geldiği ve çok küçük yaşta öksüz ve yetim kaldığı yer alır.
+
+## [1:22] Atatürk ile Tanışma
+
+1925'te Atatürk, Bursa'yı ziyaret ettiğinde, küçük Sabiha'nın onunla görüşmek için kalabalığın arasından yaklaştığı ve okumak istediğini söylediği anlatılır. Sabiha Gökçen'in anılarına göre Atatürk, bu küçük kızın kararlılığından etkilendi ve ağabeyinin de onayıyla onu evlat edindi.
+
+Böylece Sabiha, Atatürk'ün manevi kızları arasına katıldı ve Ankara'ya, Çankaya Köşkü'ne geldi. Atatürk, evlat edindiği çocukların eğitimiyle bizzat ilgileniyordu. Sabiha, Ankara'da ve ardından İstanbul'daki Üsküdar Amerikan Kız Koleji'nde okudu.
+
+## [1:59] Gökçen Soyadı
+
+1934'te Soyadı Kanunu çıkarıldı. Türkiye'deki herkes bir soyadı almak zorundaydı. Atatürk, Sabiha'ya "Gökçen" soyadını verdi. Bu kelime, "gökle ilgili, göğe ait" anlamına geliyordu.
+
+İlginç olan şu ki, Sabiha bu soyadını aldığında henüz pilot değildi. Hatta uçağa bile binmemişti. Ama bu isim, sanki geleceğini önceden haber veriyordu.
+
+## [2:29] İstikbal Göklerdedir
+
+Sabiha Gökçen'in hikâyesini anlamak için, o yılların Türkiye'sine bakmak gerekir. Kurtuluş Savaşı yeni bitmişti ve genç Cumhuriyet, havacılığın geleceğin en önemli alanlarından biri olacağını görüyordu. Atatürk'e atfedilen "İstikbal göklerdedir" sözü, bu anlayışın sembolü haline geldi.
+
+1925'te, bugünkü Türk Hava Kurumu'nun temeli olan Türk Tayyare Cemiyeti kuruldu. Cemiyet, halktan topladığı bağışlarla orduya uçak alıyor ve gençlerde havacılık sevgisi uyandırmaya çalışıyordu. Aynı yıl Türk havacılığının öncülerinden Vecihi Hürkuş, kendi tasarladığı ve ürettiği uçakla uçarak tarihe geçti. Bu, Türkiye'de tasarlanıp üretilen ilk uçaklardan biriydi.
+
+Dünyada ise kadın havacılar yavaş yavaş ses getirmeye başlıyordu. 1932'de Amerikalı pilot Amelia Earhart, Atlas Okyanusu'nu tek başına geçen ilk kadın pilot olmuştu. Ama askerî havacılık, neredeyse her ülkede yalnızca erkeklere açık bir alandı. Sabiha Gökçen'in hikâyesi, işte böyle bir dünyada başladı.
+
+## [3:40] Türkkuşu'nun Açılışı
+
+1935 yılının Mayıs ayında, Ankara'da Türk Hava Kurumu'na bağlı bir uçuş okulu olan Türkkuşu açıldı. Açılış törenine Atatürk de katıldı. Sabiha Gökçen'in anlattığına göre, paraşütçülerin gösterisini izlerken Atatürk ona dönüp, sen de paraşütçü olmak ister misin diye sordu. Sabiha, hiç düşünmeden "evet" dedi.
+
+Kısa süre sonra Sabiha, Türkkuşu'nda eğitime başladı. Önce planör uçuşu öğrendi. Ardından, aralarında birkaç Türk gencin de bulunduğu bir grupla, ileri düzey planör eğitimi için Sovyetler Birliği'ndeki Kırım'a gönderildi.
+
+## [4:20] Kadın Bir Askerî Pilot
+
+Türkiye'ye döndüğünde Sabiha'nın hedefi daha büyüktü: Askerî pilot olmak. Bu, o dönem dünyanın çok az ülkesinde bir kadının ulaşabildiği bir hedefti. Atatürk'ün desteğiyle Sabiha, Eskişehir'deki askerî havacılık okulunda özel bir eğitime alındı.
+
+Burada erkek öğrencilerle birlikte, aynı sert koşullar altında eğitim gördü. Bombardıman ve av uçaklarını kullanmayı öğrendi. 1936'da eğitimini tamamladı ve Türkiye'nin ilk kadın askerî pilotu oldu.
+
+Bu, yalnızca Türkiye için değil, dünya havacılık tarihi için de önemli bir adımdı. O yıllarda pek çok ülkede kadınların askerî uçak kullanması düşünülemezdi bile.
+
+## [5:06] 1937
+
+1937'de Sabiha Gökçen, Türk ordusunun Doğu Anadolu'daki Dersim'de yürüttüğü askerî harekâtta, uçuş görevlerine katıldı. Bu nedenle, bazı kaynaklar onu dünyanın ilk kadın savaş pilotu olarak anar.
+
+Dersim'de yaşananlar, Türkiye'de bugün hâlâ tartışılan, acı ve hassas bir tarihi olaydır. Pek çok tarihçi, harekâtın sivil halk için ağır sonuçları olduğunu vurgular. Sabiha Gökçen'in bu harekâttaki rolü de yıllar içinde farklı açılardan değerlendirildi.
+
+Aynı yıl Sabiha Gökçen, Trakya'da düzenlenen büyük askerî tatbikata da katıldı ve görevlerindeki başarısı nedeniyle ödüllendirildi.
+
+## [5:49] Balkanlar Üzerinde Bir Kadın
+
+1938 yazında Sabiha Gökçen, tek başına bir Balkan turuna çıktı. Uçağıyla Yunanistan, Bulgaristan, Yugoslavya ve Romanya'ya uçtu. Gittiği her ülkede büyük bir ilgiyle karşılandı. Bir Türk kadınının askerî bir uçağı tek başına kullanarak ülkeler arasında uçması, o yıllarda Avrupa basınında geniş yer buldu.
+
+Bu tur, genç Türkiye Cumhuriyeti'nin modernleşme ve kadın hakları alanındaki atılımlarının dünyaya gösterilmesi açısından da önemli bir sembol oldu. Atatürk, manevi kızının bu başarısından büyük gurur duyuyordu.
+
+## [6:27] Bir Babanın Ardından
+
+Ama aynı yılın sonbaharında Sabiha Gökçen, hayatının en büyük acısını yaşadı. 10 Kasım 1938'de, babası olarak gördüğü Atatürk, Dolmabahçe Sarayı'nda hayatını kaybetti. Sabiha Gökçen, anılarında bu kaybın onu derinden sarstığını anlatır.
+
+Atatürk'ün vasiyetinde, manevi çocuklarının geçimi için de düzenlemeler yer alıyordu. Sabiha Gökçen, onun ölümünden sonra da havacılığı bırakmadı.
+
+## [6:57] Türkkuşu'nun Başöğretmeni
+
+1938'de Türkkuşu'nun baş öğretmeni oldu ve uzun yıllar bu görevde kaldı. Kendisi gibi gökyüzüne gönül vermiş yüzlerce genci yetiştirdi. Onun öğrencileri arasında, Türkiye'nin ilk kadın pilotları ve paraşütçüleri de vardı.
+
+1940'ta bir subayla evlendi, ancak bu evlilik birkaç yıl sonra sona erdi. Sabiha Gökçen'in çocuğu olmadı. Hayatını havacılığa ve gençlerin yetişmesine adadı.
+
+Türkkuşu'nun Eskişehir yakınlarındaki İnönü tepelerinde kurulan kampı, Türkiye'de planörcülüğün merkezi haline geldi. Rüzgârın tepelerden yükseldiği bu alanda, her yaz ülkenin dört bir yanından gelen gençler uçmayı öğrendi. Sabiha Gökçen, bu gençlere yalnızca uçuş tekniğini değil, disiplini, cesareti ve sorumluluk duygusunu da aşılamaya çalıştı. Öğrencileri, onu sert ama adil bir öğretmen olarak hatırlar.
+
+Uzun meslek hayatı boyunca binlerce saat uçtu. Askerî ve sivil pek çok uçak tipini kullandı, Türk Hava Kurumu'nun çeşitli görevlerinde bulundu.
+
+## [8:07] Dünya Tarihinde Bir Yer
+
+Sabiha Gökçen'in başarıları, yurt dışında da tanındı. Anlatıldığına göre 1996'da Amerikan Hava Kuvvetleri, havacılık tarihinin en önemli yirmi pilotunu gösteren bir afiş hazırladı. Bu listede yer alan tek kadın, Sabiha Gökçen'di.
+
+İleri yaşlarında anılarını yazdı. "Atatürk'le Bir Ömür" adlı kitabında, Atatürk ile geçen yıllarını, havacılık serüvenini ve hayatına dair hatıralarını anlattı. Bu kitap, hem onun hem de Cumhuriyet'in ilk yıllarının önemli tanıklıklarından biri oldu.
+
+## [8:43] Doğum Gününde Bir Veda
+
+Sabiha Gökçen, 22 Mart 2001'de, seksen sekizinci doğum gününde, Ankara'da hayatını kaybetti. Askerî törenle toprağa verildi.
+
+Aynı yılın başında, İstanbul'un Anadolu yakasında, Pendik'te hizmete giren yeni havalimanı onun adını taşıyordu: İstanbul Sabiha Gökçen Uluslararası Havalimanı. Bugün her yıl milyonlarca yolcu, bu havalimanından dünyanın dört bir yanına uçuyor.
+
+## [9:11] Göklerin Kızı
+
+Sabiha Gökçen'in hikâyesi, Türkiye'de kadınların toplumsal hayattaki yerinin hızla değiştiği bir dönemin hikâyesidir. Kadınların seçme ve seçilme hakkını yeni kazandığı yıllarda, o bir savaş uçağının kokpitine oturdu.
+
+Hayatı ve bazı görevleri, bugün farklı açılardan tartışılsa da, bir kadının gökyüzüne yükselmesinin pek çok ülkede hayal bile edilemediği bir çağda gösterdiği cesaret inkâr edilemez. Bugün Türkiye'de pek çok okul, cadde ve park onun adını taşıyor. Türk Hava Kuvvetleri'nde görev yapan kadın pilotlar ve sivil havacılıkta uçan kadın kaptanlar, onu kendi yollarının öncülerinden biri olarak görüyor. Bursa'da yetim kalan o küçük kız, kendisinden sonra gelen nesiller için gökyüzünün kapılarını araladı.
+
+## Fragman
+
+Çok küçük yaşta anne ve babasını kaybetti. Bursa'da yoksulluk içinde büyüdü.
+
+Bir gün, ülkenin kurucusunun karşısına çıktı ve okumak istediğini söyledi. O adam, onu evlat edindi.
+
+Ona gökle ilgili bir soyadı verildi. O ise henüz bir uçağa bile binmemişti.
+
+Ama birkaç yıl sonra, erkeklerin arasında tek kadın olarak askerî pilot eğitimini tamamladı. Balkanlar'ın üzerinde tek başına uçtu. Ve bugün adını taşıyan bir havalimanından, her yıl milyonlarca insan göklere yükseliyor.
+
+Sabiha Gökçen'in hayat hikâyesi. Tamamı kanalımızda.

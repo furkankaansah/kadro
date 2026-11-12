@@ -1,0 +1,364 @@
+1
+00:00:04,099 --> 00:00:14,717
+21 Ekim 1931 akşamı, Amerika Başkanı Herbert Hoover'ın çağrısıyla, ülkenin dört bir yanında insanlar bir dakikalığına elektrik ışıklarını kararttı.
+
+2
+00:00:14,667 --> 00:00:19,303
+Bu, o gün toprağa verilen bir adama duyulan saygının ifadesiydi.
+
+3
+00:00:19,303 --> 00:00:23,466
+Bu adam, okula yalnızca birkaç ay gidebilmişti.
+
+4
+00:00:23,466 --> 00:00:31,475
+Gençliğinde trenlerde gazete satmış, işitme sorunu yüzünden hayatının büyük bölümünü neredeyse sağır olarak geçirmişti.
+
+5
+00:00:31,475 --> 00:00:44,412
+Ama ölümüne kadar yalnızca Amerika'da bin doksan üç patent almış, fonograftan uzun ömürlü ampule, elektrik dağıtım sistemlerinden sinema kamerasına kadar modern dünyayı şekillendiren buluşlarla anılmıştı.
+
+6
+00:00:44,412 --> 00:00:49,182
+Bu, Menlo Park'ın Büyücüsü, Thomas Alva Edison'un hikâyesi.
+
+7
+00:00:50,040 --> 00:01:00,244
+Thomas Alva Edison, 11 Şubat 1847'de, Amerika'nın Ohio eyaletindeki Milan kasabasında, yedi çocuklu bir ailenin en küçüğü olarak doğdu.
+
+8
+00:01:00,194 --> 00:01:05,352
+Aile, o yedi yaşındayken Michigan'daki Port Huron kasabasına taşındı.
+
+9
+00:01:05,352 --> 00:01:11,517
+Küçük Thomas, sürekli soru soran, her şeyin nasıl çalıştığını merak eden bir çocuktu.
+
+10
+00:01:11,517 --> 00:01:16,032
+Okula başladığında öğretmeni onun bu halinden hoşlanmadı.
+
+11
+00:01:16,032 --> 00:01:21,784
+Anlatılanlara göre öğretmen onu "kafası karışık" bir çocuk olarak tanımladı.
+
+12
+00:01:21,784 --> 00:01:27,998
+Bunu duyan annesi Nancy, oğlunu okuldan aldı ve eğitimini evde kendisi sürdürdü.
+
+13
+00:01:27,998 --> 00:01:33,738
+Edison yıllar sonra, kendisini yapan kişinin annesi olduğunu söyleyecekti.
+
+14
+00:01:33,738 --> 00:01:41,918
+İnternette sıkça paylaşılan, öğretmenin yazdığı mektubu annesinin farklı okuduğu hikâyesinin ise tarihi bir dayanağı yoktur.
+
+15
+00:01:41,918 --> 00:01:50,789
+Gerçek olan, Edison'un çok az resmî eğitim aldığı ve neredeyse her şeyi kendi kendine, kitaplardan ve deneylerden öğrendiğidir.
+
+16
+00:01:51,628 --> 00:01:59,563
+On iki yaşındayken Edison, Port Huron ile Detroit arasında çalışan bir trende gazete, şeker ve meyve satmaya başladı.
+
+17
+00:01:59,513 --> 00:02:06,115
+Kazandığı parayla kimya malzemeleri aldı ve trenin bagaj vagonunda küçük bir laboratuvar kurdu.
+
+18
+00:02:06,115 --> 00:02:11,722
+Hatta yine bu vagonda, yolculara sattığı küçük bir gazete basıp yayımladı.
+
+19
+00:02:11,722 --> 00:02:20,338
+Anlatılanlara göre bir gün laboratuvarındaki bir kimyasal yangın çıkardı ve kondüktör, Edison'u ve malzemelerini trenden attı.
+
+20
+00:02:20,338 --> 00:02:24,222
+Edison'un işitme sorunu da bu yıllarda başladı.
+
+21
+00:02:24,222 --> 00:02:33,263
+Kendisi bunun nedenlerini farklı zamanlarda farklı şekillerde anlattı; çocukken geçirdiği hastalıklar da olası nedenler arasında gösterilir.
+
+22
+00:02:33,263 --> 00:02:37,947
+Kesin olan, işitme kaybının hayatı boyunca giderek arttığıdır.
+
+23
+00:02:37,947 --> 00:02:45,095
+Edison, bunun dikkatini dağıtan seslerden uzak kalıp çalışmasına odaklanmasına yardım ettiğini söylerdi.
+
+24
+00:02:45,943 --> 00:02:54,437
+1862'de Edison, bir istasyon şefinin küçük oğlunu, üzerine gelmekte olan bir tren vagonunun önünden kurtardı.
+
+25
+00:02:54,387 --> 00:02:58,890
+Minnettar baba, ona ödül olarak telgrafçılığı öğretti.
+
+26
+00:02:58,890 --> 00:03:02,737
+Bu, Edison'un hayatının dönüm noktalarından biriydi.
+
+27
+00:03:02,737 --> 00:03:08,538
+Sonraki yıllarda Amerika'nın farklı şehirlerinde telgraf operatörü olarak çalıştı.
+
+28
+00:03:08,538 --> 00:03:15,188
+Gece vardiyalarında, boş zamanlarında elektrik ve telgraf cihazları üzerine deneyler yaptı.
+
+29
+00:03:15,188 --> 00:03:22,725
+1869'da ilk patentini aldı: Meclislerde oyları hızla sayan elektrikli bir oy kayıt cihazı.
+
+30
+00:03:22,725 --> 00:03:30,941
+Ama politikacılar bu cihazla ilgilenmedi; çünkü oylamaların yavaşlığı, onlara pazarlık yapmak için zaman kazandırıyordu.
+
+31
+00:03:30,941 --> 00:03:39,982
+Edison bu deneyimden önemli bir ders çıkardı: Bundan sonra yalnızca insanların gerçekten istediği ve satın alacağı şeyleri icat edecekti.
+
+32
+00:03:40,835 --> 00:03:45,494
+Telgraf alanındaki geliştirmeleri ona para ve ün kazandırdı.
+
+33
+00:03:45,444 --> 00:03:55,092
+1876'da Edison, New Jersey'deki küçük Menlo Park kasabasında, dünyanın ilk sanayi araştırma laboratuvarlarından birini kurdu.
+
+34
+00:03:55,092 --> 00:03:58,685
+Burası bir "icat fabrikası"ydı.
+
+35
+00:03:58,685 --> 00:04:05,553
+Edison, makinistler, kimyagerler ve matematikçilerden oluşan bir ekiple birlikte çalışıyordu.
+
+36
+00:04:05,553 --> 00:04:11,864
+Hedefi iddialıydı: Her on günde küçük bir icat, her altı ayda da büyük bir icat yapmak.
+
+37
+00:04:11,864 --> 00:04:15,784
+Ekip, gecenin geç saatlerine kadar çalışıyordu.
+
+38
+00:04:15,784 --> 00:04:25,481
+Edison'un bu yaklaşımı, belki de en büyük icadıydı: Bilimsel araştırmayı sistemli, ekip çalışmasına dayanan bir sanayi faaliyetine dönüştürmek.
+
+39
+00:04:26,343 --> 00:04:33,260
+1877'nin sonunda Edison, dünyayı hayrete düşüren bir cihaz geliştirdi: Fonograf.
+
+40
+00:04:33,210 --> 00:04:40,163
+Bu cihaz, sesi kalay folyo kaplı bir silindir üzerine kaydediyor ve sonra tekrar çalabiliyordu.
+
+41
+00:04:40,163 --> 00:04:47,991
+Edison, cihazı ilk denediğinde bir çocuk tekerlemesi olan "Mary'nin küçük bir kuzusu vardı" şarkısını söyledi.
+
+42
+00:04:47,991 --> 00:04:53,683
+Makine onun sesini geri çaldığında, ekibindekiler büyük bir şaşkınlık yaşadı.
+
+43
+00:04:53,683 --> 00:04:58,331
+İnsan sesi, ilk kez kaydedilip yeniden dinlenebiliyordu.
+
+44
+00:04:58,331 --> 00:05:02,324
+Fonograf, Edison'u bir anda dünyaca ünlü yaptı.
+
+45
+00:05:02,324 --> 00:05:06,777
+Gazeteler ona "Menlo Park'ın Büyücüsü" adını verdi.
+
+46
+00:05:06,777 --> 00:05:09,775
+Edison henüz otuz yaşındaydı.
+
+47
+00:05:10,627 --> 00:05:14,400
+Edison'un adı en çok ampulle birlikte anılır.
+
+48
+00:05:14,350 --> 00:05:18,901
+Ama gerçek şu: Ampulü ilk icat eden Edison değildi.
+
+49
+00:05:18,901 --> 00:05:24,447
+Ondan önce de pek çok mucit, elektrikle ışık üreten lambalar yapmıştı.
+
+50
+00:05:24,447 --> 00:05:29,836
+Ancak bu lambalar ya çok kısa süre yanıyor ya da çok pahalıya mal oluyordu.
+
+51
+00:05:29,836 --> 00:05:36,195
+Edison ve ekibi, uzun süre yanabilecek bir lamba bulmak için binlerce malzemeyi denedi.
+
+52
+00:05:36,195 --> 00:05:43,477
+Ekim 1879'da, karbonlaştırılmış bir iplikle yapılan bir ampul saatlerce yanmayı başardı.
+
+53
+00:05:43,477 --> 00:05:49,144
+Sonraki aylarda karbonlaştırılmış bambu lifleriyle bu süre çok daha uzatıldı.
+
+54
+00:05:49,144 --> 00:05:53,695
+Ona atfedilen ünlü bir söz vardır: "Başarısız olmadım.
+
+55
+00:05:53,695 --> 00:05:57,275
+Sadece işe yaramayan on bin yol buldum.
+
+56
+00:05:57,275 --> 00:06:04,350
+Bu sözün tam olarak bu şekilde söylendiği kesin değildir, ama Edison'un çalışma biçimini çok iyi anlatır.
+
+57
+00:06:05,207 --> 00:06:09,769
+Edison, ampulün tek başına yeterli olmadığını biliyordu.
+
+58
+00:06:09,719 --> 00:06:20,472
+İnsanların evlerinde elektrik kullanabilmesi için bütün bir sistem gerekiyordu: Elektrik üreten santraller, kablolar, sayaçlar, sigortalar ve anahtarlar.
+
+59
+00:06:20,472 --> 00:06:31,418
+4 Eylül 1882'de, New York'ta Pearl Street'te kurduğu elektrik santrali çalışmaya başladı ve Manhattan'ın bir bölümündeki müşterilere elektrik vermeye başladı.
+
+60
+00:06:31,418 --> 00:06:36,952
+Bu, ticari bir merkezî elektrik dağıtım sisteminin ilk örneklerinden biriydi.
+
+61
+00:06:36,952 --> 00:06:43,979
+Ancak Edison'un sistemi doğru akıma dayanıyordu ve elektriği uzak mesafelere taşımakta zorlanıyordu.
+
+62
+00:06:43,979 --> 00:06:53,845
+Kısa süre sonra Nikola Tesla ve George Westinghouse'un savunduğu alternatif akımla, tarihe "Akımların Savaşı" olarak geçen sert bir rekabet başladı.
+
+63
+00:06:53,845 --> 00:06:56,697
+Edison bu savaşı kaybetti.
+
+64
+00:06:56,697 --> 00:07:02,923
+Bugün dünyadaki elektrik şebekelerinin neredeyse tamamı alternatif akımla çalışıyor.
+
+65
+00:07:03,771 --> 00:07:08,539
+Edison, 1871'de Mary Stilwell ile evlendi.
+
+66
+00:07:08,489 --> 00:07:15,807
+İlk iki çocuklarına, telgrafın Mors alfabesinden esinlenerek "Nokta" ve "Çizgi" lakaplarını taktı.
+
+67
+00:07:15,807 --> 00:07:21,633
+Ama Edison, işine o kadar gömülüydü ki ailesine çok az zaman ayırabiliyordu.
+
+68
+00:07:21,633 --> 00:07:27,555
+1884'te Mary, henüz yirmi dokuz yaşındayken hayatını kaybetti.
+
+69
+00:07:27,555 --> 00:07:30,577
+Edison derin bir üzüntü yaşadı.
+
+70
+00:07:30,577 --> 00:07:35,722
+İki yıl sonra, 1886'da Mina Miller ile evlendi.
+
+71
+00:07:35,722 --> 00:07:38,963
+Edison'un toplam altı çocuğu oldu.
+
+72
+00:07:39,824 --> 00:07:47,771
+1887'de Edison, New Jersey'nin West Orange kasabasında çok daha büyük bir laboratuvar kompleksi kurdu.
+
+73
+00:07:47,721 --> 00:07:52,770
+Burada fonografı geliştirmeye devam etti ve yeni alanlara yöneldi.
+
+74
+00:07:52,770 --> 00:07:59,724
+Ekibinden William Dickson ile birlikte, hareketli görüntüleri kaydedip izlemeyi sağlayan cihazlar geliştirdi.
+
+75
+00:07:59,724 --> 00:08:06,058
+Kinetoskop adlı cihazda, bir kişi küçük bir delikten bakarak kısa filmleri izleyebiliyordu.
+
+76
+00:08:06,058 --> 00:08:15,075
+1893'te laboratuvarın bahçesine, dünyanın ilk film stüdyolarından biri sayılan, "Kara Maria" lakaplı bir yapı kurdu.
+
+77
+00:08:15,075 --> 00:08:19,639
+Bu, sinema endüstrisinin doğuşundaki önemli adımlardan biriydi.
+
+78
+00:08:20,484 --> 00:08:23,929
+Edison'un her girişimi başarılı olmadı.
+
+79
+00:08:23,879 --> 00:08:32,908
+1890'larda demir cevheri işleme üzerine büyük bir projeye servetinin önemli bir kısmını yatırdı ve bu girişim başarısız oldu.
+
+80
+00:08:32,908 --> 00:08:40,954
+Kurduğu elektrik şirketi başka bir şirketle birleşerek General Electric adını aldı ve Edison'un adı şirket isminden çıkarıldı.
+
+81
+00:08:40,954 --> 00:08:46,743
+Aralık 1914'te West Orange'daki tesislerde büyük bir yangın çıktı.
+
+82
+00:08:46,743 --> 00:08:51,075
+Binaların büyük kısmı ve değerli malzemeler kül oldu.
+
+83
+00:08:51,075 --> 00:09:01,658
+Oğlu Charles'ın anlatımına göre, altmış yedi yaşındaki Edison, alevleri izlerken oğluna annesini çağırmasını söyledi, çünkü böyle bir yangını bir daha göremeyeceklerdi.
+
+84
+00:09:01,658 --> 00:09:06,585
+Ertesi gün ise yeniden inşa çalışmalarına başladığını açıkladı.
+
+85
+00:09:07,432 --> 00:09:19,469
+Edison, hayatının son yıllarında yakın dostları otomobil üreticisi Henry Ford ve lastik üreticisi Harvey Firestone ile birlikte, Amerika'da üretilebilecek bir doğal kauçuk kaynağı arayışına girdi.
+
+86
+00:09:19,419 --> 00:09:26,615
+18 Ekim 1931'de, seksen dört yaşında, New Jersey'deki evinde hayatını kaybetti.
+
+87
+00:09:26,615 --> 00:09:34,819
+Bugün Michigan'daki Henry Ford Müzesi'nde, Edison'un son nefesini içerdiği söylenen ağzı kapalı bir deney tüpü sergileniyor.
+
+88
+00:09:34,819 --> 00:09:39,431
+Henry Ford'un, Edison'un oğlundan bu tüpü istediği anlatılır.
+
+89
+00:09:39,431 --> 00:09:44,006
+Edison, yalnızca Amerika'da bin doksan üç patent aldı.
+
+90
+00:09:44,006 --> 00:09:50,111
+Kendisine atfedilen ünlü sözle: "Dâhilik yüzde bir ilham, yüzde doksan dokuz terdir.
+
+91
+00:09:50,111 --> 00:09:55,475
+Okuldan alınan o meraklı çocuk, belki de bu sözün en canlı kanıtıydı.
+
