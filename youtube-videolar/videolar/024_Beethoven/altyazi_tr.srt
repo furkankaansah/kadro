@@ -1,0 +1,432 @@
+1
+00:00:04,099 --> 00:00:11,950
+7 Mayıs 1824'te, Viyana'daki bir tiyatroda, yeni bir senfoninin ilk seslendirmesi yeni bitmişti.
+
+2
+00:00:11,900 --> 00:00:14,740
+Salon alkışlarla inliyordu.
+
+3
+00:00:14,740 --> 00:00:21,572
+Ama orkestranın yanında duran, eserin bestecisi olan dağınık saçlı adam, alkışları duymuyordu.
+
+4
+00:00:21,572 --> 00:00:31,330
+Anlatılanlara göre bir şarkıcı onu kolundan tutup salona doğru çevirdi ve ancak o zaman, ayağa kalkmış, şapkalarını sallayan seyircileri gördü.
+
+5
+00:00:31,330 --> 00:00:35,019
+Bu adam, neredeyse tamamen sağırdı.
+
+6
+00:00:35,019 --> 00:00:43,623
+Ve az önce dinlenen eser, bugün Avrupa Birliği'nin marşı olarak kullanılan "Neşeye Övgü" bölümünü içeren Dokuzuncu Senfoni'ydi.
+
+7
+00:00:43,623 --> 00:00:49,376
+Gençliğinde işitme kaybının başladığını fark ettiğinde, intiharı bile düşünmüştü.
+
+8
+00:00:49,376 --> 00:00:52,652
+Ama yaşamayı ve bestelemeyi seçti.
+
+9
+00:00:52,652 --> 00:00:56,014
+Bu, Ludwig van Beethoven'ın hikâyesi.
+
+10
+00:00:56,856 --> 00:01:03,565
+Ludwig van Beethoven, Aralık 1770'te, bugün Almanya'da bulunan Bonn şehrinde doğdu.
+
+11
+00:01:03,515 --> 00:01:08,600
+Kesin doğum tarihi bilinmiyor; 17 Aralık'ta vaftiz edildiği biliniyor.
+
+12
+00:01:08,600 --> 00:01:13,115
+Dedesi, Bonn sarayında saygın bir müzik yöneticisiydi.
+
+13
+00:01:13,115 --> 00:01:17,823
+Babası Johann ise saray korosunda tenor olarak çalışıyordu.
+
+14
+00:01:17,823 --> 00:01:21,853
+Johann, oğlunun yeteneğini çok erken fark etti.
+
+15
+00:01:21,853 --> 00:01:26,889
+Ama bu yetenek, küçük Ludwig için zor bir çocukluk anlamına geldi.
+
+16
+00:01:26,889 --> 00:01:33,309
+Johann, oğlunu o yıllarda Avrupa'yı büyüleyen çocuk dâhi Mozart gibi yetiştirmek istiyordu.
+
+17
+00:01:33,309 --> 00:01:37,581
+Ona sert ve acımasız bir disiplinle piyano çalıştırdı.
+
+18
+00:01:37,581 --> 00:01:44,814
+Anlatılanlara göre geceleri içip eve döndüğünde, oğlunu uykusundan uyandırıp piyanonun başına oturttuğu olurdu.
+
+19
+00:01:44,814 --> 00:01:52,022
+Babası, oğlunu daha da etkileyici göstermek için onun yaşını konserlerde olduğundan küçük söylüyordu.
+
+20
+00:01:52,022 --> 00:01:56,962
+Beethoven, uzun yıllar kendi doğum yılı konusunda emin olamadı.
+
+21
+00:01:57,819 --> 00:02:02,041
+Neyse ki Ludwig, zamanla iyi öğretmenler buldu.
+
+22
+00:02:01,991 --> 00:02:10,304
+Saray orgcusu Christian Gottlob Neefe, ona müziğin derinliklerini öğretti ve onun ilk bestelerinin yayımlanmasına yardım etti.
+
+23
+00:02:10,304 --> 00:02:15,584
+On iki on üç yaşlarında Ludwig, saray orkestrasında çalmaya başladı.
+
+24
+00:02:15,584 --> 00:02:21,518
+1787'de, on altı yaşındayken, büyük bir hayalle Viyana'ya gitti.
+
+25
+00:02:21,518 --> 00:02:25,838
+Mozart ile tanışmak ve ondan ders almak istiyordu.
+
+26
+00:02:25,838 --> 00:02:31,700
+Ancak kısa süre sonra annesinin ağır hasta olduğu haberini aldı ve Bonn'a döndü.
+
+27
+00:02:31,700 --> 00:02:35,244
+Annesi, o yaz tüberkülozdan öldü.
+
+28
+00:02:35,244 --> 00:02:38,727
+Babasının alkol bağımlılığı ağırlaştı.
+
+29
+00:02:38,727 --> 00:02:43,982
+Genç Ludwig, iki küçük kardeşinin sorumluluğunu üstlenmek zorunda kaldı.
+
+30
+00:02:43,982 --> 00:02:50,062
+Babasının maaşının bir kısmının doğrudan kendisine ödenmesi için resmî başvuru yaptı.
+
+31
+00:02:50,062 --> 00:02:54,334
+Henüz on sekiz yaşındaydı ve ailenin reisi olmuştu.
+
+32
+00:02:55,183 --> 00:03:00,388
+1792'de Beethoven, bu kez kalıcı olarak Viyana'ya gitti.
+
+33
+00:03:00,338 --> 00:03:03,251
+Mozart bir yıl önce ölmüştü.
+
+34
+00:03:03,251 --> 00:03:12,171
+Bonn'daki koruyucularından Kont Waldstein, ona veda ederken yazdığı notta, Mozart'ın ruhunu Haydn'ın elinden alması dileğini dile getirdi.
+
+35
+00:03:12,171 --> 00:03:17,159
+Beethoven, Viyana'da ünlü besteci Joseph Haydn'dan dersler aldı.
+
+36
+00:03:17,159 --> 00:03:22,571
+Kısa sürede şehrin aristokrat salonlarının en çok konuşulan piyanisti oldu.
+
+37
+00:03:22,571 --> 00:03:27,074
+Özellikle doğaçlama yeteneği, dinleyenleri büyülüyordu.
+
+38
+00:03:27,074 --> 00:03:33,761
+Yerinde bir melodi uydurup onu dakikalarca işleyebiliyor, dinleyicileri gözyaşlarına boğabiliyordu.
+
+39
+00:03:33,761 --> 00:03:38,591
+Ama aynı zamanda sert, gururlu ve öfkeli bir kişiliği vardı.
+
+40
+00:03:38,591 --> 00:03:44,950
+Aristokratlara boyun eğmiyor, kendini bir hizmetkâr değil, bir sanatçı olarak görüyordu.
+
+41
+00:03:45,804 --> 00:03:52,756
+Yirmili yaşlarının sonlarında Beethoven, korkunç bir şey fark etti: Kulakları duymamaya başlıyordu.
+
+42
+00:03:52,706 --> 00:04:00,060
+Kulaklarında sürekli bir uğultu vardı ve yüksek sesleri, insanların konuşmalarını giderek daha az duyabiliyordu.
+
+43
+00:04:00,060 --> 00:04:04,975
+Bir müzisyen için bu, hayal edilebilecek en büyük felaketti.
+
+44
+00:04:04,975 --> 00:04:09,259
+Beethoven, durumunu uzun süre herkesten gizledi.
+
+45
+00:04:09,259 --> 00:04:16,225
+İnsanlardan uzaklaştı, kibirli ya da kaba sanılmayı, sağır olduğunun anlaşılmasına tercih etti.
+
+46
+00:04:16,225 --> 00:04:23,725
+Ekim 1802'de, Viyana yakınlarındaki Heiligenstadt köyünde, kardeşlerine hitaben bir mektup yazdı.
+
+47
+00:04:23,725 --> 00:04:32,439
+Bugün "Heiligenstadt Vasiyeti" olarak bilinen bu mektupta, işitme kaybının ona yaşattığı acıyı ve intiharı düşündüğünü anlattı.
+
+48
+00:04:32,439 --> 00:04:41,177
+Ama onu hayata bağlayan şeyin sanatı olduğunu yazdı: İçindeki bütün müziği dünyaya vermeden bu dünyadan ayrılamayacağını hissediyordu.
+
+49
+00:04:41,177 --> 00:04:45,740
+Bu mektup, ölümünden sonra eşyaları arasında bulundu.
+
+50
+00:04:46,600 --> 00:04:50,603
+Heiligenstadt'tan sonra Beethoven'ın müziği değişti.
+
+51
+00:04:50,553 --> 00:04:54,546
+Daha büyük, daha dramatik, daha cesur oldu.
+
+52
+00:04:54,546 --> 00:04:58,672
+Bu dönemin en önemli eseri, Üçüncü Senfoni'ydi.
+
+53
+00:04:58,672 --> 00:05:07,495
+Beethoven bu senfoniyi başlangıçta, Fransız Devrimi'nin ideallerini temsil ettiğine inandığı Napolyon Bonapart'a ithaf etmeyi düşünüyordu.
+
+54
+00:05:07,495 --> 00:05:16,317
+Öğrencisi Ferdinand Ries'in anlattığına göre, 1804'te Napolyon'un kendini imparator ilan ettiğini duyan Beethoven öfkeye kapıldı.
+
+55
+00:05:16,317 --> 00:05:22,859
+Napolyon'un da sıradan bir zorba olduğunu söyleyerek partisyonun ilk sayfasındaki ithafı yırttı.
+
+56
+00:05:22,859 --> 00:05:30,371
+Bugün korunan bir kopyada, Napolyon'un adının kalemle öyle sert bir şekilde karalandığı görülüyor ki kâğıt delinmiş.
+
+57
+00:05:30,371 --> 00:05:36,718
+Senfoni, sonradan "Eroica", yani "Kahramanlık Senfonisi" adıyla yayımlandı.
+
+58
+00:05:37,580 --> 00:05:44,678
+Aralık 1808'de Viyana'da, Beethoven'ın düzenlediği, saatlerce süren dev bir konser yapıldı.
+
+59
+00:05:44,628 --> 00:05:50,052
+Salon soğuktu, prova yetersizdi ve orkestra zaman zaman zorlandı.
+
+60
+00:05:50,052 --> 00:05:56,994
+Ama o gece, müzik tarihinin en tanınan eserlerinden biri ilk kez dinlendi: Beşinci Senfoni.
+
+61
+00:05:56,994 --> 00:06:03,827
+Senfoninin dört notalık açılış motifi, bugün belki de dünyanın en çok tanınan müzik cümlesidir.
+
+62
+00:06:03,827 --> 00:06:08,050
+Bu motifin "kaderin kapıyı çalışı" olduğu söylenir.
+
+63
+00:06:08,050 --> 00:06:12,904
+Ancak bu yorumun Beethoven'ın kendisine ait olduğu kesin değildir.
+
+64
+00:06:12,904 --> 00:06:22,346
+Aynı dönemde Beethoven, doğayı anlatan Altıncı Senfoni'yi, yani "Pastoral"i ve tek operası "Fidelio"nun ilk versiyonunu da yazmıştı.
+
+65
+00:06:22,346 --> 00:06:29,494
+Bugün çok sevilen kısa piyano parçası "Für Elise" ise ölümünden yıllar sonra bulunup yayımlandı.
+
+66
+00:06:30,336 --> 00:06:32,992
+Beethoven hiç evlenmedi.
+
+67
+00:06:32,942 --> 00:06:39,277
+Hayatı boyunca birkaç kez âşık oldu, ama bu ilişkilerin hiçbiri evlilikle sonuçlanmadı.
+
+68
+00:06:39,277 --> 00:06:45,648
+Çoğu zaman, sosyal sınıf farkı nedeniyle ulaşamayacağı aristokrat kadınlara âşık oluyordu.
+
+69
+00:06:45,648 --> 00:06:54,228
+Ölümünden sonra eşyaları arasında, 1812 yazında yazılmış ama muhtemelen hiç gönderilmemiş bir aşk mektubu bulundu.
+
+70
+00:06:54,228 --> 00:07:00,138
+Mektup, kimliği belirtilmeyen bir kadına, "Ölümsüz Sevgilim" diye hitap ediyordu.
+
+71
+00:07:00,138 --> 00:07:07,044
+Bu kadının kim olduğu, iki yüz yılı aşkın süredir müzik tarihçilerinin en büyük merak konularından biri.
+
+72
+00:07:07,044 --> 00:07:11,291
+Pek çok aday ileri sürüldü, ama kesin bir cevap yok.
+
+73
+00:07:12,148 --> 00:07:15,932
+1815'te kardeşi Kaspar öldü.
+
+74
+00:07:15,882 --> 00:07:24,001
+Beethoven, dokuz yaşındaki yeğeni Karl'ın velayeti için, çocuğun annesiyle yıllar süren sert bir hukuk mücadelesine girdi.
+
+75
+00:07:24,001 --> 00:07:26,550
+Sonunda velayeti aldı.
+
+76
+00:07:26,550 --> 00:07:30,834
+Ama Karl'a karşı aşırı koruyucu ve baskıcı davrandı.
+
+77
+00:07:30,834 --> 00:07:34,208
+Genç Karl, bu baskı altında ezildi.
+
+78
+00:07:34,208 --> 00:07:38,771
+1826'da kendini öldürmeye teşebbüs etti.
+
+79
+00:07:38,771 --> 00:07:41,441
+Neyse ki hayatta kaldı.
+
+80
+00:07:41,441 --> 00:07:47,412
+Bu olay, Beethoven'ı derinden sarstı ve sağlığının daha da kötüleşmesine neden oldu.
+
+81
+00:07:47,412 --> 00:07:51,683
+Bu yıllarda Beethoven artık neredeyse hiç duymuyordu.
+
+82
+00:07:51,683 --> 00:07:57,751
+İnsanlar onunla, "konuşma defterleri" denen defterlere yazarak iletişim kuruyordu.
+
+83
+00:07:57,751 --> 00:08:05,009
+Bu defterlerin yüzlercesi bugün hâlâ korunuyor ve onun son yıllarına dair eşsiz bir tanıklık sunuyor.
+
+84
+00:08:05,864 --> 00:08:11,675
+Tamamen sağır olduğu yıllarda Beethoven, en büyük eserlerinden bazılarını yazdı.
+
+85
+00:08:11,625 --> 00:08:15,703
+Bunların başında, Dokuzuncu Senfoni geliyordu.
+
+86
+00:08:15,703 --> 00:08:23,967
+Bu senfoninin son bölümünde, o güne kadar senfonilerde alışılmamış bir şey yaptı: Orkestraya bir koro ve solistler ekledi.
+
+87
+00:08:23,967 --> 00:08:32,572
+Şair Friedrich Schiller'in "Neşeye Övgü" adlı şiirini, bütün insanların kardeş olacağı bir dünyanın hayalini müziğe dönüştürdü.
+
+88
+00:08:32,572 --> 00:08:40,946
+7 Mayıs 1824'teki ilk seslendirmede Beethoven, orkestra şefinin yanında durarak temposu göstermeye çalıştı.
+
+89
+00:08:40,946 --> 00:08:43,919
+Ama kendisi müziği duyamıyordu.
+
+90
+00:08:43,919 --> 00:08:53,688
+Eser bittiğinde, anlatılanlara göre solistlerden biri onu seyircilere doğru çevirdi ve Beethoven, coşkuyla alkışlayan salonu ancak o zaman gördü.
+
+91
+00:08:53,688 --> 00:09:02,183
+Bugün Dokuzuncu Senfoni'nin "Neşeye Övgü" melodisi, Avrupa Konseyi ve Avrupa Birliği'nin resmî marşı olarak kullanılıyor.
+
+92
+00:09:03,036 --> 00:09:07,367
+Beethoven'ın sağlığı, son yıllarında giderek kötüleşti.
+
+93
+00:09:07,317 --> 00:09:11,855
+Karaciğeri ve sindirim sistemi ciddi şekilde zarar görmüştü.
+
+94
+00:09:11,855 --> 00:09:14,659
+Aylarca yatağa bağlı kaldı.
+
+95
+00:09:14,659 --> 00:09:20,642
+26 Mart 1827'de, elli altı yaşında Viyana'da hayatını kaybetti.
+
+96
+00:09:20,642 --> 00:09:27,656
+Yanında bulunan bir dostunun anlattığına göre, son anlarında şehrin üzerinde şiddetli bir fırtına kopmuştu.
+
+97
+00:09:27,656 --> 00:09:33,251
+Bir şimşek çaktı, gök gürledi ve Beethoven gözlerini açıp yumruğunu sıktı.
+
+98
+00:09:33,251 --> 00:09:36,152
+Ardından hayata veda etti.
+
+99
+00:09:36,152 --> 00:09:39,902
+Cenazesine on binlerce Viyanalı katıldı.
+
+100
+00:09:39,902 --> 00:09:46,224
+Meşale taşıyanlar arasında, ona büyük hayranlık duyan genç besteci Franz Schubert da vardı.
+
+101
+00:09:46,224 --> 00:09:58,506
+2023'te yayımlanan bir bilimsel çalışmada, Beethoven'a ait olduğu doğrulanan saç örneklerinin DNA'sı incelendi ve karaciğer hastalığına yatkınlık ile hepatit B enfeksiyonu belirtileri bulundu.
+
+102
+00:09:59,368 --> 00:10:08,723
+Beethoven, arkasında dokuz senfoni, otuz iki piyano sonatı, on altı yaylı çalgılar dörtlüsü, bir opera ve sayısız başka eser bıraktı.
+
+103
+00:10:08,673 --> 00:10:17,520
+Klasik dönem ile romantik dönem arasında bir köprü kurdu ve kendisinden sonra gelen bütün besteciler için yeni bir dünyanın kapılarını açtı.
+
+104
+00:10:17,520 --> 00:10:21,076
+Bonn'daki doğduğu ev, bugün bir müze.
+
+105
+00:10:21,076 --> 00:10:28,673
+Orada, onun kullandığı kulak borularını, yani işitmesine yardımcı olmaya çalışan basit aletleri görebilirsiniz.
+
+106
+00:10:28,673 --> 00:10:33,357
+Hayatının en büyük trajedisi, en büyük zaferine dönüştü.
+
+107
+00:10:33,357 --> 00:10:39,352
+Hiçbir şey duyamadığı yıllarda, insanlığın yüzyıllar boyunca dinleyeceği müziği yazdı.
+
+108
+00:10:39,352 --> 00:10:47,520
+Ve kendi mektubunda yazdığı gibi, kaderi boğazından yakaladı; onun kendisini tamamen yere sermesine asla izin vermedi.
+

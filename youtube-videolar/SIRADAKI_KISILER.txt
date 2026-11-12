@@ -21,10 +21,10 @@ SIRADAKİ HAYAT HİKÂYELERİ ([x] = senaryosu hazır. Yeni senaryolar bu sıray
 [x] 020 Isaac Newton
 [x] 021 Galileo Galilei
 [x] 022 Kanuni Sultan Süleyman
-[ ] 023 Vincent van Gogh
-[ ] 024 Ludwig van Beethoven
-[ ] 025 Mahatma Gandhi
-[ ] 026 Nelson Mandela
+[x] 023 Vincent van Gogh
+[x] 024 Ludwig van Beethoven
+[x] 025 Mahatma Gandhi
+[x] 026 Nelson Mandela
 [ ] 027 Martin Luther King Jr.
 [ ] 028 Abraham Lincoln
 [ ] 029 Napolyon Bonapart

@@ -1,0 +1,111 @@
+# Vincent van Gogh'un Hayatı: Yıldızlı Gece, Kesik Kulak ve Bir Kardeşin Sevgisi | Belgesel
+
+## Giriş
+
+1990 yılında New York'ta bir müzayede salonunda, bir doktorun portresi seksen iki buçuk milyon dolara satıldı. O güne kadar bir tablo için ödenmiş en yüksek fiyattı.
+
+Bu tabloyu yapan ressam, sadece yüz yıl önce, otuz yedi yaşında hayatını kaybetmişti. Ressamlığa yirmi yedi yaşında başlamış, on yıl gibi kısa bir sürede iki binden fazla eser üretmişti. Ama hayattayken, eserleri neredeyse hiç ilgi görmemiş, geçimini kardeşinin gönderdiği parayla sağlamıştı. Ruhsal krizlerle boğuşmuş, bir gece kendi kulağını kesmiş ve kendi isteğiyle bir akıl hastanesine yatmıştı.
+
+Bu, Vincent van Gogh'un hikâyesi.
+
+## [0:48] Bir Yıl Önce Doğan Kardeş
+
+Vincent Willem van Gogh, 30 Mart 1853'te Hollanda'nın güneyindeki küçük Zundert köyünde doğdu. Babası Theodorus, köyün papazıydı. Annesi Anna ise resim yapmayı seven bir kadındı.
+
+Vincent'ın doğumundan tam bir yıl önce, aynı gün, anne ve babası ölü doğan bir oğullarını kaybetmişti. O bebeğin adı da Vincent'tı. Küçük Vincent, kilisenin bahçesinde, kendi adının yazılı olduğu bir mezar taşının yanında büyüdü. Bazı biyografi yazarları, bu durumun onun ruh dünyasını etkilemiş olabileceğini düşünür.
+
+Vincent, ciddi ve içine kapanık bir çocuktu. Doğada uzun yürüyüşler yapmayı, böcekleri ve kuşları incelemeyi severdi. Altı kardeşin en büyüğüydü. Ama içlerinden biri, Theo, onun hayatının en önemli insanı olacaktı.
+
+## [1:45] Sanat Satıcısından Vaize
+
+On altı yaşında Vincent, amcasının ortak olduğu uluslararası sanat şirketi Goupil'de çalışmaya başladı. Lahey'de, Londra'da ve Paris'te çalıştı. Ama zamanla sanatın ticaretinden giderek uzaklaştı ve 1876'da işten çıkarıldı.
+
+Sonraki yıllarda Vincent, hayatına bir anlam aramak için farklı yollar denedi. İngiltere'de öğretmenlik yaptı, Hollanda'da bir kitapçıda çalıştı, Amsterdam'da ilahiyat okumaya çalıştı ama başaramadı.
+
+1879'da Belçika'nın Borinage adlı yoksul maden bölgesine vaiz olarak gitti. Burada madencilerle aynı yoksulluğu paylaştı. Eşyalarını yoksullara dağıttı, samanlıklarda uyudu. Ama kilise yetkilileri, onun bu aşırı fedakârlığını uygun bulmadı ve görevine son verdi. Vincent, yirmi yedi yaşındaydı ve hayatında hiçbir şeyi başaramamış gibi hissediyordu.
+
+## [2:44] Yirmi Yedi Yaşında Bir Karar
+
+Tam bu çaresizlik anında, 1880'de Vincent, hayatını değiştirecek kararı verdi: Ressam olacaktı. Hiçbir sanat eğitimi almamıştı, ama çizmeye başladı. Madencileri, köylüleri, işçileri çizdi.
+
+Bu kararında ona en büyük desteği veren kişi, kendisinden dört yaş küçük kardeşi Theo'ydu. Theo da Paris'te bir sanat satıcısı olarak çalışıyordu. Vincent'a hayatının sonuna kadar her ay para gönderdi. Böylece Vincent, para kazanma kaygısı olmadan resim yapabildi.
+
+İki kardeş, yıllar boyunca birbirine yüzlerce mektup yazdı. Bu mektuplar bugün, bir sanatçının iç dünyasını anlatan en değerli belgeler arasında sayılır. Vincent, mektuplarında resimlerini anlatıyor, renkler üzerine düşünüyor, yalnızlığını ve umutlarını kardeşiyle paylaşıyordu.
+
+## [3:42] Patates Yiyenler
+
+Vincent, ilk yıllarında koyu, toprak renkleriyle çalıştı. 1885'te, ailesinin yaşadığı Nuenen köyünde, ilk büyük eseri sayılan "Patates Yiyenler"i yaptı. Tablo, bir lambanın loş ışığında yemek yiyen yoksul bir köylü ailesini gösteriyordu.
+
+Vincent, bu insanların kendi elleriyle topraktan çıkardıkları yiyeceği yediklerini göstermek istediğini yazmıştı. Ama tablo, eleştirmenler ve hatta arkadaşları tarafından beğenilmedi.
+
+Aynı yıl babası aniden öldü. Vincent, Hollanda'dan ayrıldı. Önce Belçika'nın Anvers şehrine, ardından 1886'da Paris'e, kardeşi Theo'nun yanına gitti.
+
+## [4:27] Paris ve Renklerin Keşfi
+
+Paris'te Vincent'ın dünyası değişti. İzlenimci ressamların ışıkla dolu tablolarıyla tanıştı. Henri de Toulouse-Lautrec, Paul Gauguin ve Émile Bernard gibi genç ressamlarla arkadaşlık kurdu. Japon baskı resimlerine hayran kaldı ve onları kopyalayarak çalıştı.
+
+Paletindeki kahverengiler yerini canlı sarılara, mavilere, kırmızılara bıraktı. Fırça darbeleri kısa, hızlı ve enerjik hale geldi. Paris'te geçirdiği iki yılda, kendisine model olarak para ödeyemediği için yirmiden fazla otoportre yaptı.
+
+Ama büyük şehrin gürültüsü, alkol ve yorucu yaşam, onu yıprattı. Güneyin ışığını aramaya karar verdi.
+
+## [5:14] Arles'ta Sarı Ev
+
+Şubat 1888'de Vincent, Fransa'nın güneyindeki Arles kasabasına gitti. Burada bir ev kiraladı ve onu sarıya boyattı. Bu "Sarı Ev", hayalindeki sanatçılar topluluğunun merkezi olacaktı.
+
+Arles'ta geçen aylar, onun en verimli dönemlerinden biri oldu. Güneşte parlayan buğday tarlalarını, çiçek açan ağaçları, gece kafelerini ve ünlü ayçiçeklerini resmetti. Ayçiçekleri tablolarını, Gauguin'in kalacağı odayı süslemek için yapmıştı.
+
+Ekim 1888'de Paul Gauguin, Theo'nun maddi desteğiyle Arles'a geldi. İki ressam birlikte çalışmaya başladı. Ama karakterleri çok farklıydı ve sanat üzerine sert tartışmalar yapmaya başladılar.
+
+## [6:03] 23 Aralık 1888
+
+23 Aralık 1888 gecesi, Vincent ile Gauguin arasında şiddetli bir tartışma yaşandı. Gauguin evden çıktı. O gece Vincent, bir usturayla kendi sol kulağını kesti. Kesik kulağı bir kâğıda sardı ve kasabadaki bir genelevde çalışan bir kadına götürüp verdi.
+
+Bu olayın ayrıntıları uzun süre tartışıldı. Bir zamanlar yalnızca kulak memesini kestiği düşünülüyordu. Ancak 2016'da ortaya çıkan ve onu tedavi eden doktorun çizdiği bir çizim, kulağının neredeyse tamamını kestiğini gösterdi. Bazı araştırmacılar ise kulağı Gauguin'in bir kavga sırasında kesmiş olabileceğini öne sürdü, ancak bu görüş genel kabul görmez.
+
+Vincent, ertesi sabah kanlar içinde bulundu ve hastaneye kaldırıldı. Gauguin, Arles'ı terk etti ve iki ressam bir daha yüz yüze görüşmedi.
+
+## [7:00] Yıldızlı Gece
+
+Sonraki aylarda Vincent'ın krizleri tekrarladı. Mayıs 1889'da kendi isteğiyle, Saint-Rémy-de-Provence kasabasındaki Saint-Paul-de-Mausole akıl hastanesine yattı. Bir yıl orada kaldı.
+
+Hastanedeki odasının penceresinden gördüğü manzarayı, hafızasındaki görüntülerle birleştirerek resim yapmaya devam etti. Haziran 1889'da, bugün dünyanın en tanınan tablolarından biri olan "Yıldızlı Gece"yi yaptı. Dönen bulutlar, alev gibi yükselen bir servi ağacı, parlayan yıldızlar ve sessiz bir köy.
+
+Vincent'ın tam olarak hangi hastalıktan muzdarip olduğu bugün hâlâ tartışılıyor. Epilepsi, bipolar bozukluk ve başka rahatsızlıklar dahil pek çok olasılık ileri sürüldü. Kesin olan şu: Krizler arasındaki dönemlerde son derece bilinçli ve üretkendi.
+
+## [7:57] Auvers'te Yetmiş Gün
+
+Mayıs 1890'da Vincent, Paris'in kuzeyindeki Auvers-sur-Oise kasabasına taşındı. Burada, sanatçılarla yakın ilişkileri olan Doktor Paul Gachet onu gözetimine aldı.
+
+Auvers'te geçirdiği yaklaşık yetmiş gün içinde, yetmişten fazla tablo yaptı. Neredeyse her gün bir tablo. Doktor Gachet'nin portresi, kasabanın kilisesi, buğday tarlaları ve fırtınalı gökyüzü altındaki kargalar.
+
+27 Temmuz 1890'da Vincent, tarlalara resim yapmaya gittiği bir günün akşamı, göğsünden yaralı halde kaldığı hana döndü. Kendini vurduğunu söyledi. Bazı araştırmacılar, yakın zamanda onun kaza sonucu başkası tarafından vurulmuş olabileceğini ileri sürdü, ancak çoğu tarihçi intihar görüşünü daha güçlü bulur.
+
+Theo, haberi alınca hemen Auvers'e geldi. Vincent, 29 Temmuz 1890'da, kardeşinin kollarında hayatını kaybetti. Otuz yedi yaşındaydı. Theo'nun anlattığına göre, son sözleri şunlardı: "Hüzün sonsuza dek sürecek."
+
+## [9:06] Theo ve Johanna
+
+Kardeşinin ölümü Theo'yu yıktı. Kendisi de ağır bir hastalığa yakalandı ve Vincent'tan yalnızca altı ay sonra, Ocak 1891'de hayatını kaybetti.
+
+Ama hikâye burada bitmedi. Theo'nun dul eşi Johanna van Gogh-Bonger, elinde kalan yüzlerce tabloyu ve mektubu korudu. Vincent'ın eserlerini sergilere gönderdi, eleştirmenlerle görüştü ve kardeşlerin mektuplarını yayımladı. Vincent'ın bugünkü ününde, onun yorulmak bilmeyen çabasının çok büyük payı vardır.
+
+1914'te Theo'nun naaşı, Auvers'teki mezarlıkta, ağabeyinin yanına taşındı. Bugün iki kardeş, sarmaşıkla örtülü iki sade mezar taşının altında yan yana yatıyor.
+
+## [9:53] Hayatta Satılmayan Tablolar
+
+Vincent'ın hayattayken yalnızca tek bir tablo sattığı sıkça söylenir. Bu tam olarak doğru değildir; birkaç eser ve çizim de sattığı bilinir. Ama gerçek şu ki, yaşadığı sürece eserleri neredeyse hiç ticari ilgi görmedi.
+
+Bugün ise Vincent van Gogh, dünyanın en çok sevilen ve en değerli ressamlarından biri. Amsterdam'daki Van Gogh Müzesi, her yıl milyonlarca ziyaretçiyi ağırlıyor. Yaklaşık on yıllık sanat hayatında iki binden fazla eser bıraktı; bunların sekiz yüz kadarı yağlı boya tablodur.
+
+Bir zamanlar her şeyde başarısız olduğunu düşünen bu adam, insanların gökyüzüne, ayçiçeklerine ve yıldızlara bakışını sonsuza dek değiştirdi. Ve belki de en büyük ironisi şu: Tek isteği, resimleriyle insanlara biraz teselli verebilmekti. Bugün milyonlarca insan, tam olarak bunu onun tablolarında buluyor.
+
+## Fragman
+
+Bir yıl önce, aynı gün doğup ölen kardeşinin adını aldı.
+
+Sanat satıcılığından kovuldu. Vaizlikten çıkarıldı. Yirmi yedi yaşında, hiçbir eğitimi olmadan ressam olmaya karar verdi.
+
+Kardeşi ona her ay para gönderdi. O ise on yılda iki binden fazla eser üretti. Ayçiçekleri. Buğday tarlaları. Yıldızlı Gece.
+
+Bir gece, kendi kulağını kesti. Kendi isteğiyle bir akıl hastanesine yattı. Ve otuz yedi yaşında, tablolarının neredeyse hiçbiri satılmadan öldü.
+
+Vincent van Gogh'un hayat hikâyesi. Tamamı kanalımızda.
