@@ -1,0 +1,109 @@
+# Galileo Galilei'nin Hayatı: Teleskop, Engizisyon ve "Yine de Dönüyor" | Belgesel
+
+## Giriş
+
+22 Haziran 1633 sabahı, Roma'daki bir manastır salonunda, yetmiş yaşına yaklaşmış, beyaz sakallı bir adam diz çökmüş halde bekliyordu. Önünde, Katolik Kilisesi'nin engizisyon mahkemesinin kardinalleri vardı. Adam, onlarca yıldır savunduğu bir fikri, Dünya'nın Güneş'in etrafında döndüğü fikrini, yüksek sesle reddetmek ve lanetlemek zorunda kaldı.
+
+Efsaneye göre ayağa kalkarken alçak sesle şöyle mırıldandı: "Yine de dönüyor." Bu sözü gerçekten söylediğine dair bir kanıt yok. Ama bu efsane, yüzyıllar boyunca bilimin, otoriteye karşı mücadelesinin sembolü oldu.
+
+Bu adam, teleskobu gökyüzüne çevirerek insanlığın evrene bakışını değiştirdi. Bu, Galileo Galilei'nin hikâyesi.
+
+## [0:54] Bir Müzisyenin Oğlu
+
+Galileo Galilei, 15 Şubat 1564'te İtalya'nın Pisa şehrinde doğdu. Babası Vincenzo Galilei, ud çalan bir müzisyen ve müzik kuramcısıydı. Vincenzo, müzikte tellerin gerginliği ile sesin perdesi arasındaki ilişkiyi deneylerle incelemişti. Galileo'nun ölçmeye ve denemeye dayanan düşünce biçiminin kökleri, belki de babasının bu deneylerindeydi.
+
+Babası, oğlunun doktor olmasını istiyordu. Çünkü doktorluk, matematikten çok daha fazla para kazandıran bir meslekti. 1581'de Galileo, Pisa Üniversitesi'nde tıp okumaya başladı.
+
+## [1:36] Sallanan Lamba
+
+Galileo'nun ilk öğrencisi ve biyografisini yazan Vincenzo Viviani'nin anlattığına göre, genç Galileo bir gün Pisa Katedrali'nde otururken tavandan sarkan bir lambanın sallandığını fark etti. Kendi nabzını kullanarak lambanın salınımlarını ölçtü. Salınımın genişliği azalsa da, her salınımın yaklaşık aynı sürede tamamlandığını gördü.
+
+Bu gözlem, sonradan sarkacın özelliklerine dair çalışmalarının başlangıcı oldu. Galileo, yıllar sonra sarkaçlı bir saat tasarımı üzerinde de çalıştı.
+
+Tıp derslerinden sıkılan Galileo, giderek matematiğe yöneldi. 1585'te tıp diploması almadan üniversiteden ayrıldı ve matematik dersleri vererek geçinmeye başladı.
+
+## [2:22] Pisa Kulesi Efsanesi
+
+1589'da Galileo, Pisa Üniversitesi'nde matematik hocası oldu. Bu dönemde, iki bin yıla yakın süredir kabul gören Aristoteles fiziğinin bazı fikirlerini sorgulamaya başladı. Aristoteles'e göre ağır cisimler, hafif cisimlerden daha hızlı düşerdi.
+
+Viviani'nin anlattığına göre Galileo, bu fikri çürütmek için Pisa'nın eğik kulesinden farklı ağırlıktaki toplar bıraktı ve topların neredeyse aynı anda yere düştüğünü gösterdi. Ancak pek çok tarihçi, bu deneyin gerçekten bu şekilde yapıldığından şüphe eder. Galileo'nun kendi yazılarında bu deneyden açıkça bahsedilmez.
+
+Kesin olan şu: Galileo, eğik düzlemler üzerinde yuvarlanan toplarla dikkatli deneyler yaptı ve düşen cisimlerin hızlanarak düştüğünü matematiksel olarak gösterdi. Bu çalışmalar, modern fiziğin temel taşlarından biri oldu.
+
+## [3:19] Padova'da En Güzel Yıllar
+
+1592'de Galileo, Venedik Cumhuriyeti'ne bağlı Padova Üniversitesi'ne geçti. Burada on sekiz yıl kaldı. Sonradan bu yılları hayatının en güzel yılları olarak anacaktı.
+
+Padova'da Marina Gamba adlı bir kadınla birlikte yaşadı. Evli değillerdi, ama üç çocukları oldu: Virginia, Livia ve Vincenzo. Galileo, kızlarının evlenmesi için gereken çeyizi karşılayamayacağını düşündü ve iki kızını genç yaşta bir manastıra yerleştirdi. Büyük kızı Virginia, "Maria Celeste" adını aldı ve babasıyla ömür boyu süren derin bir bağ kurdu.
+
+## [3:59] Gökyüzüne Çevrilen Göz
+
+1609'da Galileo, Hollanda'da uzaktaki nesneleri yakın gösteren bir alet icat edildiğini duydu. Bu aletin nasıl çalışabileceğini düşündü ve kısa sürede kendi teleskobunu yaptı. Sonraki aylarda teleskobunu geliştirdi ve nesneleri yaklaşık yirmi kat büyüten modeller üretti.
+
+Ama asıl devrim, teleskobu gökyüzüne çevirdiğinde başladı. Ay'ın yüzeyinin, o dönem düşünüldüğü gibi kusursuz ve pürüzsüz olmadığını gördü. Ay'da dağlar ve kraterler vardı. Samanyolu'nun ise sayısız yıldızdan oluştuğunu fark etti.
+
+Ocak 1610'da, Jüpiter'in yanında küçük ışık noktaları gördü. Birkaç gece boyunca bu noktaların yer değiştirdiğini izledi ve onların Jüpiter'in etrafında dönen uydular olduğunu anladı. Bu, her şeyin Dünya'nın etrafında dönmediğinin açık bir kanıtıydı.
+
+## [4:56] Yıldızların Habercisi
+
+Mart 1610'da Galileo, bu gözlemlerini "Yıldızların Habercisi" adlı küçük bir kitapta yayımladı. Kitap, Avrupa'da büyük bir heyecan yarattı. Galileo, Jüpiter'in uydularına, Floransa'nın yönetici ailesi Medici'lerin onuruna "Medici Yıldızları" adını verdi.
+
+Bu jest karşılıksız kalmadı. Toskana Büyük Dükü İkinci Cosimo de' Medici, onu sarayının baş matematikçisi ve filozofu olarak atadı. Galileo, Floransa'ya taşındı. Sonraki yıllarda Venüs'ün de Ay gibi evreler gösterdiğini gözlemledi. Bu gözlem, Venüs'ün Güneş'in etrafında döndüğünü güçlü bir şekilde destekliyordu. Güneş lekelerini de gözlemleyerek Güneş'in de kusursuz bir küre olmadığını gösterdi.
+
+## [5:46] Kopernik ve İlk Uyarı
+
+Yaklaşık yetmiş yıl önce, Polonyalı astronom Nikolaus Kopernik, Dünya'nın ve gezegenlerin Güneş'in etrafında döndüğünü öne süren bir kuram yayımlamıştı. Galileo'nun gözlemleri, bu kuramı güçlü bir şekilde destekliyordu ve Galileo, bunu giderek daha açık bir şekilde savunmaya başladı.
+
+Ancak bu fikir, o dönem Kutsal Kitap'ın bazı yorumlarıyla çelişiyordu. 1616'da Kilise, Güneş merkezli görüşü resmen sakıncalı ilan etti. Kardinal Roberto Bellarmino, Galileo'yu çağırarak bu görüşü savunmaması konusunda uyardı. Galileo, bir süre bu uyarıya uydu.
+
+## [6:26] Dostu Papa Oluyor
+
+1623'te Galileo'nun eski dostu ve hayranı olan Kardinal Maffeo Barberini, Papa Sekizinci Urbanus adıyla papalık tahtına geçti. Galileo, artık fikirlerini daha rahat ifade edebileceğini düşündü.
+
+Papa ile yaptığı görüşmelerden sonra, iki dünya sistemini, yani Dünya merkezli ve Güneş merkezli görüşleri karşılaştıran bir kitap yazmaya başladı. Kitap, üç kişinin arasında geçen bir söyleşi biçimindeydi. 1632'de "İki Büyük Dünya Sistemi Hakkında Diyalog" adıyla yayımlandı.
+
+Ancak kitaptaki karakterlerden biri, Dünya merkezli görüşü savunan "Simplicio" adlı saf bir figürdü. Papa'nın kendi düşüncelerinden bazılarının bu karakterin ağzından söyletilmesi, Papa'yı çok öfkelendirdi. Eski dostu, artık onun en tehlikeli düşmanıydı.
+
+## [7:20] Engizisyon Önünde
+
+1633'te Galileo, yaşlı ve hasta olmasına rağmen Roma'ya çağrıldı ve Engizisyon mahkemesinde yargılandı. Suçlama, 1616'daki uyarıya uymamak ve Kilise'nin sakıncalı bulduğu bir görüşü savunmaktı.
+
+Aylar süren sorgulamaların ardından, 22 Haziran 1633'te mahkeme kararını verdi. Galileo, "ağır sapkınlık şüphesi" ile suçlu bulundu. Diz çökerek, Dünya'nın Güneş'in etrafında döndüğü görüşünü reddetmek ve lanetlemek zorunda kaldı. Kitabı yasaklandı. Hapis cezasına çarptırıldı, ancak bu ceza daha sonra ömür boyu ev hapsine çevrildi.
+
+"Yine de dönüyor" sözünü bu anda söylediği hikâyesi ise, ölümünden sonra ortaya çıkan bir efsanedir. Söz, ilk kez onun ölümünden kısa süre sonra yapıldığı düşünülen bir resimde, ardından da bir asırdan fazla sonra yazılan metinlerde görülür.
+
+## [8:19] Arcetri'de Son Yıllar
+
+Galileo, hayatının geri kalanını Floransa yakınlarındaki Arcetri'de, kızının manastırının yakınındaki bir evde, ev hapsinde geçirdi. Ancak 1634'te en sevdiği kızı Maria Celeste, henüz otuz üç yaşındayken hayatını kaybetti. Bu, Galileo'yu derinden sarstı.
+
+Yine de çalışmayı bırakmadı. Ev hapsindeyken, hareket ve malzemelerin dayanıklılığı üzerine en önemli bilimsel kitaplarından birini yazdı: "İki Yeni Bilim Üzerine Konuşmalar ve Matematiksel Kanıtlamalar". Kitap İtalya'da yayımlanamadığı için, el yazması gizlice Hollanda'ya ulaştırıldı ve 1638'de Leiden'de basıldı.
+
+Aynı yıllarda Galileo'nun gözleri tamamen görmez oldu. Yıllarca gökyüzünü inceleyen gözler, artık hiçbir şey göremiyordu.
+
+## [9:10] Bir Yıldızın Sönüşü
+
+Galileo Galilei, 8 Ocak 1642'de, yetmiş yedi yaşında Arcetri'de hayatını kaybetti. Kilise ile olan sorunları yüzünden, ilk başta görkemli bir mezar yapılmasına izin verilmedi. Ancak yaklaşık bir asır sonra, 1737'de, kalıntıları Floransa'daki Santa Croce Bazilikası'ndaki anıt mezarına taşındı.
+
+Bu taşınma sırasında, onun parmaklarından birinin ayrılıp saklandığı bilinir. Bugün bu parmak, Floransa'daki Galileo Müzesi'nde, onun teleskoplarının yanında sergileniyor.
+
+İlginç bir tesadüf: Galileo'nun öldüğü yıl, İngiltere'de kullanılan eski takvime göre, onun yolundan yürüyecek bir başka dâhi, Isaac Newton dünyaya geldi.
+
+## [9:56] Geç Gelen Özür
+
+1992'de, Papa İkinci Jean Paul, Galileo davasını incelemek üzere kurulan bir komisyonun sonuçları doğrultusunda, Galileo'ya karşı yapılan yargılamanın bir hata olduğunu kabul etti. Bu, mahkûmiyet kararından üç yüz elli dokuz yıl sonraydı.
+
+Bugün Jüpiter'in Galileo'nun keşfettiği dört büyük uydusu, onun onuruna "Galilei uyduları" olarak anılıyor. Jüpiter'i inceleyen bir uzay aracına da onun adı verildi.
+
+Galileo, bize gözlemin ve deneyin, otoritenin söylediklerinden daha güçlü olabileceğini gösterdi. Ve her gece gökyüzüne bir teleskopla bakan her çocuk, aslında dört yüz yıl önce onun açtığı kapıdan geçiyor.
+
+## Fragman
+
+Babası onun doktor olmasını istedi. O ise bir katedralde sallanan bir lambayı izledi.
+
+Bir gün, uzağı yakın gösteren bir aletin icat edildiğini duydu. Kendi teleskobunu yaptı ve onu gökyüzüne çevirdi.
+
+Ay'da dağlar gördü. Jüpiter'in etrafında dönen uydular buldu. Ve Dünya'nın evrenin merkezi olmadığını savundu.
+
+Eski dostu Papa oldu. Sonra en büyük düşmanı. Ve yetmiş yaşına yaklaşmışken, Engizisyon önünde diz çökmek zorunda kaldı.
+
+Galileo Galilei'nin hayat hikâyesi. Tamamı kanalımızda.

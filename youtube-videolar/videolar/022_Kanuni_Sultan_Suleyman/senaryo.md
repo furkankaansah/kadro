@@ -1,0 +1,111 @@
+# Kanuni Sultan Süleyman'ın Hayatı: Muhteşem Bir Saltanatın Perde Arkası | Belgesel
+
+## Giriş
+
+Eylül 1566'da, Macaristan'daki Zigetvar kalesinin önünde kurulan bir otağda, yetmiş bir yaşındaki bir padişah son nefesini verdi. Kale henüz düşmemişti. Sadrazam, ordunun moralini korumak için ölümü haftalarca gizli tuttu. Askerler, padişahlarının hâlâ yaşadığını sanarak savaşmaya devam etti.
+
+Bu padişah, kırk altı yıl boyunca tahtta kaldı. Bu, Osmanlı tarihinin en uzun saltanatıydı. Avrupa'da ona "Muhteşem" dendi; kendi halkı ise onu, getirdiği düzenlemeler nedeniyle "Kanuni" olarak andı. Ordularını Viyana kapılarına kadar götürdü, imparatorluğun sınırlarını üç kıtaya yaydı.
+
+Ama bu görkemin arkasında, kendi en yakın dostunu ve iki oğlunu idam ettiren bir hükümdarın acı hikâyesi de vardı. Bu, Kanuni Sultan Süleyman'ın hikâyesi.
+
+## [1:01] Trabzon'da Doğan Şehzade
+
+Süleyman, 1494 yılında, babası Şehzade Selim'in sancak beyi olarak görev yaptığı Trabzon'da doğdu. Annesi Hafsa Sultan'dı. Babası Selim, ileride Yavuz Sultan Selim olarak tarihe geçecek, kısa ama son derece etkili bir saltanat sürecekti.
+
+Genç Süleyman, Osmanlı geleneğine uygun olarak sancaklarda devlet yönetimini öğrendi. Kırım'daki Kefe'de ve Manisa'da sancak beyliği yaptı. Bu sırada babası Selim, kardeşleriyle verdiği taht mücadelesini kazanarak 1512'de padişah oldu.
+
+Yavuz Sultan Selim'in sekiz yıllık saltanatı boyunca Osmanlı, Mısır'ı ve Suriye'yi topraklarına kattı. Eylül 1520'de Selim öldüğünde, Süleyman, tahtta rakibi olmayan tek şehzade olarak yirmi beş yaşında padişah oldu.
+
+## [1:53] Belgrad ve Rodos
+
+Genç padişahın ilk hedefi, Macaristan krallığının güney kapısı sayılan Belgrad'dı. Dedesi Fatih Sultan Mehmet bu kaleyi almayı başaramamıştı. Süleyman, 1521'de Belgrad'ı fethetti.
+
+Ertesi yıl Ege'deki Rodos Adası'na yöneldi. Rodos, Saint-Jean şövalyelerinin elindeydi ve bu şövalyeler, Osmanlı'nın deniz yollarını sürekli tehdit ediyordu. Aylar süren zorlu bir kuşatmanın ardından, Aralık 1522'de şövalyeler teslim oldu. Süleyman, onların adayı silahları ve eşyalarıyla birlikte terk etmelerine izin verdi.
+
+## [2:33] Mohaç'ta İki Saat
+
+29 Ağustos 1526'da Osmanlı ordusu, Macar ordusuyla Mohaç Ovası'nda karşılaştı. Osmanlı kaynaklarına göre savaş yaklaşık iki saat sürdü ve Macar ordusu ağır bir yenilgiye uğradı.
+
+Macaristan Kralı İkinci Layoş, savaş alanından kaçarken bir derede boğularak hayatını kaybetti. Bu yenilgi, bağımsız Macaristan krallığının uzun bir süre için sonunu getirdi. Sonraki on yıllar boyunca Macaristan, Osmanlı ile Habsburglar arasında bir mücadele alanına dönüştü.
+
+## [3:08] Viyana Kapılarında
+
+1529'da Süleyman, ordusuyla Habsburg İmparatorluğu'nun en önemli şehirlerinden biri olan Viyana'yı kuşattı. Ancak sefer mevsimi geç başlamış, yağmurlar yolları çamura çevirmiş ve ağır toplar geride kalmak zorunda kalmıştı.
+
+Viyana savunucuları şehri inatla savundu. Kış yaklaşırken Süleyman, kuşatmayı kaldırıp geri döndü. Bu kuşatma, Osmanlı'nın Orta Avrupa'daki ilerleyişinin sınırlarını gösteren bir olay olarak tarihe geçti.
+
+## [3:40] Pargalı İbrahim: Dost, Damat, Sadrazam
+
+Süleyman'ın saltanatının ilk yıllarındaki en yakın insanı, çocukluk arkadaşı İbrahim'di. Pargalı İbrahim, Süleyman'ın şehzadeliğinden beri yanındaydı. Süleyman, 1523'te onu sadrazam yaptı. İbrahim Paşa, sonraki on üç yıl boyunca devletin en güçlü adamı oldu.
+
+Bugün Sultanahmet Meydanı'nda, Türk ve İslam Eserleri Müzesi olarak kullanılan görkemli saray, onun sarayıydı. Ama İbrahim Paşa'nın gücü ve zaman zaman kendini padişaha denk görür gibi davranması, saray içinde büyük rahatsızlık yarattı.
+
+Mart 1536'da, İbrahim Paşa, Topkapı Sarayı'nda padişahla birlikte yediği bir akşam yemeğinin ardından sarayda kaldığı gece idam edildi. İdamın kesin nedeni hâlâ tartışılıyor. Ama Süleyman'ın, en yakın dostunu bile feda edebilecek bir hükümdar olduğu artık herkes için açıktı.
+
+## [4:38] Hürrem
+
+Süleyman'ın hayatındaki en önemli kadın, Avrupa'da "Roxelana" olarak bilinen Hürrem Sultan'dı. Kaynaklara göre bugünkü Ukrayna topraklarından esir olarak getirilmiş ve sarayın haremine girmişti.
+
+Süleyman, Hürrem'e derin bir bağlılık duydu. Osmanlı geleneğine aykırı bir şekilde onu azat edip resmî olarak onunla evlendi. Bu, sarayda daha önce görülmemiş bir durumdu. Hürrem, padişahla uzun mektuplaşmaları ve sarayda kazandığı etkiyle, Osmanlı tarihinin en güçlü kadınlarından biri oldu. Adına İstanbul'da külliyeler ve hamamlar yaptırıldı.
+
+Süleyman, Hürrem'e yazdığı şiirlerde, "Muhibbî" mahlasını kullandı. Bu şiirlerde onu sevgilisi, dostu ve her şeyi olarak anıyordu.
+
+## [5:29] Denizlerin Hâkimi
+
+Süleyman döneminde Osmanlı, karada olduğu kadar denizde de büyük bir güç haline geldi. Kuzey Afrika'da korsan reisi olarak ün kazanan Barbaros Hayreddin, Osmanlı hizmetine girdi ve kaptan-ı derya, yani donanmanın komutanı oldu.
+
+28 Eylül 1538'de, Yunanistan'ın batı kıyısındaki Preveze açıklarında, Barbaros komutasındaki Osmanlı donanması, Haçlı devletlerinin birleşik donanmasını yendi. Bu zafer, Osmanlı'nın Akdeniz'deki üstünlüğünü uzun yıllar boyunca sağlamlaştırdı.
+
+Doğuda ise Safevilerle uzun süren savaşlar yapıldı. 1534'te Bağdat, Osmanlı topraklarına katıldı.
+
+## [6:12] Kanunlar ve Bir Medeniyet
+
+Süleyman'a "Kanuni" denmesinin nedeni, saltanatı boyunca yapılan kapsamlı hukuki düzenlemelerdi. Şeyhülislam Ebussuud Efendi gibi dönemin büyük hukukçularıyla birlikte, imparatorluğun farklı bölgelerinde uygulanan kuralları düzenleyen kanunnameler hazırlandı.
+
+Bu dönem, Osmanlı kültürünün de altın çağıydı. Mimar Sinan, Süleymaniye başta olmak üzere imparatorluğun en görkemli yapılarını onun döneminde inşa etti. Saray nakışhanesinde muhteşem minyatürler, el yazmaları ve tezhipler hazırlandı. Süleyman'ın tuğrası, Osmanlı süsleme sanatının en güzel örneklerinden biri olarak kabul edilir.
+
+Fransa Kralı Birinci François ile kurulan ittifak ise Avrupa siyasetinde büyük bir dengeyi değiştirdi. Bir Müslüman imparatorluk ile bir Hristiyan krallığın, Habsburglara karşı iş birliği yapması, Avrupa'yı şaşırttı.
+
+## [7:09] Şehzade Mustafa
+
+Ama sarayın içinde, çok daha karanlık bir hikâye yaşanıyordu. Süleyman'ın büyük oğlu Şehzade Mustafa, orduda ve halk arasında çok seviliyordu. Pek çok kişi onu babasının doğal varisi olarak görüyordu.
+
+1553'te, İran seferi sırasında, Süleyman, Konya Ereğlisi yakınlarındaki ordugâhta oğlu Mustafa'yı çadırına çağırdı. Mustafa, babasının çadırına girdiğinde boğularak idam edildi. Mustafa'nın babasına karşı ayaklanmaya hazırlandığı iddia edilmişti. Bazı tarihçiler, bu iddiaların saray içindeki entrikalarla güçlendirildiğini düşünür. Ancak olayın tüm ayrıntıları ve sorumluları konusunda kesin bir yargıya varmak bugün hâlâ mümkün değil.
+
+Mustafa'nın ölümü orduda büyük bir öfkeye yol açtı. Dönemin şairleri onun için ağıtlar yazdı. Mustafa, Bursa'da defnedildi.
+
+## [8:07] Yalnızlaşan Padişah
+
+1558'de Hürrem Sultan öldü. Süleyman, hayatının en yakın arkadaşını kaybetmişti. Ardından hayatta kalan iki oğlu, Selim ve Bayezid arasında taht mücadelesi başladı.
+
+Bayezid, kardeşi Selim'e karşı savaştı ve yenildi. İran'daki Safevi şahının yanına sığındı. Ancak uzun diplomatik görüşmelerin ardından 1561'de, oğullarıyla birlikte İran'da idam edildi. Süleyman, bir oğlunu daha kaybetmişti. Artık geriye yalnızca Selim kalmıştı.
+
+Hayatının son yıllarında Süleyman, giderek daha dindar, daha yalnız ve daha içine kapanık bir hükümdar haline geldi. Kendi şiirinde yazdığı gibi, dünyada hiçbir şeyin sağlık gibi bir nefeslik ömrün değerine denk olmadığını artık daha iyi anlıyordu.
+
+## [9:01] Zigetvar'da Son Sefer
+
+1565'te Malta kuşatması başarısızlıkla sonuçlandı. Ama yaşlı padişah, son bir sefere çıkmaya kararlıydı. 1566'da, yetmiş bir yaşında ve hasta olmasına rağmen, ordusunun başında Macaristan'a doğru yola çıktı. Artık ata binmekte bile zorlanıyordu.
+
+Ordu, Zigetvar kalesini kuşattı. 6 Eylül'ü 7 Eylül'e bağlayan gece, Kanuni Sultan Süleyman, otağında hayatını kaybetti. Sadrazam Sokullu Mehmed Paşa, ölümü askerlerden gizledi. Kale düştükten ve yeni padişah Selim tahta çıkmak için gerekli adımları attıktan sonra ölüm açıklandı.
+
+Süleyman'ın naaşı İstanbul'a getirildi ve Süleymaniye Camii'nin yanındaki türbesine defnedildi. Zigetvar yakınlarında, iç organlarının gömüldüğü yerde ise bir türbe yapıldı. Bu türbenin yeri yüzyıllar içinde unutuldu. Macar arkeologların çalışmalarıyla, 2016'da yerinin bulunduğu açıklandı.
+
+## [10:06] Muhteşem Bir Miras
+
+Kanuni Sultan Süleyman'ın saltanatı, Osmanlı İmparatorluğu'nun en geniş ve en güçlü dönemlerinden biri olarak kabul edilir. İmparatorluk, Budapeşte'den Bağdat'a, Cezayir'den Yemen'e kadar uzanıyordu.
+
+Ama onun hikâyesi, sadece zaferlerin ve kanunların hikâyesi değil. Aynı zamanda gücün ne kadar yalnızlaştırıcı olabileceğinin, bir hükümdarın en sevdiklerini bile kaybedebileceğinin hikâyesi.
+
+Kendi kaleminden çıkan ünlü beyit, bütün bu hayatı belki de en iyi şekilde özetler: Halk içinde devlet kadar değerli bir şey yoktur; ama dünyada hiçbir devlet, bir nefeslik sağlığa denk olamaz.
+
+## Fragman
+
+Yirmi beş yaşında tahta çıktı. Kırk altı yıl tahtta kaldı.
+
+Belgrad'ı aldı, Rodos'u aldı, Mohaç'ta bir krallığı iki saatte yıktı. Ordularını Viyana kapılarına kadar götürdü. Donanması Akdeniz'e hâkim oldu.
+
+Bir esir kızı azat edip onunla evlendi. Ona şiirler yazdı.
+
+Ama aynı adam, en yakın dostunu ve iki oğlunu idam ettirdi. Ve yetmiş bir yaşında, son seferinde bir otağda öldü. Ölümü, haftalarca ordudan gizlendi.
+
+Kanuni Sultan Süleyman'ın hayat hikâyesi. Tamamı kanalımızda.

@@ -1,0 +1,107 @@
+# Isaac Newton'un Hayatı: Elma, Yer Çekimi ve Gizli Simya Defterleri | Belgesel
+
+## Giriş
+
+1665 yılında İngiltere'de korkunç bir veba salgını başladı. Cambridge Üniversitesi kapandı ve öğrenciler evlerine gönderildi. Bunlardan biri, yirmi iki yaşında, çekingen ve yalnız bir gençti. Annesinin Lincolnshire'daki çiftlik evine döndü.
+
+Sonraki iki yıl içinde bu genç, matematiğin yeni bir dalının temellerini attı, ışığın renklerden oluştuğunu keşfetti ve Ay'ı yörüngesinde tutan kuvvetin, bir elmayı yere düşüren kuvvetle aynı olabileceğini düşünmeye başladı.
+
+Bu adam, sonraki yıllarda evrenin hareket yasalarını yazdı. Ama aynı zamanda gizlice simya ile uğraştı, rakipleriyle acımasız kavgalar etti ve hayatının son otuz yılını sahte para basanları takip ederek geçirdi. Bu, Isaac Newton'un hikâyesi.
+
+## [0:55] Bir Kavanoza Sığan Bebek
+
+Isaac Newton, o dönem İngiltere'de kullanılan eski takvime göre 25 Aralık 1642'de, bugünkü takvime göre ise 4 Ocak 1643'te, Lincolnshire'daki Woolsthorpe köyünde doğdu. Babası, o doğmadan üç ay önce ölmüştü.
+
+Erken doğmuş, çok küçük bir bebekti. Newton'un yıllar sonra anlattığına göre, annesi onun doğduğunda bir litrelik bir kavanoza sığabilecek kadar küçük olduğunu söylerdi. Kimse onun yaşayacağını düşünmüyordu.
+
+Üç yaşındayken annesi Hannah yeniden evlendi ve yeni kocasının yanına taşındı. Küçük Isaac'i ise büyükannesinin yanında bıraktı. Bu terk ediliş, Newton'u derinden yaraladı. Gençliğinde tuttuğu bir günah listesinde, üvey babasını ve annesini evle birlikte yakmakla tehdit ettiğini yazmıştı.
+
+## [1:50] Çiftçi Olmayan Çocuk
+
+Newton, Grantham'daki okula gönderildi ve bir eczacının evinde kaldı. Burada su saatleri, güneş saatleri ve küçük değirmen modelleri yaptı. Hatta bir fenerle uçurtma uçurup kasaba halkını korkuttuğu anlatılır.
+
+Üvey babası öldükten sonra annesi, Newton'u çiftliği yönetmesi için okuldan aldı. Ama Newton çiftçilikle hiç ilgilenmiyordu. Koyunlar başıboş kalıyor, o ise bir ağacın altında kitap okuyordu. Okulun müdürü, annesini ikna ederek onu okula geri döndürdü.
+
+1661'de Newton, Cambridge Üniversitesi'ndeki Trinity Koleji'ne girdi. Masraflarını karşılamak için zengin öğrencilere hizmet eden yoksul öğrenciler arasındaydı.
+
+## [2:38] Veba Yılları: Mucize Dönem
+
+1665'te veba salgını nedeniyle üniversite kapanınca Newton, Woolsthorpe'a döndü. Bu dönem, bilim tarihinin en verimli iki yılından biri oldu.
+
+Bu sürede Newton, bugün kalkülüs dediğimiz, değişimi hesaplamaya yarayan matematiğin temellerini attı. Prizmalarla yaptığı deneylerde, beyaz ışığın aslında farklı renklerin karışımı olduğunu gösterdi. Ve hareket ile yer çekimi üzerine düşünmeye başladı.
+
+Ünlü elma hikâyesi nereden geliyor? Newton, yaşlılığında arkadaşı William Stukeley'e, yer çekimi fikrinin bir bahçede düşen bir elmayı izlerken aklına geldiğini anlattı. Ancak elmanın başına düştüğüne dair bir kanıt yok. Bu ayrıntı, sonradan eklenmiş bir süslemedir. Woolsthorpe'daki elma ağacı ise bugün hâlâ ayakta.
+
+## [3:34] Genç Profesör ve Teleskop
+
+1669'da, henüz yirmi altı yaşındayken, Cambridge'de matematik alanının en saygın kürsüsü olan Lucasian Profesörlüğü'ne getirildi.
+
+Aynı yıllarda, mercek yerine ayna kullanan yeni bir teleskop tasarladı. Bu yansıtmalı teleskop, o zamanki teleskoplardan çok daha küçük olmasına rağmen daha net görüntü veriyordu. Teleskobu Londra'daki bilim kurumu Kraliyet Cemiyeti'ne, yani Royal Society'ye gönderdi ve 1672'de cemiyete üye seçildi.
+
+Ama ışık üzerine düşüncelerini yayımladığında sert eleştirilerle karşılaştı. Özellikle bilim insanı Robert Hooke ile aralarında ömür boyu sürecek bir düşmanlık başladı. Eleştiriye son derece duyarlı olan Newton, uzun süre çalışmalarını yayımlamaktan kaçındı.
+
+## [4:24] Principia: Evrenin Kitabı
+
+1684'te astronom Edmond Halley, Newton'u ziyaret etti ve ona, gezegenlerin yörüngelerini sorduğu bir soru sordu. Newton, bu sorunun cevabını yıllar önce hesapladığını söyledi. Halley, onu bu çalışmaları yayımlamaya ikna etti ve basım masraflarını kendi cebinden karşıladı.
+
+1687'de yayımlanan "Doğa Felsefesinin Matematiksel İlkeleri", kısaca Principia, bilim tarihinin en önemli kitaplarından biri oldu. Newton bu kitapta, bugün okullarda öğrendiğimiz üç hareket yasasını ve evrensel çekim yasasını ortaya koydu.
+
+Bu yasalarla, yere düşen bir elmadan gezegenlerin yörüngelerine, gelgitlerden kuyruklu yıldızların yollarına kadar evrendeki hareketlerin büyük bölümü aynı matematiksel ilkelerle açıklanabiliyordu. Gökyüzü ile yeryüzü, ilk kez aynı yasalarla birleşmişti.
+
+## [5:19] Gizli Defterler: Simya ve İnanç
+
+Newton'un pek az kişinin bildiği bir yüzü daha vardı. Hayatı boyunca simya üzerine, fizik ve matematik üzerine yazdıklarından bile daha fazla not tuttu. Metalleri dönüştürmenin sırlarını arıyor, laboratuvarında kimyasallarla deneyler yapıyordu.
+
+Bunun yanında, dinî metinleri de büyük bir tutkuyla inceledi. Kutsal metinlerdeki kehanetleri yorumlamaya çalıştı. Dinî görüşlerinin bir kısmı, döneminin resmî öğretilerinden farklıydı ve bunları hayatı boyunca gizli tuttu.
+
+Yirminci yüzyılda Newton'un bu defterlerini satın alan ünlü iktisatçı John Maynard Keynes, onu "akıl çağının ilk insanı değil, büyücülerin sonuncusu" olarak tanımladı. 1970'lerde yapılan bir incelemede ise Newton'un saç örneklerinde yüksek miktarda cıva bulundu. Bu, onun simya deneyleri sırasında zehirli maddelere maruz kaldığını düşündürüyordu.
+
+## [6:17] Bir Çöküş
+
+1693'te Newton, ciddi bir ruhsal kriz geçirdi. Aylarca uyuyamadı, dostlarına tuhaf ve suçlayıcı mektuplar yazdı. Bu krizin nedeni bugün hâlâ tartışılıyor; aşırı çalışma, yalnızlık ve cıva zehirlenmesi olası nedenler arasında sayılıyor.
+
+Newton toparlandı. Ama artık Cambridge'deki sessiz akademik hayattan bıkmıştı. Hayatı, beklenmedik bir yöne dönmek üzereydi.
+
+## [6:47] Darphanenin Dedektifi
+
+1696'da Newton, Londra'daki Kraliyet Darphanesi'nde yönetici olarak göreve başladı. Pek çok kişi bunun emeklilik için verilen rahat bir görev olduğunu düşünüyordu. Ama Newton, işi son derece ciddiye aldı.
+
+O dönem İngiltere'de sahte para ve kenarlarından gümüş kazınmış madeni paralar büyük bir sorundu. Newton, ülkedeki madeni paraların yenilenmesini yönetti ve sahte para basanlarla bizzat mücadele etti. Kılık değiştirmiş muhbirler kullandı, şüphelileri bizzat sorguladı.
+
+En ünlü hedefi, kurnaz bir sahtekâr olan William Chaloner'dı. Newton, uzun bir takibin ardından onu yakalattı. Chaloner, 1699'da idam edildi. O dönemin kanunlarına göre sahte para basmak, devlete ihanet sayılıyordu.
+
+## [7:42] Kraliyet Cemiyeti ve Kalkülüs Savaşı
+
+1703'te Newton, Kraliyet Cemiyeti'nin başkanı oldu ve ölümüne kadar bu görevde kaldı. 1705'te Kraliçe Anne onu şövalye ilan etti. Artık "Sir Isaac Newton"dı.
+
+Ama bu yıllar, bilim tarihinin en çirkin kavgalarından birine de sahne oldu. Alman filozof ve matematikçi Gottfried Leibniz, Newton'dan bağımsız olarak kalkülüsü geliştirmiş ve kendi çalışmasını Newton'dan önce yayımlamıştı. İki taraf arasında kimin önce bulduğuna dair büyük bir tartışma başladı.
+
+Kraliyet Cemiyeti, 1712'de bu konuyu incelemek için bir komisyon kurdu. Komisyonun raporu Newton'u haklı çıkardı. Ancak sonradan ortaya çıktı ki raporu büyük ölçüde Newton'un kendisi yazmıştı. Bugün tarihçiler, iki adamın kalkülüsü birbirinden bağımsız olarak geliştirdiğini kabul ediyor.
+
+## [8:38] Güney Denizi Balonu
+
+Newton, bir dâhi olmasına rağmen piyasaların çılgınlığından kurtulamadı. 1720'de İngiltere'de Güney Denizi Şirketi'nin hisseleri inanılmaz bir hızla yükseldi. Newton bu hisselere yatırım yaptı. Balon patladığında ise büyük bir para kaybettiği bilinir.
+
+Ona atfedilen ünlü bir söz şudur: "Gök cisimlerinin hareketini hesaplayabilirim, ama insanların çılgınlığını hesaplayamam." Bu sözün gerçekten ona ait olduğu kesin değildir, ama yaşadığı kaybı çok iyi özetler.
+
+## [9:13] Westminster'da Bir Kral Gibi
+
+Isaac Newton hiç evlenmedi. Bilinen bir aşk ilişkisi de yoktu. Hayatını bütünüyle çalışmalarına adamıştı.
+
+20 Mart 1727'de, seksen dört yaşında Londra'da hayatını kaybetti. Bir bilim insanı için o güne kadar görülmemiş bir törenle, İngiltere krallarının ve kraliçelerinin yattığı Westminster Abbey'e gömüldü.
+
+Şair Alexander Pope, onun için ünlü bir dize yazdı: "Doğa ve doğanın yasaları gecenin karanlığında gizliydi. Tanrı dedi ki, Newton olsun! Ve her yer aydınlandı."
+
+Newton, bir mektubunda şöyle yazmıştı: "Daha uzağı görebildiysem, devlerin omuzlarında durduğum içindir." Ve kendisinden sonra gelen nesiller, işte o devlerden birinin, Isaac Newton'un omuzlarında durarak evreni anlamaya devam etti.
+
+## Fragman
+
+Doğduğunda bir kavanoza sığacak kadar küçüktü. Kimse yaşayacağını düşünmüyordu. Annesi onu terk etti.
+
+Bir veba salgını yüzünden üniversite kapandı. Ve o, köyündeki evde, iki yıl içinde bilim tarihini değiştirdi.
+
+Evrenin hareket yasalarını yazdı. Ama gizlice simya ile uğraştı, defterlerini kimseye göstermedi. Rakipleriyle acımasız kavgalar etti.
+
+Ve hayatının son yıllarında, sahte para basanları kovalayan bir dedektife dönüştü.
+
+Isaac Newton'un hayat hikâyesi. Tamamı kanalımızda.

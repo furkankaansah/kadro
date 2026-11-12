@@ -1,0 +1,404 @@
+1
+00:00:04,099 --> 00:00:09,571
+1665 yılında İngiltere'de korkunç bir veba salgını başladı.
+
+2
+00:00:09,521 --> 00:00:14,376
+Cambridge Üniversitesi kapandı ve öğrenciler evlerine gönderildi.
+
+3
+00:00:14,376 --> 00:00:19,606
+Bunlardan biri, yirmi iki yaşında, çekingen ve yalnız bir gençti.
+
+4
+00:00:19,606 --> 00:00:23,405
+Annesinin Lincolnshire'daki çiftlik evine döndü.
+
+5
+00:00:23,405 --> 00:00:37,470
+Sonraki iki yıl içinde bu genç, matematiğin yeni bir dalının temellerini attı, ışığın renklerden oluştuğunu keşfetti ve Ay'ı yörüngesinde tutan kuvvetin, bir elmayı yere düşüren kuvvetle aynı olabileceğini düşünmeye başladı.
+
+6
+00:00:37,470 --> 00:00:42,155
+Bu adam, sonraki yıllarda evrenin hareket yasalarını yazdı.
+
+7
+00:00:42,155 --> 00:00:52,191
+Ama aynı zamanda gizlice simya ile uğraştı, rakipleriyle acımasız kavgalar etti ve hayatının son otuz yılını sahte para basanları takip ederek geçirdi.
+
+8
+00:00:52,191 --> 00:00:55,237
+Bu, Isaac Newton'un hikâyesi.
+
+9
+00:00:56,088 --> 00:01:09,217
+Isaac Newton, o dönem İngiltere'de kullanılan eski takvime göre 25 Aralık 1642'de, bugünkü takvime göre ise 4 Ocak 1643'te, Lincolnshire'daki Woolsthorpe köyünde doğdu.
+
+10
+00:01:09,167 --> 00:01:12,929
+Babası, o doğmadan üç ay önce ölmüştü.
+
+11
+00:01:12,929 --> 00:01:16,534
+Erken doğmuş, çok küçük bir bebekti.
+
+12
+00:01:16,534 --> 00:01:24,956
+Newton'un yıllar sonra anlattığına göre, annesi onun doğduğunda bir litrelik bir kavanoza sığabilecek kadar küçük olduğunu söylerdi.
+
+13
+00:01:24,956 --> 00:01:28,330
+Kimse onun yaşayacağını düşünmüyordu.
+
+14
+00:01:28,330 --> 00:01:34,216
+Üç yaşındayken annesi Hannah yeniden evlendi ve yeni kocasının yanına taşındı.
+
+15
+00:01:34,216 --> 00:01:38,196
+Küçük Isaac'i ise büyükannesinin yanında bıraktı.
+
+16
+00:01:38,196 --> 00:01:41,910
+Bu terk ediliş, Newton'u derinden yaraladı.
+
+17
+00:01:41,910 --> 00:01:49,604
+Gençliğinde tuttuğu bir günah listesinde, üvey babasını ve annesini evle birlikte yakmakla tehdit ettiğini yazmıştı.
+
+18
+00:01:50,451 --> 00:01:55,923
+Newton, Grantham'daki okula gönderildi ve bir eczacının evinde kaldı.
+
+19
+00:01:55,873 --> 00:02:01,201
+Burada su saatleri, güneş saatleri ve küçük değirmen modelleri yaptı.
+
+20
+00:02:01,201 --> 00:02:06,298
+Hatta bir fenerle uçurtma uçurup kasaba halkını korkuttuğu anlatılır.
+
+21
+00:02:06,298 --> 00:02:12,366
+Üvey babası öldükten sonra annesi, Newton'u çiftliği yönetmesi için okuldan aldı.
+
+22
+00:02:12,366 --> 00:02:15,873
+Ama Newton çiftçilikle hiç ilgilenmiyordu.
+
+23
+00:02:15,873 --> 00:02:20,825
+Koyunlar başıboş kalıyor, o ise bir ağacın altında kitap okuyordu.
+
+24
+00:02:20,825 --> 00:02:25,752
+Okulun müdürü, annesini ikna ederek onu okula geri döndürdü.
+
+25
+00:02:25,752 --> 00:02:31,699
+1661'de Newton, Cambridge Üniversitesi'ndeki Trinity Koleji'ne girdi.
+
+26
+00:02:31,699 --> 00:02:37,936
+Masraflarını karşılamak için zengin öğrencilere hizmet eden yoksul öğrenciler arasındaydı.
+
+27
+00:02:38,792 --> 00:02:45,562
+1665'te veba salgını nedeniyle üniversite kapanınca Newton, Woolsthorpe'a döndü.
+
+28
+00:02:45,512 --> 00:02:50,306
+Bu dönem, bilim tarihinin en verimli iki yılından biri oldu.
+
+29
+00:02:50,306 --> 00:02:57,490
+Bu sürede Newton, bugün kalkülüs dediğimiz, değişimi hesaplamaya yarayan matematiğin temellerini attı.
+
+30
+00:02:57,490 --> 00:03:04,128
+Prizmalarla yaptığı deneylerde, beyaz ışığın aslında farklı renklerin karışımı olduğunu gösterdi.
+
+31
+00:03:04,128 --> 00:03:08,267
+Ve hareket ile yer çekimi üzerine düşünmeye başladı.
+
+32
+00:03:08,267 --> 00:03:11,592
+Ünlü elma hikâyesi nereden geliyor?
+
+33
+00:03:11,592 --> 00:03:20,378
+Newton, yaşlılığında arkadaşı William Stukeley'e, yer çekimi fikrinin bir bahçede düşen bir elmayı izlerken aklına geldiğini anlattı.
+
+34
+00:03:20,378 --> 00:03:24,444
+Ancak elmanın başına düştüğüne dair bir kanıt yok.
+
+35
+00:03:24,444 --> 00:03:28,558
+Bu ayrıntı, sonradan eklenmiş bir süslemedir.
+
+36
+00:03:28,558 --> 00:03:33,267
+Woolsthorpe'daki elma ağacı ise bugün hâlâ ayakta.
+
+37
+00:03:34,116 --> 00:03:43,544
+1669'da, henüz yirmi altı yaşındayken, Cambridge'de matematik alanının en saygın kürsüsü olan Lucasian Profesörlüğü'ne getirildi.
+
+38
+00:03:43,494 --> 00:03:49,003
+Aynı yıllarda, mercek yerine ayna kullanan yeni bir teleskop tasarladı.
+
+39
+00:03:49,003 --> 00:03:56,431
+Bu yansıtmalı teleskop, o zamanki teleskoplardan çok daha küçük olmasına rağmen daha net görüntü veriyordu.
+
+40
+00:03:56,431 --> 00:04:05,302
+Teleskobu Londra'daki bilim kurumu Kraliyet Cemiyeti'ne, yani Royal Society'ye gönderdi ve 1672'de cemiyete üye seçildi.
+
+41
+00:04:05,302 --> 00:04:10,666
+Ama ışık üzerine düşüncelerini yayımladığında sert eleştirilerle karşılaştı.
+
+42
+00:04:10,666 --> 00:04:17,025
+Özellikle bilim insanı Robert Hooke ile aralarında ömür boyu sürecek bir düşmanlık başladı.
+
+43
+00:04:17,025 --> 00:04:23,299
+Eleştiriye son derece duyarlı olan Newton, uzun süre çalışmalarını yayımlamaktan kaçındı.
+
+44
+00:04:24,160 --> 00:04:32,860
+1684'te astronom Edmond Halley, Newton'u ziyaret etti ve ona, gezegenlerin yörüngelerini sorduğu bir soru sordu.
+
+45
+00:04:32,810 --> 00:04:37,676
+Newton, bu sorunun cevabını yıllar önce hesapladığını söyledi.
+
+46
+00:04:37,676 --> 00:04:44,375
+Halley, onu bu çalışmaları yayımlamaya ikna etti ve basım masraflarını kendi cebinden karşıladı.
+
+47
+00:04:44,375 --> 00:04:54,217
+1687'de yayımlanan "Doğa Felsefesinin Matematiksel İlkeleri", kısaca Principia, bilim tarihinin en önemli kitaplarından biri oldu.
+
+48
+00:04:54,217 --> 00:05:01,790
+Newton bu kitapta, bugün okullarda öğrendiğimiz üç hareket yasasını ve evrensel çekim yasasını ortaya koydu.
+
+49
+00:05:01,790 --> 00:05:13,962
+Bu yasalarla, yere düşen bir elmadan gezegenlerin yörüngelerine, gelgitlerden kuyruklu yıldızların yollarına kadar evrendeki hareketlerin büyük bölümü aynı matematiksel ilkelerle açıklanabiliyordu.
+
+50
+00:05:13,962 --> 00:05:18,695
+Gökyüzü ile yeryüzü, ilk kez aynı yasalarla birleşmişti.
+
+51
+00:05:19,556 --> 00:05:23,644
+Newton'un pek az kişinin bildiği bir yüzü daha vardı.
+
+52
+00:05:23,594 --> 00:05:30,475
+Hayatı boyunca simya üzerine, fizik ve matematik üzerine yazdıklarından bile daha fazla not tuttu.
+
+53
+00:05:30,475 --> 00:05:36,919
+Metalleri dönüştürmenin sırlarını arıyor, laboratuvarında kimyasallarla deneyler yapıyordu.
+
+54
+00:05:36,919 --> 00:05:41,604
+Bunun yanında, dinî metinleri de büyük bir tutkuyla inceledi.
+
+55
+00:05:41,604 --> 00:05:45,754
+Kutsal metinlerdeki kehanetleri yorumlamaya çalıştı.
+
+56
+00:05:45,754 --> 00:05:53,278
+Dinî görüşlerinin bir kısmı, döneminin resmî öğretilerinden farklıydı ve bunları hayatı boyunca gizli tuttu.
+
+57
+00:05:53,278 --> 00:06:04,225
+Yirminci yüzyılda Newton'un bu defterlerini satın alan ünlü iktisatçı John Maynard Keynes, onu "akıl çağının ilk insanı değil, büyücülerin sonuncusu" olarak tanımladı.
+
+58
+00:06:04,225 --> 00:06:11,494
+1970'lerde yapılan bir incelemede ise Newton'un saç örneklerinde yüksek miktarda cıva bulundu.
+
+59
+00:06:11,494 --> 00:06:17,077
+Bu, onun simya deneyleri sırasında zehirli maddelere maruz kaldığını düşündürüyordu.
+
+60
+00:06:17,928 --> 00:06:22,793
+1693'te Newton, ciddi bir ruhsal kriz geçirdi.
+
+61
+00:06:22,743 --> 00:06:27,961
+Aylarca uyuyamadı, dostlarına tuhaf ve suçlayıcı mektuplar yazdı.
+
+62
+00:06:27,961 --> 00:06:36,286
+Bu krizin nedeni bugün hâlâ tartışılıyor; aşırı çalışma, yalnızlık ve cıva zehirlenmesi olası nedenler arasında sayılıyor.
+
+63
+00:06:36,286 --> 00:06:38,701
+Newton toparlandı.
+
+64
+00:06:38,701 --> 00:06:43,204
+Ama artık Cambridge'deki sessiz akademik hayattan bıkmıştı.
+
+65
+00:06:43,204 --> 00:06:47,160
+Hayatı, beklenmedik bir yöne dönmek üzereydi.
+
+66
+00:06:48,004 --> 00:06:54,871
+1696'da Newton, Londra'daki Kraliyet Darphanesi'nde yönetici olarak göreve başladı.
+
+67
+00:06:54,821 --> 00:07:00,234
+Pek çok kişi bunun emeklilik için verilen rahat bir görev olduğunu düşünüyordu.
+
+68
+00:07:00,234 --> 00:07:03,935
+Ama Newton, işi son derece ciddiye aldı.
+
+69
+00:07:03,935 --> 00:07:10,501
+O dönem İngiltere'de sahte para ve kenarlarından gümüş kazınmış madeni paralar büyük bir sorundu.
+
+70
+00:07:10,501 --> 00:07:17,867
+Newton, ülkedeki madeni paraların yenilenmesini yönetti ve sahte para basanlarla bizzat mücadele etti.
+
+71
+00:07:17,867 --> 00:07:22,988
+Kılık değiştirmiş muhbirler kullandı, şüphelileri bizzat sorguladı.
+
+72
+00:07:22,988 --> 00:07:27,794
+En ünlü hedefi, kurnaz bir sahtekâr olan William Chaloner'dı.
+
+73
+00:07:27,794 --> 00:07:31,933
+Newton, uzun bir takibin ardından onu yakalattı.
+
+74
+00:07:31,933 --> 00:07:35,925
+Chaloner, 1699'da idam edildi.
+
+75
+00:07:35,925 --> 00:07:41,520
+O dönemin kanunlarına göre sahte para basmak, devlete ihanet sayılıyordu.
+
+76
+00:07:42,368 --> 00:07:48,895
+1703'te Newton, Kraliyet Cemiyeti'nin başkanı oldu ve ölümüne kadar bu görevde kaldı.
+
+77
+00:07:48,845 --> 00:07:53,287
+1705'te Kraliçe Anne onu şövalye ilan etti.
+
+78
+00:07:53,287 --> 00:07:56,284
+Artık "Sir Isaac Newton"dı.
+
+79
+00:07:56,284 --> 00:08:01,806
+Ama bu yıllar, bilim tarihinin en çirkin kavgalarından birine de sahne oldu.
+
+80
+00:08:01,806 --> 00:08:11,357
+Alman filozof ve matematikçi Gottfried Leibniz, Newton'dan bağımsız olarak kalkülüsü geliştirmiş ve kendi çalışmasını Newton'dan önce yayımlamıştı.
+
+81
+00:08:11,357 --> 00:08:16,394
+İki taraf arasında kimin önce bulduğuna dair büyük bir tartışma başladı.
+
+82
+00:08:16,394 --> 00:08:22,328
+Kraliyet Cemiyeti, 1712'de bu konuyu incelemek için bir komisyon kurdu.
+
+83
+00:08:22,328 --> 00:08:25,763
+Komisyonun raporu Newton'u haklı çıkardı.
+
+84
+00:08:25,763 --> 00:08:31,442
+Ancak sonradan ortaya çıktı ki raporu büyük ölçüde Newton'un kendisi yazmıştı.
+
+85
+00:08:31,442 --> 00:08:37,947
+Bugün tarihçiler, iki adamın kalkülüsü birbirinden bağımsız olarak geliştirdiğini kabul ediyor.
+
+86
+00:08:38,796 --> 00:08:44,158
+Newton, bir dâhi olmasına rağmen piyasaların çılgınlığından kurtulamadı.
+
+87
+00:08:44,108 --> 00:08:50,358
+1720'de İngiltere'de Güney Denizi Şirketi'nin hisseleri inanılmaz bir hızla yükseldi.
+
+88
+00:08:50,358 --> 00:08:53,586
+Newton bu hisselere yatırım yaptı.
+
+89
+00:08:53,586 --> 00:08:58,040
+Balon patladığında ise büyük bir para kaybettiği bilinir.
+
+90
+00:08:58,040 --> 00:09:06,256
+Ona atfedilen ünlü bir söz şudur: "Gök cisimlerinin hareketini hesaplayabilirim, ama insanların çılgınlığını hesaplayamam.
+
+91
+00:09:06,256 --> 00:09:12,458
+Bu sözün gerçekten ona ait olduğu kesin değildir, ama yaşadığı kaybı çok iyi özetler.
+
+92
+00:09:13,312 --> 00:09:16,186
+Isaac Newton hiç evlenmedi.
+
+93
+00:09:16,136 --> 00:09:19,340
+Bilinen bir aşk ilişkisi de yoktu.
+
+94
+00:09:19,340 --> 00:09:22,945
+Hayatını bütünüyle çalışmalarına adamıştı.
+
+95
+00:09:22,945 --> 00:09:28,818
+20 Mart 1727'de, seksen dört yaşında Londra'da hayatını kaybetti.
+
+96
+00:09:28,818 --> 00:09:37,423
+Bir bilim insanı için o güne kadar görülmemiş bir törenle, İngiltere krallarının ve kraliçelerinin yattığı Westminster Abbey'e gömüldü.
+
+97
+00:09:37,423 --> 00:09:44,874
+Şair Alexander Pope, onun için ünlü bir dize yazdı: "Doğa ve doğanın yasaları gecenin karanlığında gizliydi.
+
+98
+00:09:44,874 --> 00:09:47,762
+Tanrı dedi ki, Newton olsun!
+
+99
+00:09:47,762 --> 00:09:50,323
+Ve her yer aydınlandı.
+
+100
+00:09:50,323 --> 00:09:57,787
+Newton, bir mektubunda şöyle yazmıştı: "Daha uzağı görebildiysem, devlerin omuzlarında durduğum içindir.
+
+101
+00:09:57,787 --> 00:10:06,185
+Ve kendisinden sonra gelen nesiller, işte o devlerden birinin, Isaac Newton'un omuzlarında durarak evreni anlamaya devam etti.
+

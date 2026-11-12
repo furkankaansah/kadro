@@ -17,10 +17,10 @@ SIRADAKİ HAYAT HİKÂYELERİ ([x] = senaryosu hazır. Yeni senaryolar bu sıray
 [x] 016 Thomas Edison
 [x] 017 Sabiha Gökçen
 [x] 018 Mozart
-[ ] 019 Neşet Ertaş
-[ ] 020 Isaac Newton
-[ ] 021 Galileo Galilei
-[ ] 022 Kanuni Sultan Süleyman
+[x] 019 Neşet Ertaş
+[x] 020 Isaac Newton
+[x] 021 Galileo Galilei
+[x] 022 Kanuni Sultan Süleyman
 [ ] 023 Vincent van Gogh
 [ ] 024 Ludwig van Beethoven
 [ ] 025 Mahatma Gandhi
