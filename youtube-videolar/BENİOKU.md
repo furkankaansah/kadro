@@ -35,6 +35,11 @@ Bazı senaryolarda görseller `ara: ...` satırlarıyla verilmiştir (Einstein, 
 Commons'ta aranır ve seçilenler `videolar/<kişi>/secilen_gorseller.json` dosyasına yazılır. Beğenmediğin bir seçimi bu
 dosyadan değiştirebilirsin. Görselleri tek sayfada görmek için: `python arac/onizleme.py senaryolar/005_albert_einstein.txt onizleme.jpg`
 
+## Fotoğrafsız (çevrimdışı) üretim
+`python uret.py --hepsi --cevrimdisi` komutu Wikimedia'ya hiç bağlanmaz. Önbellekte fotoğraf yoksa her sahne için tarih ve
+önemli cümlelerden oluşan tasarım sahneleri üretir. Bulut sunucusunda videolar bu modla üretildi. Fotoğraflı sürüm için
+kendi bilgisayarında `python uret.py --hepsi --yeniden` çalıştır.
+
 ## Kendi sesinle (gerçek insan sesi) yeniden üretme
 1. `seslendirme_metni.txt` dosyasını aç. Her bölüm için ayrı bir kayıt yap: `00.mp3`, `01.mp3`, … ve `fragman.mp3`.
    (.wav ve .m4a da olur.)

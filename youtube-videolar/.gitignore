@@ -1,3 +1,4 @@
 .onbellek/
 __pycache__/
 arac/iletisim.txt
+*.mp4

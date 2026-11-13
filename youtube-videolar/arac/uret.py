@@ -37,6 +37,7 @@ FONT_R = _font_bul("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", os.path.jo
                    "/System/Library/Fonts/Supplemental/Arial.ttf", "/Library/Fonts/Arial.ttf")
 FONT_S = _font_bul("/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf", os.path.join(_WF, "georgiab.ttf"),
                    "/System/Library/Fonts/Supplemental/Georgia Bold.ttf", FONT_B)
+CEVRIMDISI = False  # True: Wikimedia'ya bağlanma, önbellek + tasarım sahneleri kullan
 SAHNE_ARASI = 0.7  # bölümler arası sessizlik (sn)
 HIZ = "+3%"  # konuşma hızı
 
@@ -204,6 +205,89 @@ def baslik_karti(dst, ad, yillar, alt):
     im.save(dst, quality=95)
 
 
+PALETLER = [((18, 24, 38), (52, 38, 24)), ((24, 18, 30), (60, 30, 30)), ((14, 28, 30), (40, 46, 24)),
+            ((30, 24, 16), (20, 34, 52)), ((26, 16, 16), (46, 40, 60))]
+
+
+def yil_bul(t):
+    m = re.findall(r"\b(1[0-9]{3}|20[0-2][0-9])\b", t)
+    return m[0] if m else ""
+
+
+def grafik_kart(dst, ad, baslik, cumle, yil, tohum):
+    """Fotoğraf yerine kullanılan tasarım sahnesi (2560x1440, Ken Burns için kenar payı bırakır)."""
+    if os.path.exists(dst):
+        return dst
+    import random
+    rnd = random.Random(tohum)
+    TW, TH = W * 2, H * 2
+    c1, c2 = PALETLER[rnd.randrange(len(PALETLER))]
+    im = Image.new("RGB", (TW, TH)); d = ImageDraw.Draw(im)
+    for y in range(TH):
+        k = y / TH
+        d.line([(0, y), (TW, y)], fill=tuple(int(c1[i] * (1 - k) + c2[i] * k) for i in range(3)))
+    # yumuşak ışık lekeleri
+    leke = Image.new("L", (TW, TH), 0); ld = ImageDraw.Draw(leke)
+    for _ in range(5):
+        x, y, r = rnd.randrange(TW), rnd.randrange(TH), rnd.randrange(300, 800)
+        ld.ellipse([x - r, y - r, x + r, y + r], fill=rnd.randrange(25, 60))
+    leke = leke.filter(ImageFilter.GaussianBlur(160))
+    im = Image.composite(Image.new("RGB", (TW, TH), (200, 160, 90)), im, leke)
+    # vinyet
+    v = Image.new("L", (TW, TH), 0); ImageDraw.Draw(v).ellipse([-TW * .2, -TH * .3, TW * 1.2, TH * 1.3], fill=255)
+    v = v.filter(ImageFilter.GaussianBlur(250))
+    im = Image.composite(im, Image.new("RGB", (TW, TH), (5, 5, 8)), v)
+    if yil:
+        kat = Image.new("RGBA", (TW, TH), (0, 0, 0, 0)); kd = ImageDraw.Draw(kat)
+        f = font(FONT_S, 420)
+        kd.text((TW * 0.88 - kd.textlength(yil, font=f), TH * 0.52), yil, font=f, fill=(232, 180, 40, 34))
+        im = Image.alpha_composite(im.convert("RGBA"), kat).convert("RGB")
+    d = ImageDraw.Draw(im)
+    x0, maxw = TW * 0.16, TW * 0.64
+    f1 = font(FONT_B, 46)
+    d.rectangle([x0, TH * 0.30, x0 + 120, TH * 0.30 + 8], fill=(232, 180, 40))
+    d.text((x0, TH * 0.30 + 30), buyuk(baslik), font=f1, fill=(232, 180, 40))
+    boy = 92 if len(cumle) < 90 else 78 if len(cumle) < 150 else 64
+    f2 = font(FONT_S, boy)
+    y = TH * 0.30 + 120
+    for l in sar(d, cumle, f2, maxw)[:5]:
+        d.text((x0, y), l, font=f2, fill=(245, 240, 230)); y += boy * 1.3
+    f3 = font(FONT_R, 40)
+    d.text((x0, TH * 0.80), buyuk(ad), font=f3, fill=(190, 190, 190))
+    im.save(dst + ".part.jpg", quality=90); os.replace(dst + ".part.jpg", dst)
+    return dst
+
+
+_ZAYIF = re.compile(r"^(Bu|Burada|Bunu|Bunun|Bunlar|Bundan|O |Onu|Onun|Ona|Ama|Ancak|Böylece|Aynı|Ardından|Sonra|Yine|İşte|Ve |Fakat|Üstelik|Hatta|Kısa|Yıllar)")
+
+
+def iyi_cumleler(metin, n):
+    cs = [c for c in cumlele(metin) if 30 < len(c) < 190] or cumlele(metin)
+    def puan(c):
+        p = 0
+        if yil_bul(c): p += 3
+        if re.search(r"\s[A-ZÇĞİÖŞÜ][a-zçğıöşü]+", c): p += 1
+        if _ZAYIF.match(c): p -= 4
+        if '"' in c: p += 1
+        return p
+    sirali = sorted(range(len(cs)), key=lambda i: -puan(cs[i]))[:max(n, 1)]
+    secilen = [cs[i] for i in sorted(sirali)]
+    while len(secilen) < n:
+        secilen.append(secilen[len(secilen) % max(1, len(secilen))] if secilen else metin[:150])
+    return secilen
+
+
+def onbellek_gorsel(ad):
+    h = hashlib.md5(ad.encode()).hexdigest()
+    d = os.path.join(ONB, "img")
+    if not os.path.isdir(d):
+        return None
+    for f in os.listdir(d):
+        if f.startswith(h) and not f.endswith("_k.jpg") and not f.endswith(".part"):
+            return os.path.join(d, f)
+    return None
+
+
 def kapak(dst, gorsel, yazi, ad):
     im = Image.open(gorsel).convert("RGB")
     im = ImageOps.exif_transpose(im)
@@ -369,7 +453,7 @@ def uret(yol, sesadi, sadece_metin=False):
     gecici = os.path.join(ONB, "tmp", meta["klasor"]); os.makedirs(gecici, exist_ok=True)
     print(f"\n=== {ad} → {klasor}")
     bilgi = {}
-    if not sadece_metin:
+    if not sadece_metin and not CEVRIMDISI:
         gorselleri_coz(meta, sahneler, os.path.join(klasor, "secilen_gorseller.json"))
     tum_gorseller = []
     for s in sahneler:
@@ -378,11 +462,11 @@ def uret(yol, sesadi, sadece_metin=False):
     tum_gorseller = [g for g in dict.fromkeys(tum_gorseller) if g]
     tum_gorseller = [g for g in tum_gorseller if not g.startswith("ara:")]
     for i in range(0, len(tum_gorseller), 40):
-        if sadece_metin:
+        if sadece_metin or CEVRIMDISI:
             break
         bilgi.update(wiki.file_info(tum_gorseller[i:i + 40], width=1920))
     eksik = [g for g in tum_gorseller if g not in bilgi]
-    if eksik and not sadece_metin:
+    if eksik and not sadece_metin and not CEVRIMDISI:
         raise SystemExit("Commons'ta bulunamayan görseller: " + "; ".join(eksik))
 
     # açılış metni = @giris, sonra bölümler
@@ -444,15 +528,39 @@ def uret(yol, sesadi, sadece_metin=False):
     if sadece_metin:
         return
 
-    # görselleri hazırla
-    hazir = {}
-    for g in tum_gorseller:
-        src, _ = gorsel_indir(g, bilgi)
-        hazir[g] = kare_hazirla(src, os.path.join(ONB, "img", hashlib.md5(g.encode()).hexdigest() + "_k.jpg"))
+    # görselleri hazırla (çevrimdışıysa: önbellekteki fotoğraf ya da tasarım sahnesi)
+    hazir, kullanilan_foto = {}, []
+    kartdir = os.path.join(ONB, "kart", meta["klasor"]); os.makedirs(kartdir, exist_ok=True)
+
+    def kare(g, b, j):
+        src = onbellek_gorsel(g) if not g.startswith("ara:") else None
+        if src is None and not CEVRIMDISI and not g.startswith("ara:"):
+            src = gorsel_indir(g, bilgi)[0]
+        if src:
+            kullanilan_foto.append(g)
+            return kare_hazirla(src, os.path.join(ONB, "img", hashlib.md5(g.encode()).hexdigest() + "_k.jpg"))
+        c = iyi_cumleler(b["metin"], j + 1)[j]
+        return grafik_kart(os.path.join(kartdir, hashlib.md5((b["baslik"] + str(j)).encode()).hexdigest() + ".jpg"),
+                           ad, b["baslik"], c, yil_bul(c) or yil_bul(b["metin"]), b["baslik"] + str(j))
+
+    for b in bolumler:
+        gl = b["gorsel"] or ["ara: yok"]
+        n = max(len(gl), int(b["sure"] // 25) if not any(onbellek_gorsel(g) for g in gl) else len(gl))
+        n = min(n, 4)
+        b["kareler"] = [kare(gl[j % len(gl)] if j < len(gl) else "ara: ek", b, j) for j in range(n)]
 
     # kapak
-    kapak(os.path.join(klasor, "kapak_thumbnail.jpg"), gorsel_indir(meta["kapak_gorsel"], bilgi)[0],
-          meta["kapak_yazi"], ad)
+    kg = onbellek_gorsel(meta.get("kapak_gorsel", "")) if meta.get("kapak_gorsel") else None
+    if kg is None and not CEVRIMDISI:
+        kg = gorsel_indir(meta["kapak_gorsel"], bilgi)[0]
+    if kg is None:
+        kg = bolumler[1]["kareler"][0] if len(bolumler) > 1 else bolumler[0]["kareler"][0]
+    kapak(os.path.join(klasor, "kapak_thumbnail.jpg"), kg, meta["kapak_yazi"], ad)
+    kredi_foto = [k for k in kredi if any(k.startswith("- " + g + " ") for g in set(kullanilan_foto))]
+    if CEVRIMDISI:
+        open(os.path.join(klasor, "sabit_yorum_gorsel_lisanslari.txt"), "w", encoding="utf-8").write(
+            ("Bu videoda kullanılan fotoğraflar (Wikimedia Commons):\n" + "\n".join(kredi_foto) + "\n") if kredi_foto
+            else "Bu videoda fotoğraf kullanılmamıştır; görseller özgün tasarım sahneleridir.\n")
 
     # ANA VİDEO
     parcalar = []
@@ -464,7 +572,7 @@ def uret(yol, sesadi, sadece_metin=False):
         if not b.get("giris"):
             bant = os.path.join(gecici, f"bant_{i}.png"); alt_bant(bant, f"BÖLÜM {i}", b["baslik"])
         p = os.path.join(gecici, f"s_{i + 1:03d}.mp4")
-        segment([hazir[g] for g in b["gorsel"]], b["ses"], b["sure"], p, bant, gecici); parcalar.append(p)
+        segment(b["kareler"], b["ses"], b["sure"], p, bant, gecici); parcalar.append(p)
     son = os.path.join(gecici, "son.jpg")
     baslik_karti(son, "İzlediğiniz için teşekkürler", "Abone olun • Beğenin • Yorum yazın",
                  meta.get("son_soz", "Bir sonraki hayat hikâyesinde görüşmek üzere."))
@@ -475,7 +583,7 @@ def uret(yol, sesadi, sadece_metin=False):
     # FRAGMAN (~1 dk)
     fp, _, _ = ses_sec(klasor, "fragman", meta["fragman"], sesadi)
     fd = sure(fp) + 0.8
-    fg = [hazir[g] for g in liste(meta["fragman_gorseller"])]
+    fg = [b["kareler"][0] for b in bolumler[1:]][:11] or bolumler[0]["kareler"]
     p1 = os.path.join(gecici, "f_1.mp4"); segment(fg, fp, fd, p1, gecici=gecici)
     fk = os.path.join(gecici, "f_son.jpg")
     baslik_karti(fk, ad, meta.get("yillar", ""), "Hayat hikâyesinin tamamı kanalımızda. Kaçırmamak için abone olun!")
@@ -491,8 +599,10 @@ if __name__ == "__main__":
     ap.add_argument("--hepsi", action="store_true")
     ap.add_argument("--ses", default="tr-TR-AhmetNeural")
     ap.add_argument("--sadece-metin", action="store_true")
+    ap.add_argument("--cevrimdisi", action="store_true", help="Wikimedia'ya bağlanmadan üret (tasarım sahneleri)")
     ap.add_argument("--yeniden", action="store_true", help="--hepsi ile: hazır videoları da yeniden üret")
     a = ap.parse_args()
+    CEVRIMDISI = a.cevrimdisi
     yollar = a.senaryo
     if a.hepsi:
         d = os.path.join(KOK, "senaryolar")
