@@ -3,17 +3,16 @@ then dramatic pauses inserted between words using word-boundary timings.
 Markup:  {0.4} = insert 0.4 s pause after previous word,  |  = subtitle phrase break,  *x* = red keyword,
          <slow>word</slow> = gently time-stretch that word."""
 import asyncio, edge_tts, os, re, json, subprocess, numpy as np, wave
-P=os.environ["HTTPS_PROXY"]; V="tr-TR-AhmetNeural"; SR=48000
+P=os.environ["HTTPS_PROXY"]; V="en-US-BrianMultilingualNeural"; SR=48000
 SEG={
- "A":("-3%","Mustafa Kemal Atatürk'ün, {0.25}| komaya girmeden önce söylediği *son sözü*, {0.45}| biliyor musunuz?"),
- "B1":("-6%","*8 Kasım 1938.* {0.35}| *Dolmabahçe* Sarayı."),
- "B2":("+0%","Atatürk'ün sağlığı, artık *son derece ağırlaşmıştı.*"),
- "B3":("+0%","Türkiye, *büyük önderinden* gelecek haberleri bekliyordu."),
+ "A":("-2%","Mustafa Kemal Atatürk'ün, {0.25}| komaya girmeden önce söylediği *son sözü*, {0.45}| biliyor musunuz?"),
+ "B":("-4%","*8 Kasım 1938,* {0.45}| *Dolmabahçe* Sarayı. {0.35}| Atatürk'ün sağlığı artık *son derece ağırlaşmıştı.*"),
+ "B3":("-2%","Türkiye, *büyük önderinden* gelecek haberleri bekliyordu."),
  "C1":("-2%","Yanında bulunanların aktardığına göre, {0.2}| Atatürk'ün *bilinci* giderek bulanıklaşıyordu."),
- "C2":("-6%","Çok geçmeden, {0.45}| derin bir *komaya* girecekti."),
- "D":("-6%","*Tanıklıklara göre,* {0.35}| dudaklarından dökülen *son söz,* {1.7}| <slow>Aleykümselâm</slow> {0.6}| oldu."),
+ "C2":("-4%","Çok geçmeden, {0.45}| derin bir *komaya* girecekti."),
+ "D":("-5%","*Tanıklıklara göre,* {0.35}| dudaklarından dökülen *son söz,* {1.7}| <slow>Aleykümselâm,</slow> {0.45}| oldu."),
  "E":("-3%","İki gün sonra, {0.2}| *10 Kasım 1938'de,* {0.15}| saat *dokuzu beş geçe,* {0.45}| Mustafa Kemal Atatürk, *hayata gözlerini yumdu.*"),
- "F":("-8%","Saygıyla, {0.4}| özlemle, {0.3}| ve *minnetle* anıyoruz."),
+ "F":("-6%","Saygıyla, {0.4}| özlemle, {0.3}| ve *minnetle* anıyoruz."),
 }
 def words_of(markup):
     """returns list of tokens: ('w', display_word, red, slow) / ('p', secs) / ('br',)"""
@@ -87,7 +86,7 @@ async def main():
             elif t[0]=="p":
                 # cut in the gap after word wi
                 end=bnd[wi][1]+bnd[wi][2]; nxt=bnd[wi+1][1] if wi+1<len(bnd) else end+0.2
-                cut=int(((end+nxt)/2)*SR)
+                cut=int(max(end,nxt-0.02)*SR)
                 if cut>cursor:
                     pieces.append(a[cursor:cut]); cursor=cut
                 pieces.append(np.zeros(int(t[1]*SR),np.float32)); tshift+=t[1]

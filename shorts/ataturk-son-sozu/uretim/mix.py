@@ -40,7 +40,7 @@ mus_gain=10**((-12.5 - 7*duck_amt)/20)   # -17 dB bed, -23 dB under voice
 mus=mus*mus_gain[:,None]
 # clock ticks 7.0-18.6s (quiet), and a soft low impact at 38.45 (before the word)
 tick=np.zeros(N,np.float32)
-for k,tt in enumerate(np.arange(7.2,19.8,1.0)):
+for k,tt in enumerate(np.arange(7.2,20.3,1.0)):
     i=int(tt*SR); m=int(0.03*SR); tt_=np.arange(m)/SR
     s=(np.sin(2*np.pi*3100*tt_)*0.6+np.sin(2*np.pi*1700*tt_)*0.4)*np.exp(-tt_*180)
     tick[i:i+m]+=s*(0.06 if k%2==0 else 0.045)

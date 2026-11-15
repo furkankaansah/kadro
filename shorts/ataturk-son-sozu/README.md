@@ -36,10 +36,10 @@ Yapay zekâyla üretilmiş ya da "restore edilmiş" hiçbir görsel kullanılmad
 
 ## Ses
 
-- **Seslendirme:** Microsoft'un Türkçe nöral sesi `tr-TR-AhmetNeural`, `edge-tts` ile üretildi. Her cümle bütün halinde, sesin kendi doğal perdesi ve tonlamasıyla okundu (yapay pitch değişikliği yok). Dramatik duraksamalar sonradan, kelime zaman damgaları kullanılarak kelime aralarına eklendi. "Aleykümselâm"dan önce 1,7 sn sessizlik var; kelime hafifçe yavaşlatılıp kısıldı. Atatürk'ün sesi taklit edilmedi; videoda gerçek olmayan bir ses kaydı da yok.
+- **Seslendirme:** Microsoft'un çok dilli nöral erkek sesi `en-US-BrianMultilingualNeural` (Türkçe okuyor), `edge-tts` ile üretildi. "Dolmabahçe Sarayı" doğru telaffuz edilsin diye cümleyle birlikte tek parça okutuluyor. Her cümle bütün halinde, sesin kendi doğal perdesi ve tonlamasıyla okundu (yapay pitch değişikliği yok). Dramatik duraksamalar sonradan, kelime zaman damgaları kullanılarak kelime aralarına eklendi. "Aleykümselâm"dan önce 1,7 sn sessizlik var; kelime hafifçe yavaşlatılıp kısıldı. Atatürk'ün sesi taklit edilmedi; videoda gerçek olmayan bir ses kaydı da yok.
 - **Müzik:** `uretim/music.py` ile kodla sentezlenmiş, tamamen özgün piyano ve yaylı çalgı müziği (La minör). Telif ya da Content ID riski yok. Başta hafif, 30. saniyeden sonra yükseliyor, son 10 saniyede sönüyor. Konuşma sırasında müzik otomatik olarak 7 dB kısılıyor.
 
-> **Para kazanma notu:** Edge "sesli okuma" uç noktası Microsoft'un ticari bir lisansı değildir. Kanal para kazanıyorsa aynı sesi kendi Azure Speech aboneliğinizle üretin (aynı `tr-TR-AhmetNeural`, ses birebir aynı çıkar) ya da metni gerçek bir seslendirmeni okutup `uretim/` içindeki akışla yeniden derleyin.
+> **Para kazanma notu:** Edge "sesli okuma" uç noktası Microsoft'un ticari bir lisansı değildir. Kanal para kazanıyorsa aynı sesi kendi Azure Speech aboneliğinizle üretin (aynı `en-US-BrianMultilingualNeural`, ses birebir aynı çıkar) ya da metni gerçek bir seslendirmeni okutup `uretim/` içindeki akışla yeniden derleyin.
 
 ## Tarihî not
 
