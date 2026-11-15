@@ -1,0 +1,404 @@
+{
+ "vo": {
+  "a1": 0.3,
+  "a2": 2.5,
+  "a3": 5.55,
+  "b1": 7.15,
+  "b2": 9.7,
+  "b3": 11.4,
+  "b4": 15.05,
+  "c1": 19.0,
+  "c2": 21.75,
+  "c3": 25.4,
+  "c4": 26.85,
+  "d1": 32.6,
+  "d2": 34.2,
+  "d3": 38.55,
+  "d4": 41.0,
+  "e1": 44.25,
+  "e2": 45.8,
+  "e3": 48.5,
+  "e4": 50.6,
+  "f1": 54.75,
+  "f2": 56.2,
+  "f3": 57.45
+ },
+ "subs": [
+  {
+   "t0": 0.35,
+   "t1": 2.282,
+   "text": "Mustafa Kemal Atatürk'ün..."
+  },
+  {
+   "t0": 2.55,
+   "t1": 5.402,
+   "text": "komaya girmeden önce söylediği *son sözü*..."
+  },
+  {
+   "t0": 5.6,
+   "t1": 6.921,
+   "text": "biliyor musunuz?"
+  },
+  {
+   "t0": 7.2,
+   "t1": 9.516,
+   "text": "*8 Kasım 1938*"
+  },
+  {
+   "t0": 9.75,
+   "t1": 11.179,
+   "text": "*Dolmabahçe* Sarayı"
+  },
+  {
+   "t0": 11.45,
+   "t1": 14.815,
+   "text": "Atatürk'ün sağlığı artık *son derece ağırlaşmıştı.*"
+  },
+  {
+   "t0": 15.1,
+   "t1": 18.544,
+   "text": "Türkiye, *büyük önderinden* gelecek haberleri bekliyordu."
+  },
+  {
+   "t0": 19.05,
+   "t1": 21.48,
+   "text": "Yanında bulunanların aktardığına göre..."
+  },
+  {
+   "t0": 21.8,
+   "t1": 24.552,
+   "text": "Atatürk'ün *bilinci* giderek bulanıklaşıyordu."
+  },
+  {
+   "t0": 25.45,
+   "t1": 26.629,
+   "text": "Çok geçmeden..."
+  },
+  {
+   "t0": 26.9,
+   "t1": 28.91,
+   "text": "derin bir *komaya* girecekti."
+  },
+  {
+   "t0": 32.65,
+   "t1": 33.965,
+   "text": "*Tanıklıklara göre*..."
+  },
+  {
+   "t0": 34.25,
+   "t1": 36.723,
+   "text": "dudaklarından dökülen *son söz*..."
+  },
+  {
+   "t0": 41.05,
+   "t1": 42.15,
+   "text": "...oldu."
+  },
+  {
+   "t0": 44.3,
+   "t1": 45.6,
+   "text": "İki gün sonra..."
+  },
+  {
+   "t0": 45.85,
+   "t1": 48.263,
+   "text": "*10 Kasım 1938*'de..."
+  },
+  {
+   "t0": 48.55,
+   "t1": 50.408,
+   "text": "saat *dokuzu beş geçe*..."
+  },
+  {
+   "t0": 50.65,
+   "t1": 54.309,
+   "text": "Mustafa Kemal Atatürk *hayata gözlerini yumdu.*"
+  },
+  {
+   "t0": 54.8,
+   "t1": 55.972,
+   "text": "Saygıyla...",
+   "y": 1490
+  },
+  {
+   "t0": 56.25,
+   "t1": 57.35,
+   "text": "özlemle...",
+   "y": 1490
+  },
+  {
+   "t0": 57.5,
+   "t1": 59.191,
+   "text": "ve *minnetle* anıyoruz.",
+   "y": 1490
+  }
+ ],
+ "titles": [
+  {
+   "t0": 0.0,
+   "t1": 6.95,
+   "text": "ATATÜRK'ÜN|*SON SÖZÜ* NEYDİ?",
+   "font": "Cinzel_900Black.ttf",
+   "size": 104,
+   "y": 330,
+   "spacing": 1.12,
+   "fade_in": 0.01,
+   "fade_out": 0.45,
+   "anim": "slowgrow"
+  },
+  {
+   "t0": 7.25,
+   "t1": 18.5,
+   "text": "8 KASIM 1938|— DOLMABAHÇE —",
+   "font": "Cinzel_700Bold.ttf",
+   "size": 78,
+   "y": 300,
+   "spacing": 1.25,
+   "fade_in": 0.8,
+   "fade_out": 0.6,
+   "track": 4
+  },
+  {
+   "t0": 38.45,
+   "t1": 43.7,
+   "text": "ALEYKÜMSELÂM",
+   "font": "PlayfairDisplay_700Bold.ttf",
+   "size": 118,
+   "y": 900,
+   "fade_in": 1.1,
+   "fade_out": 1.2,
+   "anim": "slowgrow"
+  },
+  {
+   "t0": 45.85,
+   "t1": 54.25,
+   "text": "10 KASIM 1938|*09.05*",
+   "font": "Cinzel_700Bold.ttf",
+   "size": 86,
+   "y": 300,
+   "spacing": 1.25,
+   "fade_in": 0.8,
+   "fade_out": 0.5,
+   "track": 4
+  },
+  {
+   "t0": 55.0,
+   "t1": 60.0,
+   "text": "1881 ∞ 1938",
+   "font": "PlayfairDisplay_700Bold.ttf",
+   "size": 96,
+   "y": 640,
+   "fade_in": 1.0,
+   "fade_out": 0.01
+  },
+  {
+   "t0": 56.6,
+   "t1": 60.0,
+   "text": "*SONSUZA DEK ATATÜRK*",
+   "font": "Cinzel_900Black.ttf",
+   "size": 72,
+   "y": 760,
+   "fade_in": 1.0,
+   "fade_out": 0.01
+  }
+ ],
+ "sub_y": 1330,
+ "shots": [
+  {
+   "img": "Ataturk1930s.jpg",
+   "t0": 0,
+   "t1": 7.4,
+   "c0": [
+    0.5,
+    0.3
+   ],
+   "c1": [
+    0.53,
+    0.2
+   ],
+   "z0": 1.0,
+   "z1": 1.9,
+   "xout": 0.5
+  },
+  {
+   "img": "Dolma_Bagtche_(i.e._Dolmabahçe),_palace_résidence_de_l'ex-calife_à_Constantinople_(CNews)_-_btv1b53131462n.jpg",
+   "crop": [
+    0.035,
+    0.13,
+    0.965,
+    0.83
+   ],
+   "t0": 6.9,
+   "t1": 12.7,
+   "mode": "fit",
+   "z0": 1.7,
+   "z1": 2.1,
+   "p0": 0.2,
+   "p1": 0.75,
+   "cy": 0.52,
+   "xin": 0.5,
+   "xout": 0.6
+  },
+  {
+   "img": "Dolmabahçe_Palace,_Constantinople,_Turkey_LOC_4210464767.jpg",
+   "crop": [
+    0.01,
+    0.02,
+    0.99,
+    0.6
+   ],
+   "t0": 12.1,
+   "t1": 19.2,
+   "mode": "fit",
+   "z0": 2.2,
+   "z1": 1.6,
+   "p0": 0.75,
+   "p1": 0.6,
+   "cy": 0.52,
+   "xin": 0.6,
+   "xout": 0.6
+  },
+  {
+   "img": "Ataturk_visited_Adana.jpg",
+   "t0": 18.6,
+   "t1": 25.6,
+   "c0": [
+    0.42,
+    0.32
+   ],
+   "c1": [
+    0.42,
+    0.2
+   ],
+   "z0": 1.15,
+   "z1": 1.6,
+   "xin": 0.6,
+   "xout": 0.7
+  },
+  {
+   "img": "Atatürk_Kemal.jpg",
+   "t0": 24.9,
+   "t1": 32.2,
+   "c0": [
+    0.47,
+    0.4
+   ],
+   "c1": [
+    0.52,
+    0.3
+   ],
+   "z0": 1.1,
+   "z1": 1.5,
+   "xin": 0.7,
+   "dim": [
+    27,
+    32,
+    0.55
+   ]
+  },
+  {
+   "img": "Atatürk_Kemal.jpg",
+   "t0": 32.2,
+   "t1": 36.0,
+   "c0": [
+    0.52,
+    0.3
+   ],
+   "c1": [
+    0.53,
+    0.26
+   ],
+   "z0": 1.5,
+   "z1": 1.62,
+   "gain": 0.55,
+   "black_out": 3.6
+  },
+  {
+   "img": "Dolma_Bagtche_(i.e._Dolmabahçe),_palace_résidence_de_l'ex-calife_à_Constantinople_(CNews)_-_btv1b53131462n.jpg",
+   "crop": [
+    0.035,
+    0.13,
+    0.965,
+    0.83
+   ],
+   "t0": 44.0,
+   "t1": 48.1,
+   "mode": "fit",
+   "z0": 2.4,
+   "z1": 2.0,
+   "p0": 0.55,
+   "p1": 0.45,
+   "cy": 0.52,
+   "black_in": 1.0,
+   "xout": 0.6
+  },
+  {
+   "img": "Ataturk-1938-funeral-public.jpg",
+   "t0": 47.5,
+   "t1": 51.3,
+   "c0": [
+    0.64,
+    0.45
+   ],
+   "c1": [
+    0.6,
+    0.42
+   ],
+   "z0": 1.0,
+   "z1": 1.15,
+   "xin": 0.6,
+   "xout": 0.6
+  },
+  {
+   "img": "Atatürk's_Funeral,_November_19,_1938._(16221077935).jpg",
+   "crop": [
+    0.03,
+    0.03,
+    0.98,
+    0.95
+   ],
+   "t0": 50.7,
+   "t1": 54.9,
+   "c0": [
+    0.62,
+    0.5
+   ],
+   "c1": [
+    0.66,
+    0.45
+   ],
+   "z0": 1.05,
+   "z1": 1.3,
+   "xin": 0.6,
+   "xout": 0.6
+  },
+  {
+   "img": "Mustafa_Kemal_Atatürk_(white_balance).png",
+   "t0": 54.3,
+   "t1": 60,
+   "mode": "fit",
+   "z0": 1.0,
+   "z1": 1.07,
+   "p0": 0.5,
+   "p1": 0.5,
+   "cy": 0.83,
+   "xin": 0.6,
+   "gain": 0.82
+  }
+ ],
+ "flag": "Flag_of_Turkey.svg.png",
+ "flag_on": [
+  55.0,
+  57.2,
+  0.95,
+  0.15
+ ],
+ "flag_h": 0.2,
+ "global_fade": [
+  [
+   59.55,
+   60.0,
+   "out"
+  ]
+ ]
+}
