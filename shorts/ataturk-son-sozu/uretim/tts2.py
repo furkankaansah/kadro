@@ -11,8 +11,8 @@ SEG={
  "C1":("-2%","Yanında bulunanların aktardığına göre, {0.2}| Atatürk'ün *bilinci* giderek bulanıklaşıyordu."),
  "C2":("-4%","Çok geçmeden, {0.45}| derin bir *komaya* girecekti."),
  "D":("-5%","*Tanıklıklara göre,* {0.35}| dudaklarından dökülen *son söz,* {1.7}| <slow>Aleykümselâm,</slow> {0.45}| oldu."),
- "E":("-3%","İki gün sonra, {0.2}| *10 Kasım 1938'de,* {0.15}| saat *dokuzu beş geçe,* {0.45}| Mustafa Kemal Atatürk, *hayata gözlerini yumdu.*"),
- "F":("-6%","Saygıyla, {0.4}| özlemle, {0.3}| ve *minnetle* anıyoruz."),
+ "E":("+0%","İki gün sonra, {0.15}| *10 Kasım 1938'de,* {0.1}| saat *dokuzu beş geçe,* {0.3}| Mustafa Kemal Atatürk, *hayata gözlerini yumdu.*"),
+ "F":("-3%","Saygıyla, {0.25}| özlemle, {0.15}| ve *minnetle* anıyoruz."),
 }
 def words_of(markup):
     """returns list of tokens: ('w', display_word, red, slow) / ('p', secs) / ('br',)"""

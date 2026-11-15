@@ -28,6 +28,11 @@ vo=vo+0.06*fftconvolve(vo,ir)[:N].astype(np.float32)
 env=np.sqrt(fftconvolve(vo**2,np.ones(int(0.02*SR))/int(0.02*SR),'same').clip(1e-10))
 db=20*np.log10(env+1e-9); over=np.maximum(0,db+20); gr=10**(-(over*(1-1/3))/20)
 vo=vo*gr; vo/=np.abs(vo).max()+1e-9; vo*=0.89
+# real 1933 recording of Atatürk (10th anniversary speech), level-matched to narration
+cfg_all=json.load(open("timeline.json"))
+ar=rd("vo2/ataturk_1933.wav"); vr=np.sqrt((vo[np.abs(vo)>0.02]**2).mean()); ar=ar*(vr/np.sqrt((ar[np.abs(ar)>0.02]**2).mean()))*0.95
+i=int(cfg_all["ata"]*SR); vo[i:i+len(ar)]+=ar[:N-i]
+vo/=max(1.0,np.abs(vo).max()/0.95)
 # music + ducking
 mus=rd("music.wav")
 venv=np.sqrt(fftconvolve(vo**2,np.ones(int(0.05*SR))/int(0.05*SR),'same').clip(0))

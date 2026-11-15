@@ -14,7 +14,7 @@
 | 00:19–00:32 | Adana ziyareti (1938) ve geç dönem portresi, giderek kararır; müzik yükselir | — |
 | 00:32–00:44 | Portre karanlığa gömülür; 1,8 sn sessizlik, ardından | **ALEYKÜMSELÂM** |
 | 00:44–00:54 | Dolmabahçe; Kasım 1938'de Dolmabahçe önünde yas tutanlar; Türk bayrağına sarılı tabut (19 Kasım 1938) | 10 KASIM 1938 · 09.05 |
-| 00:54–01:00 | Kalpaklı portre, üstte yavaşça beliren dalgalanan Türk bayrağı | 1881 ∞ 1938 · SONSUZA DEK ATATÜRK |
+| 00:51–01:00 | Kalpaklı portre, üstte yavaşça beliren dalgalanan Türk bayrağı; finalde **Atatürk'ün gerçek sesi**: "Ne mutlu Türk'üm diyene!" (10. Yıl Nutku, 29 Ekim 1933) | 1881 ∞ 1938 · SONSUZA DEK ATATÜRK · "Atatürk'ün gerçek sesi · 10. Yıl Nutku, 1933" |
 
 Altyazılar seslendirmeyle cümle cümle eşlenmiştir (beyaz, önemli kelimeler kırmızı).
 
@@ -30,13 +30,14 @@ Altyazılar seslendirmeyle cümle cümle eşlenmiştir (beyaz, önemli kelimeler
 | Ataturk-1938-funeral-public.jpg | Kasım 1938, MEB "Fotoğraflarla Atatürk" | PD-Turkey |
 | Atatürk's Funeral, November 19, 1938. (16221077935).jpg | 19 Kasım 1938, SALT Araştırma | No known copyright restrictions |
 | Mustafa Kemal Atatürk (white balance).png | 1923 (yalnızca beyaz ayarı düzeltilmiş) | PD-US-expired |
+| Mustafa Kemal's speech at the 10th Anniversary of the Republic of Turkey.ogg (ses, 420,4–423,3 sn) | 29 Ekim 1933, 10. Yıl Nutku | PD-TR |
 | Flag of Turkey.svg | Resmî ölçülerde Türk bayrağı | Kamu malı |
 
 Yapay zekâyla üretilmiş ya da "restore edilmiş" hiçbir görsel kullanılmadı. Görüntülere yalnızca siyah-beyaz film dokusu, kırpma, kamera hareketi ve geçiş eklendi.
 
 ## Ses
 
-- **Seslendirme:** Microsoft'un çok dilli nöral erkek sesi `en-US-BrianMultilingualNeural` (Türkçe okuyor), `edge-tts` ile üretildi. "Dolmabahçe Sarayı" doğru telaffuz edilsin diye cümleyle birlikte tek parça okutuluyor. Her cümle bütün halinde, sesin kendi doğal perdesi ve tonlamasıyla okundu (yapay pitch değişikliği yok). Dramatik duraksamalar sonradan, kelime zaman damgaları kullanılarak kelime aralarına eklendi. "Aleykümselâm"dan önce 1,7 sn sessizlik var; kelime hafifçe yavaşlatılıp kısıldı. Atatürk'ün sesi taklit edilmedi; videoda gerçek olmayan bir ses kaydı da yok.
+- **Seslendirme:** Microsoft'un çok dilli nöral erkek sesi `en-US-BrianMultilingualNeural` (Türkçe okuyor), `edge-tts` ile üretildi. "Dolmabahçe Sarayı" doğru telaffuz edilsin diye cümleyle birlikte tek parça okutuluyor. Her cümle bütün halinde, sesin kendi doğal perdesi ve tonlamasıyla okundu (yapay pitch değişikliği yok). Dramatik duraksamalar sonradan, kelime zaman damgaları kullanılarak kelime aralarına eklendi. "Aleykümselâm"dan önce 1,7 sn sessizlik var; kelime hafifçe yavaşlatılıp kısıldı. Atatürk'ün sesi hiçbir yerde taklit edilmedi ya da yapay olarak üretilmedi. Videoda duyulan tek Atatürk sesi, 1933 tarihli gerçek kayıttan kısa bir bölüm.
 - **Müzik:** `uretim/music.py` ile kodla sentezlenmiş, tamamen özgün piyano ve yaylı çalgı müziği (La minör). Telif ya da Content ID riski yok. Başta hafif, 30. saniyeden sonra yükseliyor, son 10 saniyede sönüyor. Konuşma sırasında müzik otomatik olarak 7 dB kısılıyor.
 
 > **Para kazanma notu:** Edge "sesli okuma" uç noktası Microsoft'un ticari bir lisansı değildir. Kanal para kazanıyorsa aynı sesi kendi Azure Speech aboneliğinizle üretin (aynı `en-US-BrianMultilingualNeural`, ses birebir aynı çıkar) ya da metni gerçek bir seslendirmeni okutup `uretim/` içindeki akışla yeniden derleyin.
