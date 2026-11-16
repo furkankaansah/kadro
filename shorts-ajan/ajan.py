@@ -8,6 +8,8 @@ Kullanım:
   python ajan.py --konu "Mars'ta su" # konuyu sen ver, ajan araştırıp yapsın
   python ajan.py --plan cikti/.../plan.json   # senaryoyu elle düzelttikten sonra yeniden kurgula
   python ajan.py --deneme           # internet/API olmadan montajı dene
+  python ajan.py --youtube-baglan   # kanala bir kez izin ver (otomatik yükleme için)
+  python ajan.py --yukle cikti/...  # hazır videoyu yükle  (--yukle hepsi = yüklenmemiş tümü)
 """
 import argparse
 import json
@@ -43,7 +45,8 @@ def _gecmis_ekle(konu: str) -> None:
     GECMIS.write_text(json.dumps(g[-200:], ensure_ascii=False, indent=1), encoding="utf-8")
 
 
-def yukleme_notu(plan: beyin.ShortPlani, sure: float, klip_kaynaklari: list[str]) -> str:
+def yayin_bilgisi(plan: beyin.ShortPlani) -> tuple[str, str, list[str]]:
+    """YouTube'a gidecek başlık, açıklama (hashtag'li) ve etiketler."""
     etiketler = [h.lstrip("#").replace(" ", "") for h in plan.hashtagler if h.strip()]
     if "shorts" not in [e.lower() for e in etiketler]:
         etiketler.append("shorts")
@@ -52,6 +55,14 @@ def yukleme_notu(plan: beyin.ShortPlani, sure: float, klip_kaynaklari: list[str]
     if ayarlar.KANAL_ADI:
         imza = f"\n\n🔔 {ayarlar.KANAL_ADI}: gündem 60 saniyede. Her gün yeni Shorts için abone ol."
     aciklama = f"{plan.aciklama.strip()}{imza}\n\n{hashtag}"
+    if plan.kaynaklar:
+        aciklama += "\n\nKaynaklar:\n" + "\n".join(plan.kaynaklar[:5])
+    tags = list(dict.fromkeys(([ayarlar.KANAL_ADI] if ayarlar.KANAL_ADI else []) + plan.etiketler))
+    return plan.baslik.strip(), aciklama, tags
+
+
+def yukleme_notu(plan: beyin.ShortPlani, sure: float, klip_kaynaklari: list[str]) -> str:
+    _, aciklama, _ = yayin_bilgisi(plan)
     kaynak = "\n".join(f"- {k}" for k in plan.kaynaklar) or "- (yok)"
     klipler = "\n".join(f"- {k}" for k in dict.fromkeys(klip_kaynaklari) if k) or "- (animasyonlu arka plan kullanıldı)"
     return f"""# YÜKLEMEYE HAZIR ✅
@@ -144,6 +155,27 @@ def uret(plan: beyin.ShortPlani, klasor: Path) -> Path:
     return video
 
 
+def klasor_yukle(klasor: Path, etkilesimli: bool = False) -> bool:
+    """Bir çıktı klasörünü YouTube'a yükler. Zaten yüklendiyse atlar."""
+    from ajan import youtube
+
+    kayit = klasor / "yuklendi.json"
+    if kayit.exists():
+        print(f"  – Zaten yüklendi: {json.loads(kayit.read_text(encoding='utf-8'))['url']}")
+        return False
+    video, plan_dosyasi = klasor / "video.mp4", klasor / "plan.json"
+    if not video.exists() or not plan_dosyasi.exists():
+        print(f"  ✗ {klasor.name}: video.mp4 veya plan.json yok")
+        return False
+    baslik, aciklama, etiketler = yayin_bilgisi(beyin.plan_yukle(plan_dosyasi))
+    print(f"  📤 YouTube'a yükleniyor: {baslik}")
+    sonuc = youtube.yukle(video, baslik, aciklama, etiketler, etkilesimli=etkilesimli)
+    kayit.write_text(json.dumps(sonuc, ensure_ascii=False, indent=2), encoding="utf-8")
+    zaman = "hemen yayında" if sonuc["yayin_zamani"] == "hemen" else f"yayın zamanı {sonuc['yayin_zamani'][:16]}"
+    print(f"  ✅ {sonuc['url']}  ({sonuc['gizlilik']}, {zaman})")
+    return True
+
+
 def ornek_plan() -> beyin.ShortPlani:
     S = beyin.Sahne
     return beyin.ShortPlani(
@@ -170,7 +202,23 @@ def main() -> None:
     ap.add_argument("--konu", help="belirli bir konu (boş = trendlerden seç)")
     ap.add_argument("--plan", help="var olan plan.json'dan yeniden kurgula")
     ap.add_argument("--deneme", action="store_true", help="API/internet olmadan montaj denemesi")
+    ap.add_argument("--yukle", metavar="KLASOR", help="hazır bir klasörü YouTube'a yükle ('hepsi' = yüklenmemiş tümü)")
+    ap.add_argument("--youtube-baglan", action="store_true", help="YouTube kanalına bir kez izin ver")
     a = ap.parse_args()
+
+    if a.youtube_baglan:
+        from ajan import youtube
+        print(f"✅ Bağlandı: {youtube.baglan()}  (artık videolar otomatik yüklenebilir)")
+        return
+    if a.yukle:
+        hedefler = (sorted(k for k in ayarlar.CIKTI.iterdir() if (k / "video.mp4").exists())
+                    if a.yukle == "hepsi" else [Path(a.yukle)])
+        for k in hedefler:
+            try:
+                klasor_yukle(k, etkilesimli=True)
+            except Exception as e:
+                print(f"  ✗ {k.name}: {e}")
+        return
 
     if not shutil.which("ffmpeg"):
         sys.exit("ffmpeg bulunamadı. Kurulum: Windows 'winget install ffmpeg', Mac 'brew install ffmpeg'.")
@@ -195,6 +243,7 @@ def main() -> None:
     adet = 1 if a.konu else a.adet
 
     print(f"🎞  3/3 {adet} short üretiliyor…")
+    otomatik = ayarlar.al("OTOMATIK_YUKLE").lower() in ("evet", "1", "true", "yes")
     teslim = []
     for i in range(1, adet + 1):
         try:
@@ -206,6 +255,11 @@ def main() -> None:
             uret(plan, klasor)
             _gecmis_ekle(plan.konu)
             teslim.append(klasor)
+            if otomatik:
+                try:
+                    klasor_yukle(klasor)
+                except Exception as e:
+                    print(f"  ⚠ Video hazır ama yüklenemedi: {e}\n    Sonra dene: python ajan.py --yukle \"{klasor}\"")
         except Exception as e:
             print(f"  ✗ Short {i} üretilemedi: {e}")
 

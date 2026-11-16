@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 .cache/
 *.mp4
+client_secret.json
+youtube_token.json

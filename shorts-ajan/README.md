@@ -22,8 +22,10 @@ cikti/2026-11-16_1930_01_bu-hayvanin-3-kalbi-var/
 | 5. Görüntü | Pexels'ten her sahneye uygun **telifsiz dikey** stok video (anahtar yoksa animasyonlu renkli arka plan) |
 | 6. Kurgu | Dikey kırpma + hafif kaydırma, kelime kelime sarı vurgulu büyük altyazı, sahne vurgu yazıları, üstte ilerleme çubuğu, müzik (konuşmada otomatik kısılır), -14 LUFS ses |
 | 7. Teslim | `video.mp4` + `kapak.jpg` + `YUKLEME.md` |
+| 8. Yükleme (isteğe bağlı) | Resmi YouTube API ile kanala yükler, istersen 12:30 / 19:30 gibi saatlere zamanlar |
 
 > 📺 Kanal görselleri ve YouTube ayarları: [`kanal/KANAL_KURULUM.md`](kanal/KANAL_KURULUM.md)
+> 📤 Kanala otomatik yükleme: [`kanal/YOUTUBE_BAGLANTI.md`](kanal/YOUTUBE_BAGLANTI.md)
 
 ## Kurulum (bir kez, ~5 dk)
 
