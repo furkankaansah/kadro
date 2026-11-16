@@ -23,6 +23,8 @@ cikti/2026-11-16_1930_01_bu-hayvanin-3-kalbi-var/
 | 6. Kurgu | Dikey kırpma + hafif kaydırma, kelime kelime sarı vurgulu büyük altyazı, sahne vurgu yazıları, üstte ilerleme çubuğu, müzik (konuşmada otomatik kısılır), -14 LUFS ses |
 | 7. Teslim | `video.mp4` + `kapak.jpg` + `YUKLEME.md` |
 
+> 📺 Kanal görselleri ve YouTube ayarları: [`kanal/KANAL_KURULUM.md`](kanal/KANAL_KURULUM.md)
+
 ## Kurulum (bir kez, ~5 dk)
 
 1. **API anahtarları** (ikisi de birkaç dakika):
