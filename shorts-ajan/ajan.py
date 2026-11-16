@@ -48,7 +48,10 @@ def yukleme_notu(plan: beyin.ShortPlani, sure: float, klip_kaynaklari: list[str]
     if "shorts" not in [e.lower() for e in etiketler]:
         etiketler.append("shorts")
     hashtag = " ".join(f"#{h}" for h in etiketler[:5])
-    aciklama = f"{plan.aciklama.strip()}\n\n{hashtag}"
+    imza = ""
+    if ayarlar.KANAL_ADI:
+        imza = f"\n\n🔔 {ayarlar.KANAL_ADI}: gündem 60 saniyede. Her gün yeni Shorts için abone ol."
+    aciklama = f"{plan.aciklama.strip()}{imza}\n\n{hashtag}"
     kaynak = "\n".join(f"- {k}" for k in plan.kaynaklar) or "- (yok)"
     klipler = "\n".join(f"- {k}" for k in dict.fromkeys(klip_kaynaklari) if k) or "- (animasyonlu arka plan kullanıldı)"
     return f"""# YÜKLEMEYE HAZIR ✅

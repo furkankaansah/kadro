@@ -30,6 +30,8 @@ MODEL = "claude-opus-5-5"
 DIL = al("KANAL_DILI", "tr")
 ULKE = al("ULKE", "TR")
 NIS = al("KANAL_NISI")
+KANAL_ADI = al("KANAL_ADI")
+KANAL_KULLANICI = al("KANAL_KULLANICI")
 SES = al("SES", "tr-TR-AhmetNeural" if DIL == "tr" else "en-US-AndrewNeural")
 SES_HIZI = al("SES_HIZI", "+8%")
 FONT = al("ALTYAZI_FONT", "Arial Black")

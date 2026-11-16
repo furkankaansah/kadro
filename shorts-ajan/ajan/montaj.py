@@ -61,6 +61,7 @@ def altyazi_yaz(parcalar: list[Parca], vurgular: list[str], hedef: Path) -> None
         "Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding",
         f"Style: Alt,{f},96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,1,0,1,7,4,2,70,70,640,1",
         f"Style: Vurgu,{f},120,&H0000D4FF,&H0000D4FF,&H00000000,&H96000000,-1,0,0,0,100,100,2,0,1,8,5,8,60,60,330,1",
+        f"Style: Imza,{f},44,&H60FFFFFF,&H60FFFFFF,&H90000000,&H00000000,-1,0,0,0,100,100,1,0,1,3,0,2,60,60,520,1",
         "", "[Events]", "Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text",
     ]
     tum = [k for p in parcalar for k in p.kelimeler]
@@ -95,6 +96,9 @@ def altyazi_yaz(parcalar: list[Parca], vurgular: list[str], hedef: Path) -> None
             satirlar.append(
                 f"Dialogue: 1,{_ts(p.bas)},{_ts(p.son + BOSLUK)},Vurgu,,0,0,0,,"
                 r"{\fad(120,120)\t(0,180,\fscx115\fscy115)\t(180,320,\fscx100\fscy100)}" + _temiz(_buyuk(v)))
+    imza = ayarlar.KANAL_KULLANICI or ayarlar.KANAL_ADI
+    if imza and tum:
+        satirlar.append(f"Dialogue: 2,{_ts(0)},{_ts(tum[-1].son + 1)},Imza,,0,0,0,,{_temiz(imza)}")
     hedef.write_text("\n".join(satirlar) + "\n", encoding="utf-8")
 
 
