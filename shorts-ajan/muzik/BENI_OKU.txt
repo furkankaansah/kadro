@@ -1,0 +1,5 @@
+Bu klasöre TELİFSİZ arka plan müziği (.mp3) koyarsan ajan her videoya rastgele birini
+kısık sesle (konuşma sırasında otomatik alçalarak) ekler.
+Güvenli kaynak: YouTube Studio > Ses Kitaplığı (Audio Library) -> "Atıf gerekmez" olanlar.
+Boş bırakırsan video sadece seslendirmeyle çıkar (sorun değil; YouTube'a yüklerken
+Shorts editöründen trend bir ses de ekleyebilirsin).
