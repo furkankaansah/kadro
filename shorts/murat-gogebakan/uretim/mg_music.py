@@ -1,11 +1,13 @@
 import numpy as np, wave, sys
 OUT=sys.argv[1] if len(sys.argv)>1 else 'music.wav'
-SR=48000; T=60.0; N=int(SR*T)
+SR=48000; T=float(__import__('os').environ.get('DUR',60)); N=int(SR*T)
 rng=np.random.default_rng(7)
 L=np.zeros(N); R=np.zeros(N)
 def mtof(m): return 440*2**((m-69)/12)
 def add(sig,start,pan=0.0,gain=1.0):
-    i=int(start*SR); j=min(N,i+len(sig)); s=sig[:j-i]*gain
+    i=int(start*SR)
+    if i>=N: return
+    j=min(N,i+len(sig)); s=sig[:j-i]*gain
     L[i:j]+=s*np.sqrt(0.5*(1-pan)); R[i:j]+=s*np.sqrt(0.5*(1+pan))
 def piano(m,dur=4.0,vel=0.6):
     f=mtof(m); n=int(dur*SR); t=np.arange(n)/SR; s=np.zeros(n)
@@ -30,7 +32,12 @@ def strings(m,dur,att=1.6,rel=1.8):
     env=np.minimum(1,t/att)*np.minimum(1,(dur-t)/rel).clip(0,1)
     return s*env/6
 Dm=[38,50,53,57]; Bb=[34,50,53,58]; F=[41,53,57,60]; C=[36,52,55,60]; Gm=[43,50,55,58]; A=[45,52,57,61]; Am=[45,52,57,60]
-prog=[(0,c) for c in [Dm,Bb,F,C, Dm,Gm,A,Dm, Bb,C,Am,Dm, Gm,A,Dm,Dm]]
+base=[Dm,Bb,F,C, Dm,Gm,A,Dm, Bb,C,Am,Dm, Gm,A,Dm,Dm]
+import math
+nb=math.ceil(T/4)+1
+seq=base[:12]+(base[4:12]*10)
+seq=seq[:max(0,nb-4)]+[Gm,A,Dm,Dm]
+prog=[(0,c) for c in seq]
 BAR=4.0
 melody={
  2:[(0,69,2),(2,72,1),(3,70,1)], 3:[(0,67,3),(3,69,1)],
@@ -48,16 +55,18 @@ for b,(root,ch) in enumerate(prog):
         add(piano(m,3.4,0.34+0.08*(k==0)),st,pan=-0.25+0.1*k,gain=0.45)
     # strings pad from bar 2
     if b>=4:
-        g=0.07 if b<8 else (0.16 if b<13 else 0.10)
+        g=0.07 if t0<T*0.13 else (0.16 if t0<T*0.82 else 0.10)
         for m in ch[1:]:
             add(strings(m,BAR+1.2),t0-0.2,pan=rng.uniform(-0.5,0.5),gain=g)
         add(strings(ch[0]-12 if ch[0]>40 else ch[0],BAR+1.2),t0-0.2,gain=g*0.9)  # cello/bass
-    if b in melody:
-        for beat,m,ln in melody[b]:
+    mb = b if b < 12 else (b-12)%8+4
+    if b>=len(prog)-4: mb = 12+(b-(len(prog)-4))
+    if mb in melody:
+        for beat,m,ln in melody[mb]:
             add(piano(m,ln+1.6,0.55),t0+beat,pan=0.15,gain=0.55)
         # violin doubling melody an octave lower from bar 8, swell
-        if 8<=b<=13:
-            for beat,m,ln in melody[b]:
+        if 8<=mb<=13 and b>=8:
+            for beat,m,ln in melody[mb]:
                 add(strings(m,ln+0.5,att=0.5,rel=0.6),t0+beat,pan=0.3,gain=0.12)
 # Single soft low note at title and at the key moment
 add(piano(26,6,0.6),0.0,gain=0.5); add(piano(38,6,0.45),0.0,gain=0.35)
@@ -74,7 +83,7 @@ wL=reverb(L,1); wR=reverb(R,2)
 L2=0.72*L+0.45*wL; R2=0.72*R+0.45*wR
 # dynamics: soft until 30s, swell 30-48, sustain, fade last 10s
 t=np.arange(N)/SR
-env=np.interp(t,[0,3,24,32,44,52,58.5,60],[0.6,0.6,0.7,0.85,1.0,0.9,0.35,0.0])
+env=np.interp(t,np.array([0,3,24,32,44,52,58.5,60])*T/60,[0.6,0.6,0.7,0.85,1.0,0.9,0.35,0.0])
 L2*=env; R2*=env
 st=np.stack([L2,R2],1); st/=np.abs(st).max()*1.12
 st=np.tanh(st*1.2)/np.tanh(1.2)
@@ -90,7 +99,7 @@ for _ in range(2600):
     d=np.sin(2*np.pi*rr.uniform(1500,5000)*tt)*np.exp(-tt*rr.uniform(150,400))*rr.uniform(0.2,1)
     ch=int(rr.integers(0,2)); drops[i:i+L_,ch]+=d
 rain=bed/np.abs(bed).max()*0.22+drops/np.abs(drops).max()*0.10
-rain_env=np.interp(t,[0,1.5,25,36,52,57,60],[0.9,0.9,0.5,0.9,0.6,1.2,0.0])[:,None]
+rain_env=np.interp(t,np.array([0,1.5,25,36,52,57,60])*T/60,[0.9,0.9,0.5,0.9,0.6,1.2,0.0])[:,None]
 st=st+rain*rain_env
 st/=np.abs(st).max()*1.05
 with wave.open(OUT,"wb") as w:

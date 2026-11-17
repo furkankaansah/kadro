@@ -1,5 +1,5 @@
-import numpy as np, wave, json, subprocess
-SR=48000; N=SR*60
+import numpy as np, wave, json, subprocess, os
+SR=48000; N=int(SR*float(os.environ.get('DUR',60)))
 import os
 TL=os.environ.get("TL","timeline.json"); P=os.environ.get("VODIR","vo2"); MUS=os.environ.get("MUSIC","music.wav"); OUTW=os.environ.get("MIXOUT","work/mix_pre.wav")
 tl=json.load(open(TL))["vo"]

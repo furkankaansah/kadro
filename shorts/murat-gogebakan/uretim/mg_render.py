@@ -6,7 +6,8 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-W, H, FPS, DUR = 1080, 1920, 30, 60.0
+W, H, FPS = 1080, 1920, 30
+DUR = float(os.environ.get('DUR', 60))
 N = int(FPS * DUR)
 FONT = lambda f, s: ImageFont.truetype(os.path.join(ROOT, "fonts", f), s)
 RED = (227, 10, 23)

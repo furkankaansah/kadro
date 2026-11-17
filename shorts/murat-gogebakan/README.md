@@ -1,8 +1,8 @@
-# Hayat İşte… — Murat Göğebakan (60 sn Shorts / Reels)
+# Hayat İşte… — Murat Göğebakan (2:02 Shorts / Reels)
 
-**Dosya:** `murat-gogebakan-hayat-iste.mp4` — 1080×1920 (9:16), 30 fps, 60,0 sn, H.264 + AAC, -14 LUFS, filigransız.
+**Dosya:** `murat-gogebakan-hayat-iste.mp4` — 1080×1920 (9:16), 30 fps, 122 sn (YouTube Shorts ve Instagram Reels 3 dakikaya kadar kabul ediyor), H.264 + AAC, -14 LUFS, filigransız.
 
-- **Seslendirme:** `en-US-AndrewMultilingualNeural` (Türkçe, daha sıcak/duygusal ton), yavaş tempo; duraksamalar kelime aralarına eklendi. Hikâye: ilk kanser dönemi, ikinci eşin 208 günün 3 gününde yanında olduğu iddiası ("basına yansıyan iddialara göre"), ikinci kanserde yanında olan ilk eşi.
+- **Seslendirme:** `en-US-AndrewMultilingualNeural` (Türkçe, daha sıcak/duygusal ton), yavaş tempo; duraksamalar kelime aralarına eklendi. Hikâye: Mardin'de doğan çocuk, ilk evlilik sonrası yeni aşk, ilk kanser dönemi, ikinci eşin 208 günün 3 gününde yanında olduğu iddiası ("basına yansıyan iddialara göre"), ikinci kanserde yanında olan ilk eşi, 31 Temmuz 2014'te 45 yaşında vefatı.
 - **Müzik:** Kodla üretilmiş özgün piyano + yaylılar (Re minör) ve sentez yağmur sesi; telif yok.
 - **Görüntü:** Yalnızca Murat Göğebakan'ın mezar taşı fotoğrafı; portre, isim, gitar, sol anahtarı ve kitabe yakın planları. Koyu mavi-gri ton, yavaş kamera hareketi, yağmur efekti.
 
