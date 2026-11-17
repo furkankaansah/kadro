@@ -1,245 +1,245 @@
 {
  "vo": {
   "A": 0.1,
-  "A2": 13.82,
-  "B": 21.44,
-  "C": 37.92,
-  "C2": 57.77,
-  "D": 65.94,
-  "D2": 81.38,
-  "D3": 95.31,
-  "E": 110.66
+  "A2": 12.81,
+  "B": 19.97,
+  "C": 36.99,
+  "C2": 57.21,
+  "D": 64.96,
+  "D2": 79.82,
+  "D3": 93.38,
+  "E": 109.01
  },
  "subs": [
   {
    "t0": 0.12,
-   "t1": 2.753,
+   "t1": 2.97,
    "text": "Bir zamanlar onun da bir yuvası vardı…"
   },
   {
-   "t0": 3.5,
-   "t1": 5.508,
+   "t0": 3.528,
+   "t1": 5.332,
    "text": "Bir eşi, bir evladı,"
   },
   {
-   "t0": 5.865,
-   "t1": 7.723,
+   "t0": 5.553,
+   "t1": 7.357,
    "text": "birlikte kurulmuş *hayalleri…*"
   },
   {
-   "t0": 8.544,
-   "t1": 10.158,
+   "t0": 7.987,
+   "t1": 9.506,
    "text": "Ama bazı hikâyeler,"
   },
   {
-   "t0": 10.551,
-   "t1": 13.388,
+   "t0": 9.79,
+   "t1": 12.382,
    "text": "verilen *sözlerin bittiği yerde* yarım kalır."
   },
   {
-   "t0": 13.84,
-   "t1": 16.097,
+   "t0": 12.83,
+   "t1": 15.167,
    "text": "Mardin'de doğan bir çocuktu o."
   },
   {
-   "t0": 16.341,
-   "t1": 18.221,
+   "t0": 15.438,
+   "t1": 17.036,
    "text": "Sesindeki o *yanık tını,*"
   },
   {
-   "t0": 18.57,
-   "t1": 21.015,
+   "t0": 17.264,
+   "t1": 19.535,
    "text": "yaşadığı her acının izini taşıyordu."
   },
   {
-   "t0": 21.46,
-   "t1": 22.737,
+   "t0": 19.99,
+   "t1": 21.506,
    "text": "*Murat Göğebakan,*"
   },
   {
-   "t0": 23.149,
-   "t1": 26.461,
+   "t0": 21.679,
+   "t1": 24.871,
    "text": "ilk evliliğinin ardından başka bir hayata adım attı."
   },
   {
-   "t0": 27.14,
-   "t1": 28.364,
+   "t0": 26.351,
+   "t1": 27.641,
    "text": "Yeniden sevdi,"
   },
   {
-   "t0": 28.803,
-   "t1": 30.146,
+   "t0": 27.801,
+   "t1": 28.945,
    "text": "yeniden inandı."
   },
   {
-   "t0": 30.912,
-   "t1": 33.851,
+   "t0": 30.522,
+   "t1": 33.115,
    "text": "Şarkılarında anlattığı o *büyük aşkı,*"
   },
   {
-   "t0": 34.25,
-   "t1": 36.99,
+   "t0": 33.395,
+   "t1": 36.068,
    "text": "bu kez kendi hayatında yaşayacağını sandı."
   },
   {
-   "t0": 37.94,
-   "t1": 38.839999999999996,
+   "t0": 37.01,
+   "t1": 38.057,
    "text": "Ama hayat,"
   },
   {
-   "t0": 39.188,
-   "t1": 41.459,
+   "t0": 38.285,
+   "t1": 40.435,
    "text": "ona en ağır sınavını hazırlıyordu:"
   },
   {
-   "t0": 42.038,
-   "t1": 43.61,
+   "t0": 40.826,
+   "t1": 42.33,
    "text": "amansız bir *kanser.*"
   },
   {
-   "t0": 44.58,
-   "t1": 47.777,
+   "t0": 44.07,
+   "t1": 47.268,
    "text": "Hastane odalarında geçen uzun günler başladı."
   },
   {
-   "t0": 48.524,
-   "t1": 50.566,
+   "t0": 48.794,
+   "t1": 51.145,
    "text": "Basına yansıyan iddialara göre,"
   },
   {
-   "t0": 50.875,
-   "t1": 53.562,
+   "t0": 51.387,
+   "t1": 53.765,
    "text": "hastanede geçirdiği *208 günün*"
   },
   {
-   "t0": 53.615,
-   "t1": 55.563,
+   "t0": 53.805,
+   "t1": 55.255,
    "text": "yalnızca *3 gününde*"
   },
   {
-   "t0": 55.616,
-   "t1": 57.336,
+   "t0": 55.295,
+   "t1": 56.772,
    "text": "ikinci eşi yanındaydı."
   },
   {
-   "t0": 57.79,
-   "t1": 61.415,
+   "t0": 57.23,
+   "t1": 60.909,
    "text": "Sahnelerde binlerce kişiye şarkı söyleyen o adam,"
   },
   {
-   "t0": 61.944,
-   "t1": 63.341,
+   "t0": 61.249,
+   "t1": 62.55,
    "text": "hastane odasında,"
   },
   {
-   "t0": 63.757,
-   "t1": 64.814,
+   "t0": 62.816,
+   "t1": 63.832,
    "text": "*yapayalnızdı.*"
   },
   {
-   "t0": 65.96,
-   "t1": 68.077,
+   "t0": 64.98,
+   "t1": 67.341,
    "text": "Hastalık yeniden geldiğinde ise,"
   },
   {
-   "t0": 68.643,
-   "t1": 70.216,
+   "t0": 67.839,
+   "t1": 69.385,
    "text": "onu yalnız bırakmayan,"
   },
   {
-   "t0": 70.682,
-   "t1": 73.41,
+   "t0": 69.607,
+   "t1": 71.845,
    "text": "yıllar önce ayrıldığı *ilk eşiydi.*"
   },
   {
-   "t0": 74.398,
-   "t1": 77.289,
+   "t0": 73.653,
+   "t1": 76.517,
    "text": "Bir zamanlar ardında bıraktığı o kadın,"
   },
   {
-   "t0": 77.732,
-   "t1": 79.006,
+   "t0": 76.743,
+   "t1": 77.841,
    "text": "en zor gününde,"
   },
   {
-   "t0": 79.386,
-   "t1": 80.946,
+   "t0": 78.03,
+   "t1": 79.386,
    "text": "elini *hiç bırakmadı.*"
   },
   {
-   "t0": 81.4,
-   "t1": 84.481,
+   "t0": 79.84,
+   "t1": 82.921,
    "text": "İnsan bazen bir kalbin nasıl kırıldığını,"
   },
   {
-   "t0": 84.861,
-   "t1": 86.923,
+   "t0": 83.124,
+   "t1": 84.955,
    "text": "*kendi kalbi kırılınca* anlar."
   },
   {
-   "t0": 87.811,
-   "t1": 90.064,
+   "t0": 86.636,
+   "t1": 88.916,
    "text": "Bazı ayrılıklar *sessizdir…*"
   },
   {
-   "t0": 90.798,
-   "t1": 92.208,
+   "t0": 89.446,
+   "t1": 90.666,
    "text": "Ama bıraktığı iz,"
   },
   {
-   "t0": 92.615,
-   "t1": 94.188,
+   "t0": 90.882,
+   "t1": 92.252,
    "text": "bir ömür *silinmez.*"
   },
   {
-   "t0": 95.33,
-   "t1": 97.569,
+   "t0": 93.4,
+   "t1": 95.815,
    "text": "*31 Temmuz 2014'te,*"
   },
   {
-   "t0": 97.981,
-   "t1": 99.839,
+   "t0": 96.159,
+   "t1": 98.058,
    "text": "henüz *45 yaşındayken,*"
   },
   {
-   "t0": 100.373,
-   "t1": 103.046,
+   "t0": 98.389,
+   "t1": 100.804,
    "text": "Murat Göğebakan hayata gözlerini yumdu."
   },
   {
-   "t0": 103.921,
-   "t1": 104.82100000000001,
+   "t0": 102.553,
+   "t1": 103.453,
    "text": "Geriye,"
   },
   {
-   "t0": 105.014,
-   "t1": 106.627,
+   "t0": 103.618,
+   "t1": 105.218,
    "text": "yarım kalmış şarkılar,"
   },
   {
-   "t0": 107.034,
-   "t1": 109.721,
+   "t0": 105.516,
+   "t1": 108.081,
    "text": "ve yarım kalmış bir *aşk hikâyesi* kaldı."
   },
   {
-   "t0": 112.416,
-   "t1": 113.593,
+   "t0": 110.67,
+   "t1": 111.888,
    "text": "Bazen insan,"
   },
   {
-   "t0": 113.926,
-   "t1": 116.716,
+   "t0": 112.029,
+   "t1": 114.709,
    "text": "başkasına yaşattığı acının ne demek olduğunu"
   },
   {
-   "t0": 116.746,
-   "t1": 118.17,
+   "t0": 114.739,
+   "t1": 116.08,
    "text": "*yıllar sonra* anlar."
   }
  ],
  "titles": [
   {
-   "t0": 111.36,
+   "t0": 109.71000000000001,
    "t1": 122.0,
    "text": "HAYAT İŞTE… 🥀",
    "font": "PlayfairDisplay_700Bold.ttf",
@@ -250,7 +250,7 @@
    "anim": "slowgrow"
   },
   {
-   "t0": 114.06,
+   "t0": 112.41000000000001,
    "t1": 122.0,
    "text": "YAŞATTIĞINI YAŞAMADAN|ANLAMIYOR İNSAN…",
    "font": "Cinzel_700Bold.ttf",
@@ -262,7 +262,7 @@
    "track": 2
   },
   {
-   "t0": 115.66,
+   "t0": 114.01,
    "t1": 122.0,
    "text": "Murat Göğebakan (1968–2014)",
    "font": "PlayfairDisplay_400Regular_Italic.ttf",
@@ -277,7 +277,7 @@
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
    "t0": 0,
-   "t1": 7.01,
+   "t1": 6.5,
    "xout": 0.6,
    "c0": [
     0.5,
@@ -293,8 +293,8 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 6.41,
-   "t1": 13.92,
+   "t0": 5.91,
+   "t1": 12.91,
    "xin": 0.6,
    "xout": 0.6,
    "c0": [
@@ -310,8 +310,8 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 13.22,
-   "t1": 21.54,
+   "t0": 12.21,
+   "t1": 20.07,
    "xin": 0.6,
    "xout": 0.6,
    "c0": [
@@ -327,8 +327,8 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 20.84,
-   "t1": 29.73,
+   "t0": 19.37,
+   "t1": 28.53,
    "xin": 0.6,
    "xout": 0.6,
    "c0": [
@@ -344,8 +344,8 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 29.13,
-   "t1": 38.02,
+   "t0": 27.93,
+   "t1": 37.09,
    "xin": 0.6,
    "xout": 0.6,
    "c0": [
@@ -361,8 +361,8 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 37.32,
-   "t1": 44.57,
+   "t0": 36.39,
+   "t1": 43.76,
    "xin": 0.6,
    "xout": 0.6,
    "mode": "fit",
@@ -375,8 +375,8 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 43.97,
-   "t1": 51.22,
+   "t0": 43.16,
+   "t1": 50.54,
    "xin": 0.6,
    "xout": 0.6,
    "c0": [
@@ -393,8 +393,8 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 50.62,
-   "t1": 57.87,
+   "t0": 49.94,
+   "t1": 57.31,
    "xin": 0.6,
    "xout": 0.6,
    "c0": [
@@ -410,8 +410,8 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 57.17,
-   "t1": 66.04,
+   "t0": 56.61,
+   "t1": 65.06,
    "xin": 0.6,
    "xout": 0.6,
    "mode": "fit",
@@ -424,8 +424,8 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 65.34,
-   "t1": 73.71,
+   "t0": 64.36,
+   "t1": 72.44,
    "xin": 0.6,
    "xout": 0.6,
    "c0": [
@@ -441,8 +441,8 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 73.11,
-   "t1": 81.48,
+   "t0": 71.84,
+   "t1": 79.92,
    "xin": 0.6,
    "xout": 0.6,
    "c0": [
@@ -459,8 +459,8 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 80.78,
-   "t1": 88.39,
+   "t0": 79.22,
+   "t1": 86.65,
    "xin": 0.6,
    "xout": 0.6,
    "c0": [
@@ -477,8 +477,8 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 87.8,
-   "t1": 95.41,
+   "t0": 86.05,
+   "t1": 93.48,
    "xin": 0.6,
    "xout": 0.6,
    "c0": [
@@ -494,8 +494,8 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 94.71,
-   "t1": 100.46,
+   "t0": 92.78,
+   "t1": 98.62,
    "xin": 0.6,
    "xout": 0.6,
    "c0": [
@@ -511,8 +511,8 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 99.86,
-   "t1": 105.61,
+   "t0": 98.02,
+   "t1": 103.87,
    "xin": 0.6,
    "xout": 0.6,
    "c0": [
@@ -528,8 +528,8 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 105.01,
-   "t1": 110.76,
+   "t0": 103.27,
+   "t1": 109.11,
    "xin": 0.6,
    "c0": [
     0.47,
@@ -545,7 +545,7 @@
   },
   {
    "img": "Grave_of_Murat_Göğebakan_(cropped).jpg",
-   "t0": 113.16,
+   "t0": 111.51,
    "t1": 122.0,
    "mode": "fit",
    "z0": 1.0,
@@ -564,11 +564,11 @@
  "rain": [
   [
    0,
-   21.44,
-   37.92,
-   40.92,
-   65.94,
-   110.66,
+   19.97,
+   36.99,
+   39.99,
+   64.96,
+   109.01,
    122.0
   ],
   [
