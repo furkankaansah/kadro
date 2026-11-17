@@ -34,6 +34,14 @@ def sure(yol: Path) -> float:
 async def _edge(metin: str, hedef: Path) -> list[Kelime]:
     import edge_tts
 
+    # Kurumsal ağ/proxy arkasında: sistemin CA dosyası verildiyse onu kullan
+    ca = ayarlar.al("SSL_CERT_FILE")
+    if ca:
+        import ssl
+
+        import edge_tts.communicate as _c
+        _c._SSL_CTX = ssl.create_default_context(cafile=ca)
+
     iletisim = edge_tts.Communicate(metin, ayarlar.SES, rate=ayarlar.SES_HIZI, boundary="WordBoundary")
     kelimeler = []
     with open(hedef, "wb") as f:

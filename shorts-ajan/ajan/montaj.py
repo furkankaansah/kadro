@@ -26,7 +26,9 @@ def _buyuk(metin: str) -> str:
 
 def sahne_videosu(klip: Path | None, sure: float, hedef: Path, i: int) -> None:
     kod = ["-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-pix_fmt", "yuv420p", "-an"]
-    if klip:
+    if klip and klip.suffix.lower() in (".jpg", ".jpeg", ".png", ".webp"):
+        fotograf_videosu(klip, sure, hedef, i, kod)
+    elif klip:
         # hafif kaydırma (Ken Burns benzeri) + okunabilirlik için hafif karartma
         pw, ph = int(G * 1.08) // 2 * 2, int(Y * 1.08) // 2 * 2
         yon = "(iw-ow)*t/{d}" if i % 2 == 0 else "(iw-ow)*(1-t/{d})"
@@ -38,6 +40,30 @@ def sahne_videosu(klip: Path | None, sure: float, hedef: Path, i: int) -> None:
         c0, c1 = RENKLER[i % len(RENKLER)]
         _ff("-f", "lavfi", "-i", f"gradients=s={G}x{Y}:c0={c0}:c1={c1}:x0=0:y0=0:x1={G}:y1={Y}:speed=0.015:rate={FPS}",
             "-t", f"{sure:.3f}", "-vf", "setsar=1", *kod, str(hedef))
+
+
+def fotograf_videosu(foto: Path, sure: float, hedef: Path, i: int, kod: list[str]) -> None:
+    """Fotoğraftan dikey video: bulanık arka plan + ortada yavaşça yakınlaşan (ya da uzaklaşan) fotoğraf."""
+    from PIL import Image
+
+    w, h = Image.open(foto).size
+    kare = max(int(sure * FPS), 1)
+    if h / w >= 1.3:  # zaten dikey: tam ekran
+        fw, fh, oy = G, Y, 0
+    else:
+        fw = G
+        fh = min(int(G * h / w) // 2 * 2, Y)
+        oy = -90  # altyazıya yer kalsın diye biraz yukarıda
+    z = f"1+0.10*on/{kare}" if i % 2 == 0 else f"1.10-0.10*on/{kare}"
+    filtre = (
+        f"[0:v]scale={G}:{Y}:force_original_aspect_ratio=increase,crop={G}:{Y},boxblur=40:4,"
+        f"eq=brightness=-0.22:saturation=1.2,setsar=1[bg];"
+        f"[0:v]scale={fw * 2}:{fh * 2}:force_original_aspect_ratio=increase,crop={fw * 2}:{fh * 2},"
+        f"zoompan=z='{z}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s={fw}x{fh}:fps={FPS},setsar=1[fg];"
+        f"[bg][fg]overlay=x=(W-w)/2:y=(H-h)/2+{oy},fps={FPS},eq=saturation=1.08[v]"
+    )
+    _ff("-loop", "1", "-framerate", str(FPS), "-i", str(foto), "-filter_complex", filtre,
+        "-map", "[v]", "-frames:v", str(kare), *kod, str(hedef))
 
 
 # ---------- altyazı (ASS) ----------
@@ -67,14 +93,17 @@ def altyazi_yaz(parcalar: list[Parca], vurgular: list[str], hedef: Path) -> None
     tum = [k for p in parcalar for k in p.kelimeler]
 
     # 1-3 kelimelik gruplar; noktalama işaretinde grup biter
-    gruplar, grup = [], []
-    for k in tum:
-        grup.append(k)
-        if len(grup) == 3 or k.metin[-1:] in ".,!?;:" or sum(len(x.metin) for x in grup) > 16:
+    # her cümle/sahne kendi içinde gruplanır; bir grup asla iki sahneye taşmaz
+    gruplar = []
+    for p in parcalar:
+        grup = []
+        for k in p.kelimeler:
+            grup.append(k)
+            if len(grup) == 3 or k.metin[-1:] in ".,!?;:" or sum(len(x.metin) for x in grup) > 16:
+                gruplar.append(grup)
+                grup = []
+        if grup:
             gruplar.append(grup)
-            grup = []
-    if grup:
-        gruplar.append(grup)
 
     for gi, grp in enumerate(gruplar):
         sonraki = gruplar[gi + 1][0].bas if gi + 1 < len(gruplar) else grp[-1].son + 0.4
