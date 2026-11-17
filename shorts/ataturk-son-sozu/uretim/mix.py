@@ -1,12 +1,14 @@
 import numpy as np, wave, json, subprocess
 SR=48000; N=SR*60
-tl=json.load(open("timeline.json"))["vo"]
+import os
+TL=os.environ.get("TL","timeline.json"); P=os.environ.get("VODIR","vo2"); MUS=os.environ.get("MUSIC","music.wav"); OUTW=os.environ.get("MIXOUT","work/mix_pre.wav")
+tl=json.load(open(TL))["vo"]
 def rd(p):
     w=wave.open(p); a=np.frombuffer(w.readframes(w.getnframes()),'<i2').astype(np.float32)/32768
     return a.reshape(-1,w.getnchannels()) if w.getnchannels()>1 else a
 vo=np.zeros(N,np.float32)
 for k,t in tl.items():
-    a=rd(f"vo2/{k}.wav")
+    a=rd(f"{P}/{k}.wav")
     g=1.0
     i=int(t*SR); vo[i:i+len(a)]+=a[:N-i]*g
 # gentle warmth: low-shelf-ish via adding lowpassed copy, light compression
@@ -28,13 +30,13 @@ vo=vo+0.06*fftconvolve(vo,ir)[:N].astype(np.float32)
 env=np.sqrt(fftconvolve(vo**2,np.ones(int(0.02*SR))/int(0.02*SR),'same').clip(1e-10))
 db=20*np.log10(env+1e-9); over=np.maximum(0,db+20); gr=10**(-(over*(1-1/3))/20)
 vo=vo*gr; vo/=np.abs(vo).max()+1e-9; vo*=0.89
-# real 1933 recording of Atatürk (10th anniversary speech), level-matched to narration
-cfg_all=json.load(open("timeline.json"))
-ar=rd("vo2/ataturk_1933.wav"); vr=np.sqrt((vo[np.abs(vo)>0.02]**2).mean()); ar=ar*(vr/np.sqrt((ar[np.abs(ar)>0.02]**2).mean()))*0.95
-i=int(cfg_all["ata"]*SR); vo[i:i+len(ar)]+=ar[:N-i]
-vo/=max(1.0,np.abs(vo).max()/0.95)
+cfg_all=json.load(open(TL))
+if cfg_all.get("ata"):
+    ar=rd("vo2/ataturk_1933.wav"); vr=np.sqrt((vo[np.abs(vo)>0.02]**2).mean()); ar=ar*(vr/np.sqrt((ar[np.abs(ar)>0.02]**2).mean()))*0.95
+    i=int(cfg_all["ata"]*SR); vo[i:i+len(ar)]+=ar[:N-i]
+    vo/=max(1.0,np.abs(vo).max()/0.95)
 # music + ducking
-mus=rd("music.wav")
+mus=rd(MUS)
 venv=np.sqrt(fftconvolve(vo**2,np.ones(int(0.05*SR))/int(0.05*SR),'same').clip(0))
 act=(venv>0.02).astype(np.float32)
 # smooth attack 80ms / release 600ms
@@ -45,13 +47,13 @@ mus_gain=10**((-12.5 - 7*duck_amt)/20)   # -17 dB bed, -23 dB under voice
 mus=mus*mus_gain[:,None]
 # clock ticks 7.0-18.6s (quiet), and a soft low impact at 38.45 (before the word)
 tick=np.zeros(N,np.float32)
-for k,tt in enumerate(np.arange(7.2,20.3,1.0)):
+for k,tt in enumerate(np.arange(*cfg_all.get("ticks",[0,0,1]))):
     i=int(tt*SR); m=int(0.03*SR); tt_=np.arange(m)/SR
     s=(np.sin(2*np.pi*3100*tt_)*0.6+np.sin(2*np.pi*1700*tt_)*0.4)*np.exp(-tt_*180)
     tick[i:i+m]+=s*(0.06 if k%2==0 else 0.045)
 st=np.stack([vo,vo],1)*1.0+mus
 st[:,0]+=tick*0.9; st[:,1]+=tick*1.1
 st/=max(1.0,np.abs(st).max()/0.95)
-with wave.open("work/mix_pre.wav","wb") as w:
+with wave.open(OUTW,"wb") as w:
     w.setnchannels(2);w.setsampwidth(2);w.setframerate(SR);w.writeframes((st*32767).astype('<i2').tobytes())
 print("mixed")
