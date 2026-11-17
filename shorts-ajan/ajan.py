@@ -128,12 +128,18 @@ def uret(plan: beyin.ShortPlani, klasor: Path) -> Path:
     vurgular = [""] + [s.vurgu for s in plan.sahneler] + [""]
 
     print("  🎙  Seslendiriliyor…")
-    ses_dosyasi, parcalar = ses.seslendir(metinler, gecici)
+    # tonlama: kanca enerjik, kapanış sakin; kancadan sonra ve kapanıştan önce kısa dramatik durak
+    tonlar = ([ses.Ton(hiz="+14%", perde="+2Hz", sonra_bosluk=0.30)]
+              + [ses.Ton(sonra_bosluk=0.16) for _ in plan.sahneler[:-1]]
+              + [ses.Ton(sonra_bosluk=0.32)]
+              + [ses.Ton(hiz="+2%", perde="-2Hz", sonra_bosluk=0.12)])
+    telaffuz = ses.Telaffuz.yukle(plan.telaffuz)
+    ses_dosyasi, parcalar = ses.seslendir(metinler, gecici, tonlar, telaffuz)
 
     print("  🎬 Görüntüler bulunuyor ve kesiliyor…")
     kullanilan, sahne_dosyalari, kaynaklar = set(), [], []
     for i, (p, sorgu) in enumerate(zip(parcalar, sorgular)):
-        sure = p.son - p.bas + ses.BOSLUK + (0.3 if i == len(parcalar) - 1 else 0)
+        sure = p.sonraki - p.bas + (0.3 if i == len(parcalar) - 1 else 0)
         bulunan = gorsel.klip_bul(sorgu, sure, kullanilan)
         klip = bulunan[0] if bulunan else None
         if bulunan:
@@ -147,7 +153,8 @@ def uret(plan: beyin.ShortPlani, klasor: Path) -> Path:
     ass = gecici / "altyazi.ass"
     montaj.altyazi_yaz(parcalar, vurgular, ass)
     video = klasor / "video.mp4"
-    toplam = montaj.birlestir(sahne_dosyalari, ses_dosyasi, ass, gecici, video)
+    kesimler = [p.bas for p in parcalar[1:]]
+    toplam = montaj.birlestir(sahne_dosyalari, ses_dosyasi, ass, gecici, video, kesimler)
     montaj.kapak(gecici / "ham.mp4", plan.kapak_yazisi, klasor / "kapak.jpg")
 
     (klasor / "YUKLEME.md").write_text(yukleme_notu(plan, toplam, kaynaklar), encoding="utf-8")

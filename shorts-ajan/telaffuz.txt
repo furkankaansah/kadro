@@ -1,0 +1,18 @@
+# Seslendirme telaffuz sözlüğü:  Yazılış=Okunuş
+# Altyazıda solda yazan görünür, ses sağdakini okur. Ekler korunur (Voyager'ın -> Voyacır'ın).
+Voyager=Voyacır
+NASA=Nasa
+SpaceX=Speys Eks
+iPhone=Ayfon
+YouTube=Yutub
+Google=Gugıl
+ChatGPT=Çet Ci Pi Ti
+OpenAI=Opın Ey Ay
+Apple=Epıl
+Microsoft=Maykrosoft
+Instagram=İnstagram
+TikTok=Tik Tok
+Netflix=Netfliks
+Webb=Veb
+Hubble=Habıl
+Starship=Starşip

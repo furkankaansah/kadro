@@ -5,7 +5,7 @@ import subprocess
 from pathlib import Path
 
 from . import ayarlar
-from .ses import BOSLUK, Parca
+from .ses import Parca
 
 G, Y, FPS = ayarlar.GENISLIK, ayarlar.YUKSEKLIK, ayarlar.FPS
 RENKLER = [("0x0f2027", "0x2c5364"), ("0x41295a", "0x2F0743"), ("0x000428", "0x004e92"),
@@ -123,7 +123,7 @@ def altyazi_yaz(parcalar: list[Parca], vurgular: list[str], hedef: Path) -> None
     for p, v in zip(parcalar, vurgular):
         if v.strip():
             satirlar.append(
-                f"Dialogue: 1,{_ts(p.bas)},{_ts(p.son + BOSLUK)},Vurgu,,0,0,0,,"
+                f"Dialogue: 1,{_ts(p.bas)},{_ts(p.sonraki)},Vurgu,,0,0,0,,"
                 r"{\fad(120,120)\t(0,180,\fscx115\fscy115)\t(180,320,\fscx100\fscy100)}" + _temiz(_buyuk(v)))
     imza = ayarlar.KANAL_KULLANICI or ayarlar.KANAL_ADI
     if imza and tum:
@@ -133,7 +133,39 @@ def altyazi_yaz(parcalar: list[Parca], vurgular: list[str], hedef: Path) -> None
 
 # ---------- son montaj ----------
 
-def birlestir(sahneler: list[Path], ses: Path, ass: Path, klasor: Path, hedef: Path) -> float:
+# Yapay zekâ sesini "stüdyo kaydı" gibi yapan zincir: gürültü/uğultu kesme, çamur azaltma,
+# netlik (presence) artırma, hafif sıkıştırma ve çok hafif oda yansıması.
+VOKAL = ("highpass=f=75,equalizer=f=220:t=q:w=1:g=-2.5,equalizer=f=3200:t=q:w=1.2:g=2.5,"
+         "equalizer=f=9500:t=q:w=1:g=1.5,"
+         "acompressor=threshold=0.125:ratio=3:attack=5:release=150:makeup=1.5,"
+         "aecho=0.9:0.5:22|37:0.10|0.06")
+
+
+def ambiyans(klasor: Path, sure: float) -> Path:
+    """Müzik klasörü boşsa: telifsiz, yavaş nefes alan sentetik bir 'pad' (La minör) üretir."""
+    ifade = ("0.06*sin(2*PI*110*t)*(0.7+0.3*sin(2*PI*0.07*t))"
+             "+0.045*sin(2*PI*164.81*t)*(0.7+0.3*sin(2*PI*0.11*t+1))"
+             "+0.035*sin(2*PI*220*t)*(0.6+0.4*sin(2*PI*0.05*t+2))"
+             "+0.025*sin(2*PI*261.63*t)*(0.5+0.5*sin(2*PI*0.09*t+3))"
+             "+0.015*sin(2*PI*329.63*t)*(0.5+0.5*sin(2*PI*0.13*t))")
+    hedef = klasor / "ambiyans.wav"
+    _ff("-f", "lavfi", "-i", f"aevalsrc={ifade}:s=48000:d={sure + 1:.2f}",
+        "-af", f"lowpass=f=1800,aecho=0.8:0.85:300|600|900:0.35|0.25|0.15,"
+               f"afade=t=in:d=1.5,afade=t=out:st={max(sure - 1.2, 0):.2f}:d=1.5", str(hedef))
+    return hedef
+
+
+def whoosh(klasor: Path) -> Path:
+    """Sahne geçişleri için kısa, yumuşak 'hışırtı' efekti."""
+    hedef = klasor / "whoosh.wav"
+    _ff("-f", "lavfi", "-i", "anoisesrc=d=0.7:c=pink:r=48000:a=0.5",
+        "-af", "highpass=f=500,lowpass=f=5000,afade=t=in:d=0.45:curve=exp,afade=t=out:st=0.45:d=0.25",
+        str(hedef))
+    return hedef
+
+
+def birlestir(sahneler: list[Path], ses: Path, ass: Path, klasor: Path, hedef: Path,
+              kesimler: list[float] | None = None) -> float:
     liste = klasor / "sahneler.txt"
     liste.write_text("".join(f"file '{s.name}'\n" for s in sahneler), encoding="utf-8")
     ham = klasor / "ham.mp4"
@@ -146,15 +178,35 @@ def birlestir(sahneler: list[Path], ses: Path, ass: Path, klasor: Path, hedef: P
     girdiler = ["-i", ham.name, "-i", str(ses.resolve())]
     v = (f"[0:v]ass={ass.name}[s];color=c=0xFFD400:s={G}x12:r={FPS}:d={toplam:.3f}[bar];"
          f"[s][bar]overlay=x='-w+w*t/{toplam:.3f}':y=0:shortest=1[v]")
+
+    a = [f"[1:a]aresample=48000,{VOKAL},asplit=2[ses][yan]"]
+    karisim = ["[ses]"]
+    # arka plan: senin müziğin ya da sentetik ambiyans (konuşurken otomatik kısılır)
     if muzikler:
         girdiler += ["-stream_loop", "-1", "-i", str(random.choice(muzikler).resolve())]
-        a = ("[1:a]aresample=48000,asplit=2[ses][yan];"
-             "[2:a]aresample=48000,volume=0.22[m];"
-             "[m][yan]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=400[md];"
-             "[ses][md]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=11[a]")
+        a.append("[2:a]aresample=48000,volume=0.22[m]")
+    elif ayarlar.al("AMBIYANS", "evet").lower() not in ("hayir", "hayır", "0", "no"):
+        girdiler += ["-i", str(ambiyans(klasor, toplam).resolve())]
+        a.append("[2:a]aresample=48000,volume=0.55[m]")
+    if girdiler.count("-i") > 2:
+        a.append("[m][yan]sidechaincompress=threshold=0.03:ratio=6:attack=20:release=500[md]")
+        karisim.append("[md]")
     else:
-        a = "[1:a]aresample=48000,loudnorm=I=-14:TP=-1.5:LRA=11[a]"
-    _ff(*girdiler, "-filter_complex", f"{v};{a}", "-map", "[v]", "-map", "[a]",
+        a.append("[yan]anullsink")
+    # sahne geçişlerinde whoosh
+    kesimler = [k for k in (kesimler or []) if 0.5 < k < toplam - 0.3]
+    if kesimler:
+        wi = girdiler.count("-i")
+        girdiler += ["-i", str(whoosh(klasor).resolve())]
+        a.append(f"[{wi}:a]aresample=48000,volume=0.22,asplit={len(kesimler)}" +
+                 "".join(f"[w{j}]" for j in range(len(kesimler))))
+        for j, k in enumerate(kesimler):
+            ms = max(int((k - 0.45) * 1000), 0)
+            a.append(f"[w{j}]adelay={ms}|{ms}[wd{j}]")
+            karisim.append(f"[wd{j}]")
+    a.append("".join(karisim) + f"amix=inputs={len(karisim)}:duration=first:normalize=0,"
+             "loudnorm=I=-14:TP=-1.5:LRA=11,aformat=channel_layouts=stereo[a]")
+    _ff(*girdiler, "-filter_complex", f"{v};" + ";".join(a), "-map", "[v]", "-map", "[a]",
         "-t", f"{toplam:.3f}", "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-maxrate", "12M", "-bufsize", "24M", "-profile:v", "high",
         "-pix_fmt", "yuv420p", "-r", str(FPS), "-c:a", "aac", "-b:a", "192k", "-ar", "48000",
         "-movflags", "+faststart", str(hedef.resolve()), cwd=klasor)

@@ -34,6 +34,11 @@ class ShortPlani(BaseModel):
     kaynaklar: list[str] = Field(description="Source URLs backing every factual claim.")
     dogruluk_notu: str = Field(description="Which claims the creator should double-check before posting, or 'none'.")
     en_iyi_yayin_saati: str = Field(description="Suggested local posting time window with one-line reason.")
+    telaffuz: list[str] = Field(
+        default_factory=list,
+        description="Pronunciation fixes for the text-to-speech voice, one per item as 'Written=Spoken', "
+        "spelling foreign names the way a native speaker of the video language says them "
+        "(Turkish examples: 'Voyager=Voyacır', 'iPhone=Ayfon', 'SpaceX=Speys Eks'). Only for words the voice would misread.")
 
 
 def _istemci() -> anthropic.Anthropic:
@@ -119,6 +124,8 @@ Write in {dil}. Rules:
 - Every factual claim must come from the research notes. Do not invent numbers.
 - The closing line should loop naturally back into the hook so the video rewatches.
 - Write numbers the way they are spoken (the voice is text-to-speech).
+- Use punctuation to direct the voice: commas for short breaths, a period before a reveal, a question mark for real questions. Vary sentence length; put the key word at the end of the sentence.
+- List every foreign/brand name the Turkish voice could misread in 'telaffuz'.
 - Title: curious, honest, under 70 characters, in {dil}."""
 
 
