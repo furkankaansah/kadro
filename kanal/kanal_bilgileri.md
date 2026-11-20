@@ -10,7 +10,7 @@
 
 ## Kanal açıklaması (YouTube → Kanalı özelleştir → Temel bilgiler → Açıklama)
 
-Futbol, UFC, tarih, mizah ve yapay zekâ… Her şeyin en iyi anı burada! ✂️
+Her şeyden en iyi kesitler burada! ✂️
 🔔 Abone ol, hiçbir kesiti kaçırma.
 
 ---
