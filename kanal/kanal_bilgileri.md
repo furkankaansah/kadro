@@ -10,19 +10,8 @@
 
 ## Kanal açıklaması (YouTube → Kanalı özelleştir → Temel bilgiler → Açıklama)
 
-Kesitçi'ye hoş geldin! ✂️🎬
-
-Burada her şeyin en iyi anı var: futbolun en çılgın çalımları, UFC'nin efsane atışmaları, tarihin akıl almaz hikâyeleri, kahkaha attıran skeçler ve yapay zekâ ile üretilmiş videolar. Uzun videoları senin yerine izliyoruz, en iyi kısmı saniyeler içinde önüne koyuyoruz.
-
-⚽ Futbol edit'leri ve skill videoları
-🥊 UFC ve dövüş dünyasından efsane anlar
-📜 Tarih kesitleri: Osmanlı'dan dünya tarihine
-😂 Komik skeçler ve mizah
-🤖 Yapay zekâ videoları
-
-🔔 Her gün yeni kesit! Abone ol, bildirimleri aç, hiçbir kesiti kaçırma.
-
-📩 İş birliği ve öneriler için: [e-posta adresin]
+Futbol, UFC, tarih, mizah ve yapay zekâ… Her şeyin en iyi anı burada! ✂️
+🔔 Abone ol, hiçbir kesiti kaçırma.
 
 ---
 
